@@ -1,0 +1,162 @@
+query,query_type,drug,organ_filter,ground_truth,num_results
+List perindopril's effects on the gastrointestinal system,organ_specific,perindopril,gastrointestinal,"['abdominal pain', 'abdominal pain', 'constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting', 'abdominal pain upper', 'abdominal pain', 'abdominal pain', 'abdominal pain', 'constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting', 'abdominal pain', 'abdominal pain', 'constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting']",26
+Show psychiatric toxicity of perindopril,organ_specific,perindopril,psychiatric,"['anxiety', 'anxiety', 'hallucination', 'hallucination', 'insomnia', 'insomnia', 'anxiety', 'anxiety']",8
+Show cardiac toxicity of perindopril,organ_specific,perindopril,cardiac,"['arrhythmia', 'arrhythmia', 'cardiac arrest', 'cardiac arrest', 'cardiac murmur', 'cardiac murmur', 'bradycardia', 'bradycardia', 'arrhythmia', 'arrhythmia', 'cardiac disorder', 'cardiac disorder', 'myocardial infarction', 'myocardial infarction', 'tachycardia', 'tachycardia', 'cardiac murmur', 'cardiac murmur']",18
+Show neurological toxicity of perindopril,organ_specific,perindopril,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'dizziness', 'tremor', 'tremor', 'dizziness', 'dizziness', 'headache', 'headache', 'dizziness', 'dizziness', 'dizziness', 'headache', 'headache', 'dizziness']",17
+List perindopril's effects on the hepatic system,organ_specific,perindopril,hepatic,"['jaundice', 'jaundice', 'hepatic failure', 'hepatic failure']",4
+Show renal toxicity of perindopril,organ_specific,perindopril,renal,"['calculus of kidney', 'renal failure acute', 'renal failure acute', 'oliguria', 'oliguria', 'renal failure', 'renal failure', 'serum creatinine increased', 'blood creatinine increased', 'renal impairment', 'renal impairment', 'renal failure', 'renal failure acute', 'renal failure acute', 'renal impairment', 'renal impairment', 'renal failure', 'calculus of kidney', 'serum creatinine increased', 'blood creatinine increased']",20
+What hematological side effects does perindopril cause?,organ_specific,perindopril,hematological,"['neutropenia', 'neutropenia', 'thrombocytopenia', 'thrombocytopenia', 'neutropenia', 'neutropenia', 'thrombocytopenia', 'thrombocytopenia', 'neutropenia', 'neutropenia']",10
+What gastrointestinal side effects does cefotaxime cause?,organ_specific,cefotaxime,gastrointestinal,"['abdominal pain', 'abdominal pain', 'nausea', 'nausea', 'vomiting', 'vomiting', 'nausea', 'nausea', 'vomiting', 'vomiting']",10
+List cefotaxime's effects on the cardiac system,organ_specific,cefotaxime,cardiac,"['arrhythmia', 'arrhythmia', 'arrhythmia', 'arrhythmia']",4
+Show neurological toxicity of cefotaxime,organ_specific,cefotaxime,neurological,"['headache', 'headache', 'headache', 'headache']",4
+List cefotaxime's effects on the hepatic system,organ_specific,cefotaxime,hepatic,"['jaundice', 'jaundice', 'hepatic function abnormal', 'hepatic function abnormal', 'liver injury', 'liver injury', 'traumatic liver injury', 'hepatic function abnormal', 'hepatic function abnormal']",9
+List cefotaxime's effects on the hematological system,organ_specific,cefotaxime,hematological,"['neutropenia', 'neutropenia', 'thrombocytopenia', 'thrombocytopenia', 'neutropenia', 'neutropenia', 'thrombocytopenia', 'thrombocytopenia']",8
+What renal side effects does cefotaxime cause?,organ_specific,cefotaxime,renal,"['function kidney decreased', 'renal impairment', 'renal impairment', 'renal impairment', 'renal failure']",5
+List bepridil's effects on the gastrointestinal system,organ_specific,bepridil,gastrointestinal,"['abdominal pain', 'abdominal pain', 'constipation', 'constipation', 'nausea', 'nausea', 'abdominal discomfort']",7
+Show psychiatric toxicity of bepridil,organ_specific,bepridil,psychiatric,"['anxiety', 'anxiety', 'depression', 'depression', 'insomnia', 'insomnia']",6
+What cardiac side effects does bepridil cause?,organ_specific,bepridil,cardiac,"['arrhythmia', 'arrhythmia', 'cardiac disorder', 'cardiac disorder', 'cardiac failure', 'cardiac failure', 'sinus tachycardia', 'sinus tachycardia', 'ventricular tachycardia', 'ventricular tachycardia', 'sinus bradycardia', 'sinus bradycardia', 'ventricular arrhythmia', 'ventricular arrhythmia', 'acute myocardial infarction', 'acute myocardial infarction', 'bradycardia', 'bradycardia']",18
+List bepridil's effects on the neurological system,organ_specific,bepridil,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'dizziness', 'tremor', 'tremor']",7
+What hepatic side effects does bepridil cause?,organ_specific,bepridil,hepatic,"['liver function test abnormal', 'liver function test abnormal']",2
+What gastrointestinal side effects does timolol cause?,organ_specific,timolol,gastrointestinal,"['abdominal pain', 'abdominal pain', 'nausea', 'nausea', 'vomiting', 'vomiting']",6
+List timolol's effects on the psychiatric system,organ_specific,timolol,psychiatric,"['anxiety', 'anxiety', 'depression', 'depression', 'hallucination', 'hallucination', 'insomnia', 'insomnia']",8
+What cardiac side effects does timolol cause?,organ_specific,timolol,cardiac,"['arrhythmia', 'arrhythmia', 'cardiac arrest', 'cardiac arrest', 'cardiac disorder', 'cardiac disorder', 'cardiac failure', 'cardiac failure', 'cardiac failure congestive', 'cardiac failure congestive', 'cardiac failure acute', 'cardiac failure acute', 'bradycardia', 'bradycardia']",14
+Show neurological toxicity of timolol,organ_specific,timolol,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'dizziness']",5
+What hepatic side effects does timolol cause?,organ_specific,timolol,hepatic,"['raised liver function tests', 'liver function test abnormal']",2
+List brimonidine's effects on the psychiatric system,organ_specific,brimonidine,psychiatric,"['anxiety', 'anxiety', 'depression', 'depression', 'respiratory depression', 'respiratory depression', 'insomnia', 'insomnia']",8
+List brimonidine's effects on the cardiac system,organ_specific,brimonidine,cardiac,"['arrhythmia', 'arrhythmia', 'cardiac disorder', 'cardiac disorder', 'tachycardia', 'tachycardia', 'bradycardia', 'bradycardia']",8
+What neurological side effects does brimonidine cause?,organ_specific,brimonidine,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'dizziness']",5
+What gastrointestinal side effects does brimonidine cause?,organ_specific,brimonidine,gastrointestinal,"['nausea', 'nausea']",2
+What neurological side effects does dyphylline cause?,organ_specific,dyphylline,neurological,"['headache', 'headache']",2
+Show gastrointestinal toxicity of dyphylline,organ_specific,dyphylline,gastrointestinal,"['nausea', 'nausea', 'vomiting', 'vomiting', 'abdominal pain upper']",5
+List dyphylline's effects on the cardiac system,organ_specific,dyphylline,cardiac,"['tachycardia', 'tachycardia', 'ventricular arrhythmia', 'ventricular arrhythmia']",4
+Show psychiatric toxicity of dyphylline,organ_specific,dyphylline,psychiatric,"['insomnia', 'insomnia']",2
+What gastrointestinal side effects does estrofem cause?,organ_specific,estrofem,gastrointestinal,"['abdominal pain', 'abdominal pain', 'nausea', 'nausea', 'vomiting', 'vomiting', 'abdominal bloating', 'abdominal distension']",8
+What psychiatric side effects does estrofem cause?,organ_specific,estrofem,psychiatric,"['depression', 'depression', 'insomnia', 'insomnia']",4
+What neurological side effects does estrofem cause?,organ_specific,estrofem,neurological,"['dizziness', 'dizziness', 'headache', 'headache']",4
+What cardiac side effects does estrofem cause?,organ_specific,estrofem,cardiac,"['cardiac failure congestive', 'cardiac failure congestive', 'myocardial infarction', 'myocardial infarction']",4
+What gastrointestinal side effects does desloratadine cause?,organ_specific,desloratadine,gastrointestinal,"['abdominal pain', 'abdominal pain', 'nausea', 'nausea', 'vomiting', 'vomiting']",6
+List desloratadine's effects on the neurological system,organ_specific,desloratadine,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'autonomic neuropathy']",5
+What psychiatric side effects does desloratadine cause?,organ_specific,desloratadine,psychiatric,"['hallucination', 'hallucination', 'insomnia', 'insomnia']",4
+List desloratadine's effects on the cardiac system,organ_specific,desloratadine,cardiac,"['cardiac disorder', 'cardiac disorder', 'tachycardia', 'tachycardia']",4
+Show hepatic toxicity of desloratadine,organ_specific,desloratadine,hepatic,"['hepatic enzyme increased', 'hepatic enzyme increased']",2
+List minocycline's effects on the gastrointestinal system,organ_specific,minocycline,gastrointestinal,"['abdominal pain', 'abdominal pain', 'constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting']",8
+List minocycline's effects on the neurological system,organ_specific,minocycline,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'dizziness', 'dizziness']",6
+Show hepatic toxicity of minocycline,organ_specific,minocycline,hepatic,"['jaundice', 'jaundice', 'hepatic failure', 'hepatic failure', 'acute hepatic failure', 'acute hepatic failure', 'acute fatty liver', 'hepatic steatosis']",8
+List minocycline's effects on the renal system,organ_specific,minocycline,renal,"['renal failure acute', 'renal failure acute', 'renal failure', 'renal failure', 'nephrotoxicity']",5
+What hematological side effects does minocycline cause?,organ_specific,minocycline,hematological,"['neutropenia', 'neutropenia', 'thrombocytopenia', 'thrombocytopenia']",4
+What gastrointestinal side effects does sulfasalazine cause?,organ_specific,sulfasalazine,gastrointestinal,"['abdominal pain', 'abdominal pain', 'nausea', 'nausea', 'vomiting', 'vomiting', 'abdominal pain', 'abdominal pain', 'nausea', 'nausea', 'vomiting', 'vomiting']",12
+Show psychiatric toxicity of sulfasalazine,organ_specific,sulfasalazine,psychiatric,"['depression', 'depression', 'hallucination', 'hallucination', 'bone marrow depression', 'insomnia', 'insomnia', 'depression', 'depression', 'hallucination', 'hallucination', 'bone marrow depression', 'insomnia', 'insomnia']",14
+List sulfasalazine's effects on the neurological system,organ_specific,sulfasalazine,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'neuropathy peripheral', 'neuropathy peripheral', 'neuropathy peripheral', 'dizziness', 'dizziness', 'headache', 'headache', 'neuropathy peripheral', 'neuropathy peripheral', 'neuropathy peripheral']",14
+List sulfasalazine's effects on the cardiac system,organ_specific,sulfasalazine,cardiac,"['cardiac disorder', 'cardiac disorder', 'cardiac disorder', 'cardiac disorder']",4
+List sulfasalazine's effects on the hepatic system,organ_specific,sulfasalazine,hepatic,"['jaundice', 'jaundice', 'jaundice cholestatic', 'jaundice cholestatic', 'hepatic failure', 'hepatic failure', 'liver injury', 'liver function test abnormal', 'liver function test abnormal', 'hepatic necrosis', 'hepatic necrosis', 'hepatotoxicity', 'hepatotoxicity', 'raised liver function tests', 'liver function test abnormal', 'jaundice', 'jaundice', 'hepatic failure', 'hepatic failure']",19
+List sulfasalazine's effects on the hematological system,organ_specific,sulfasalazine,hematological,"['neutropenia', 'neutropenia', 'thrombocytopenia', 'thrombocytopenia', 'thrombocytopenia', 'thrombocytopenia']",6
+List sulfasalazine's effects on the renal system,organ_specific,sulfasalazine,renal,"['oliguria', 'oliguria']",2
+List diethylpropion's effects on the psychiatric system,organ_specific,diethylpropion,psychiatric,"['anxiety', 'anxiety', 'bone marrow depression', 'insomnia', 'insomnia']",5
+List diethylpropion's effects on the cardiac system,organ_specific,diethylpropion,cardiac,"['arrhythmia', 'arrhythmia', 'cardiac valve disease', 'cardiac valve disease', 'tachycardia', 'tachycardia']",6
+Show gastrointestinal toxicity of diethylpropion,organ_specific,diethylpropion,gastrointestinal,"['constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting', 'abdominal discomfort', 'abdominal discomfort']",8
+What neurological side effects does diethylpropion cause?,organ_specific,diethylpropion,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'tremor', 'tremor']",6
+What psychiatric side effects does carboprost cause?,organ_specific,carboprost,psychiatric,"['anxiety', 'anxiety']",2
+Show neurological toxicity of carboprost,organ_specific,carboprost,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'dizziness', 'dizziness']",6
+What gastrointestinal side effects does carboprost cause?,organ_specific,carboprost,gastrointestinal,"['nausea', 'nausea', 'vomiting', 'vomiting', 'abdominal pain upper']",5
+Show cardiac toxicity of carboprost,organ_specific,carboprost,cardiac,"['tachycardia', 'tachycardia']",2
+List nsc's effects on the gastrointestinal system,organ_specific,nsc,gastrointestinal,"['nausea', 'nausea', 'vomiting', 'vomiting']",4
+What hematological side effects does nsc cause?,organ_specific,nsc,hematological,"['neutropenia', 'neutropenia', 'thrombocytopenia', 'thrombocytopenia']",4
+Show hepatic toxicity of nsc,organ_specific,nsc,hepatic,"['hepatotoxicity', 'hepatotoxicity']",2
+List nsc's effects on the renal system,organ_specific,nsc,renal,"['serum creatinine increased', 'blood creatinine increased']",2
+List nalbuphine's effects on the gastrointestinal system,organ_specific,nalbuphine,gastrointestinal,"['abdominal pain', 'abdominal pain', 'nausea', 'nausea', 'vomiting', 'vomiting']",6
+Show psychiatric toxicity of nalbuphine,organ_specific,nalbuphine,psychiatric,"['anxiety', 'anxiety', 'depression', 'depression', 'hallucination', 'hallucination']",6
+List nalbuphine's effects on the neurological system,organ_specific,nalbuphine,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'dizziness', 'tremor', 'tremor', 'tremor']",8
+Show cardiac toxicity of nalbuphine,organ_specific,nalbuphine,cardiac,"['cardiac arrest', 'cardiac arrest', 'tachycardia', 'tachycardia', 'bradycardia', 'bradycardia']",6
+What gastrointestinal side effects does dicyclomine cause?,organ_specific,dicyclomine,gastrointestinal,"['abdominal distension', 'abdominal distension', 'abdominal pain', 'abdominal pain', 'constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting', 'abdominal distension']",11
+Show neurological toxicity of dicyclomine,organ_specific,dicyclomine,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'dizziness', 'dizziness']",6
+Show psychiatric toxicity of dicyclomine,organ_specific,dicyclomine,psychiatric,"['hallucination', 'hallucination', 'hallucination, visual', 'hallucination, visual', 'insomnia', 'insomnia']",6
+What cardiac side effects does dicyclomine cause?,organ_specific,dicyclomine,cardiac,"['cardiac disorder', 'cardiac disorder', 'tachycardia', 'tachycardia', 'tachyarrhythmia', 'tachyarrhythmia']",6
+What hematological side effects does dicyclomine cause?,organ_specific,dicyclomine,hematological,['coagulation necrosis'],1
+What gastrointestinal side effects does rotigotine cause?,organ_specific,rotigotine,gastrointestinal,"['constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting']",6
+List rotigotine's effects on the psychiatric system,organ_specific,rotigotine,psychiatric,"['depression', 'depression', 'hallucination', 'hallucination', 'terminal insomnia', 'terminal insomnia', 'insomnia', 'insomnia']",8
+Show neurological toxicity of rotigotine,organ_specific,rotigotine,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'dizziness', 'tremor', 'tremor', 'dizziness postural', 'dizziness postural']",9
+List risedronate's effects on the gastrointestinal system,organ_specific,risedronate,gastrointestinal,"['abdominal distension', 'abdominal distension', 'abdominal pain', 'abdominal pain', 'constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting', 'abdominal pain upper', 'abdominal pain upper', 'abdominal pain lower', 'abdominal pain lower', 'abdominal bloating', 'abdominal distension', 'abdominal discomfort']",17
+List risedronate's effects on the psychiatric system,organ_specific,risedronate,psychiatric,"['anxiety', 'anxiety', 'depression', 'depression', 'insomnia', 'insomnia']",6
+Show cardiac toxicity of risedronate,organ_specific,risedronate,cardiac,"['arrhythmia', 'arrhythmia', 'cardiac disorder', 'cardiac disorder']",4
+What neurological side effects does risedronate cause?,organ_specific,risedronate,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'dizziness']",5
+Show hepatic toxicity of risedronate,organ_specific,risedronate,hepatic,"['liver function test abnormal', 'liver function test abnormal']",2
+What gastrointestinal side effects does fluphenazine cause?,organ_specific,fluphenazine,gastrointestinal,"['constipation', 'constipation', 'nausea', 'nausea', 'constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting']",10
+What neurological side effects does fluphenazine cause?,organ_specific,fluphenazine,neurological,"['headache', 'headache', 'headache', 'headache', 'dizziness', 'tremor', 'tremor']",7
+What cardiac side effects does fluphenazine cause?,organ_specific,fluphenazine,cardiac,"['cardiac arrest', 'cardiac arrest', 'tachycardia', 'tachycardia', 'arrhythmia', 'arrhythmia', 'cardiac arrest', 'cardiac arrest', 'tachycardia', 'tachycardia']",10
+Show hepatic toxicity of fluphenazine,organ_specific,fluphenazine,hepatic,"['jaundice cholestatic', 'jaundice cholestatic', 'liver injury', 'jaundice cholestatic', 'jaundice cholestatic', 'liver injury']",6
+Show renal toxicity of fluphenazine,organ_specific,fluphenazine,renal,"['renal failure acute', 'renal failure acute', 'renal failure acute', 'renal failure acute']",4
+What gastrointestinal side effects does butorphanol cause?,organ_specific,butorphanol,gastrointestinal,"['abdominal pain', 'abdominal pain', 'constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting', 'abdominal pain upper', 'abdominal pain']",10
+List butorphanol's effects on the psychiatric system,organ_specific,butorphanol,psychiatric,"['anxiety', 'anxiety', 'depression', 'depression', 'hallucination', 'hallucination', 'insomnia', 'insomnia']",8
+What cardiac side effects does butorphanol cause?,organ_specific,butorphanol,cardiac,"['arrhythmia', 'arrhythmia', 'tachycardia', 'tachycardia']",4
+List butorphanol's effects on the neurological system,organ_specific,butorphanol,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'dizziness', 'tremor', 'tremor']",7
+Show gastrointestinal toxicity of temozolomide,organ_specific,temozolomide,gastrointestinal,"['abdominal distension', 'abdominal distension', 'abdominal pain', 'abdominal pain', 'constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting']",10
+List temozolomide's effects on the psychiatric system,organ_specific,temozolomide,psychiatric,"['anxiety', 'anxiety', 'depression', 'depression', 'hallucination', 'hallucination', 'anxiety depression', 'depression', 'insomnia', 'insomnia']",10
+Show neurological toxicity of temozolomide,organ_specific,temozolomide,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'neuropathy peripheral', 'neuropathy peripheral', 'tremor', 'tremor', 'neuropathy', 'neuropathy peripheral', 'partial seizures', 'partial seizures']",12
+What cardiac side effects does temozolomide cause?,organ_specific,temozolomide,cardiac,"['cardiac disorder', 'cardiac disorder']",2
+Show hematological toxicity of temozolomide,organ_specific,temozolomide,hematological,"['neutropenia', 'neutropenia', 'thrombocytopenia', 'thrombocytopenia', 'febrile neutropenia', 'febrile neutropenia']",6
+Show hepatic toxicity of temozolomide,organ_specific,temozolomide,hepatic,"['hepatic failure', 'hepatic failure', 'liver injury', 'liver injury', 'traumatic liver injury', 'hepatotoxicity', 'hepatotoxicity', 'hepatic enzyme increased', 'hepatic enzyme increased']",9
+What gastrointestinal side effects does gadodiamide cause?,organ_specific,gadodiamide,gastrointestinal,"['abdominal pain', 'abdominal pain', 'nausea', 'nausea', 'vomiting', 'vomiting']",6
+What psychiatric side effects does gadodiamide cause?,organ_specific,gadodiamide,psychiatric,"['anxiety', 'anxiety', 'hallucination', 'hallucination']",4
+List gadodiamide's effects on the cardiac system,organ_specific,gadodiamide,cardiac,"['arrhythmia', 'arrhythmia', 'cardiac failure', 'cardiac failure', 'myocardial infarction', 'myocardial infarction', 'tachycardia', 'tachycardia', 'myocardial ischaemia', 'myocardial ischaemia']",10
+Show neurological toxicity of gadodiamide,organ_specific,gadodiamide,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'neuropathy peripheral', 'neuropathy peripheral', 'dizziness', 'tremor', 'tremor', 'dizziness', 'tremor', 'autonomic neuropathy']",12
+Show renal toxicity of gadodiamide,organ_specific,gadodiamide,renal,"['renal failure acute', 'renal failure acute', 'renal failure', 'renal failure', 'blood creatinine increased', 'blood creatinine increased', 'renal impairment', 'renal impairment', 'renal failure', 'acute kidney injury', 'renal failure acute']",11
+Show hepatic toxicity of gadodiamide,organ_specific,gadodiamide,hepatic,"['hepatic enzyme increased', 'hepatic enzyme increased']",2
+Show gastrointestinal toxicity of methamphetamine,organ_specific,methamphetamine,gastrointestinal,"['constipation', 'constipation']",2
+List methamphetamine's effects on the neurological system,organ_specific,methamphetamine,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'tremor', 'tremor']",6
+Show cardiac toxicity of methamphetamine,organ_specific,methamphetamine,cardiac,"['tachycardia', 'tachycardia']",2
+Show psychiatric toxicity of methamphetamine,organ_specific,methamphetamine,psychiatric,"['insomnia', 'insomnia']",2
+What gastrointestinal side effects does cosyntropin cause?,organ_specific,cosyntropin,gastrointestinal,"['abdominal distension', 'abdominal distension', 'nausea', 'nausea', 'vomiting', 'vomiting']",6
+Show neurological toxicity of cosyntropin,organ_specific,cosyntropin,neurological,"['dizziness', 'dizziness', 'headache', 'headache']",4
+What cardiac side effects does cosyntropin cause?,organ_specific,cosyntropin,cardiac,"['cardiac disorder', 'cardiac disorder', 'cardiac failure congestive', 'cardiac failure congestive', 'cardiac hypertrophy', 'cardiac hypertrophy', 'tachycardia', 'tachycardia', 'bradycardia', 'bradycardia']",10
+Show renal toxicity of cosyntropin,organ_specific,cosyntropin,renal,"['adrenal haemorrhage', 'adrenal haemorrhage']",2
+What gastrointestinal side effects does n-methylscopolamine cause?,organ_specific,n-methylscopolamine,gastrointestinal,"['constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting', 'abdominal distension', 'constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting', 'abdominal distension']",14
+Show neurological toxicity of n-methylscopolamine,organ_specific,n-methylscopolamine,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'dizziness', 'dizziness', 'headache', 'headache']",8
+What cardiac side effects does n-methylscopolamine cause?,organ_specific,n-methylscopolamine,cardiac,"['tachycardia', 'tachycardia', 'tachycardia', 'tachycardia']",4
+What psychiatric side effects does n-methylscopolamine cause?,organ_specific,n-methylscopolamine,psychiatric,"['insomnia', 'insomnia', 'insomnia', 'insomnia']",4
+Show gastrointestinal toxicity of amiloride,organ_specific,amiloride,gastrointestinal,"['abdominal pain', 'abdominal pain', 'constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting', 'fullness abdominal', 'abdominal distension']",10
+What psychiatric side effects does amiloride cause?,organ_specific,amiloride,psychiatric,"['depression', 'depression', 'insomnia', 'insomnia']",4
+What neurological side effects does amiloride cause?,organ_specific,amiloride,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'tremor', 'tremor']",6
+List amiloride's effects on the hepatic system,organ_specific,amiloride,hepatic,"['hepatic encephalopathy', 'hepatic encephalopathy', 'jaundice', 'jaundice', 'liver disorder', 'liver disorder', 'foetor hepaticus', 'hepatic function abnormal', 'hepatic function abnormal']",9
+Show hematological toxicity of amiloride,organ_specific,amiloride,hematological,"['neutropenia', 'neutropenia']",2
+What cardiac side effects does amiloride cause?,organ_specific,amiloride,cardiac,"['bradycardia', 'bradycardia']",2
+List clevidipine's effects on the neurological system,organ_specific,clevidipine,neurological,"['headache', 'headache']",2
+What renal side effects does clevidipine cause?,organ_specific,clevidipine,renal,"['renal failure acute', 'renal failure acute']",2
+What cardiac side effects does clevidipine cause?,organ_specific,clevidipine,cardiac,"['myocardial infarction', 'myocardial infarction', 'reflex tachycardia', 'tachycardia']",4
+Show gastrointestinal toxicity of clevidipine,organ_specific,clevidipine,gastrointestinal,"['nausea', 'nausea', 'vomiting', 'vomiting']",4
+List mitomycin's effects on the neurological system,organ_specific,mitomycin,neurological,"['headache', 'headache', 'dizziness']",3
+List mitomycin's effects on the cardiac system,organ_specific,mitomycin,cardiac,"['cardiac failure congestive', 'cardiac failure congestive']",2
+What gastrointestinal side effects does mitomycin cause?,organ_specific,mitomycin,gastrointestinal,"['nausea', 'nausea', 'vomiting', 'vomiting']",4
+What hematological side effects does mitomycin cause?,organ_specific,mitomycin,hematological,"['thrombocytopenia', 'thrombocytopenia']",2
+List mitomycin's effects on the renal system,organ_specific,mitomycin,renal,"['function kidney decreased', 'renal impairment', 'irreversible renal failure', 'renal failure chronic', 'renal impairment', 'renal impairment', 'renal failure']",7
+Show gastrointestinal toxicity of captopril,organ_specific,captopril,gastrointestinal,"['abdominal pain', 'abdominal pain', 'constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting']",8
+What neurological side effects does captopril cause?,organ_specific,captopril,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'dizziness']",5
+Show psychiatric toxicity of captopril,organ_specific,captopril,psychiatric,"['hallucination', 'hallucination', 'insomnia', 'insomnia']",4
+What cardiac side effects does captopril cause?,organ_specific,captopril,cardiac,"['cardiac arrest', 'cardiac arrest', 'tachycardia', 'tachycardia']",4
+List captopril's effects on the hepatic system,organ_specific,captopril,hepatic,"['jaundice', 'jaundice', 'jaundice cholestatic', 'jaundice cholestatic', 'liver injury', 'hepatic necrosis', 'hepatic necrosis', 'liver injury', 'liver injury', 'traumatic liver injury']",10
+Show renal toxicity of captopril,organ_specific,captopril,renal,"['renal failure acute', 'renal failure acute', 'oliguria', 'oliguria', 'renal failure', 'renal failure', 'irreversible renal failure', 'renal failure chronic']",8
+Show hematological toxicity of captopril,organ_specific,captopril,hematological,"['neutropenia', 'neutropenia', 'thrombocytopenia', 'thrombocytopenia']",4
+What gastrointestinal side effects does lapatinib cause?,organ_specific,lapatinib,gastrointestinal,"['abdominal pain', 'abdominal pain', 'constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting']",8
+List lapatinib's effects on the neurological system,organ_specific,lapatinib,neurological,"['headache', 'headache', 'neuropathy peripheral', 'neuropathy peripheral', 'peripheral sensory neuropathy', 'peripheral sensory neuropathy']",6
+List lapatinib's effects on the cardiac system,organ_specific,lapatinib,cardiac,"['cardiac disorder', 'cardiac disorder', 'cardiac failure', 'cardiac failure']",4
+List lapatinib's effects on the renal system,organ_specific,lapatinib,renal,"['renal failure acute', 'renal failure acute']",2
+List lapatinib's effects on the hematological system,organ_specific,lapatinib,hematological,"['neutropenia', 'neutropenia']",2
+What hepatic side effects does lapatinib cause?,organ_specific,lapatinib,hepatic,"['hepatotoxicity', 'hepatotoxicity']",2
+Show psychiatric toxicity of lapatinib,organ_specific,lapatinib,psychiatric,"['insomnia', 'insomnia']",2
+Show gastrointestinal toxicity of thiabendazole,organ_specific,thiabendazole,gastrointestinal,"['abdominal pain', 'abdominal pain', 'nausea', 'nausea', 'vomiting', 'vomiting']",6
+List thiabendazole's effects on the neurological system,organ_specific,thiabendazole,neurological,"['dizziness', 'dizziness', 'headache', 'headache']",4
+What hepatic side effects does thiabendazole cause?,organ_specific,thiabendazole,hepatic,"['jaundice', 'jaundice', 'hepatic failure', 'hepatic failure', 'liver injury']",5
+Show gastrointestinal toxicity of saxagliptin,organ_specific,saxagliptin,gastrointestinal,"['abdominal pain', 'abdominal pain', 'nausea', 'nausea', 'vomiting', 'vomiting']",6
+What neurological side effects does saxagliptin cause?,organ_specific,saxagliptin,neurological,"['dizziness', 'dizziness', 'headache', 'headache']",4
+Show renal toxicity of saxagliptin,organ_specific,saxagliptin,renal,"['renal failure chronic', 'renal failure chronic', 'blood creatinine increased', 'blood creatinine increased']",4
+List saxagliptin's effects on the hematological system,organ_specific,saxagliptin,hematological,"['thrombocytopenia', 'thrombocytopenia']",2
+Show gastrointestinal toxicity of zaleplon,organ_specific,zaleplon,gastrointestinal,"['abdominal pain', 'abdominal pain', 'constipation', 'constipation', 'nausea', 'nausea']",6
+What psychiatric side effects does zaleplon cause?,organ_specific,zaleplon,psychiatric,"['anxiety', 'anxiety', 'depression', 'depression', 'hallucination', 'hallucination', 'insomnia', 'insomnia']",8
+List zaleplon's effects on the neurological system,organ_specific,zaleplon,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'dizziness', 'tremor', 'tremor', 'neuropathy', 'neuropathy peripheral']",9
+List zaleplon's effects on the hematological system,organ_specific,zaleplon,hematological,"['gingival bleeding', 'gingival bleeding']",2
+List zaleplon's effects on the renal system,organ_specific,zaleplon,renal,"['calculus of kidney', 'renal pain', 'renal pain']",3
+List zaleplon's effects on the cardiac system,organ_specific,zaleplon,cardiac,"['tachycardia', 'tachycardia', 'ventricular tachycardia', 'ventricular tachycardia', 'sinus bradycardia', 'sinus bradycardia']",6
+List zaleplon's effects on the hepatic system,organ_specific,zaleplon,hepatic,"['liver function test abnormal', 'liver function test abnormal', 'hepatotoxicity', 'hepatotoxicity']",4
+What gastrointestinal side effects does miglustat cause?,organ_specific,miglustat,gastrointestinal,"['abdominal distension', 'abdominal distension', 'abdominal pain', 'abdominal pain', 'constipation', 'constipation', 'nausea', 'nausea', 'vomiting', 'vomiting', 'abdominal pain upper', 'abdominal distension gaseous', 'abdominal distension', 'abdominal bloating', 'abdominal distension']",15
+What psychiatric side effects does miglustat cause?,organ_specific,miglustat,psychiatric,"['depression', 'depression', 'insomnia', 'insomnia']",4
+List miglustat's effects on the neurological system,organ_specific,miglustat,neurological,"['dizziness', 'dizziness', 'headache', 'headache', 'neuropathy peripheral', 'neuropathy peripheral', 'neuropathy peripheral', 'tremor', 'tremor', 'polyneuropathy', 'polyneuropathy', 'neuropathy', 'neuropathy peripheral']",13
+What hematological side effects does miglustat cause?,organ_specific,miglustat,hematological,"['thrombocytopenia', 'thrombocytopenia']",2

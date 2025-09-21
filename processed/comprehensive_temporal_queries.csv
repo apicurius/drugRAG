@@ -1,0 +1,81 @@
+query,query_type,drug,temporal_filter,requires_temporal_data
+What are the immediate side effects of remifentanil?,temporal,remifentanil,immediate,True
+What are the early side effects of remifentanil?,temporal,remifentanil,early,True
+What are the immediate side effects of bosentan?,temporal,bosentan,immediate,True
+Which bosentan side effects occur early?,temporal,bosentan,early,True
+List immediate adverse reactions to zuclopenthixol,temporal,zuclopenthixol,immediate,True
+List early adverse reactions to zuclopenthixol,temporal,zuclopenthixol,early,True
+What are the immediate side effects of prilocaine?,temporal,prilocaine,immediate,True
+What are the early side effects of prilocaine?,temporal,prilocaine,early,True
+List immediate adverse reactions to digoxin,temporal,digoxin,immediate,True
+List early adverse reactions to digoxin,temporal,digoxin,early,True
+List immediate adverse reactions to cancidas,temporal,cancidas,immediate,True
+List early adverse reactions to cancidas,temporal,cancidas,early,True
+List immediate adverse reactions to ranitidine,temporal,ranitidine,immediate,True
+List early adverse reactions to ranitidine,temporal,ranitidine,early,True
+List immediate adverse reactions to erythromycin,temporal,erythromycin,immediate,True
+What are the early side effects of erythromycin?,temporal,erythromycin,early,True
+What are the immediate side effects of lovastatin?,temporal,lovastatin,immediate,True
+List early adverse reactions to lovastatin,temporal,lovastatin,early,True
+List immediate adverse reactions to gold,temporal,gold,immediate,True
+What are the early side effects of gold?,temporal,gold,early,True
+What are the immediate side effects of benzocaine?,temporal,benzocaine,immediate,True
+Which benzocaine side effects occur early?,temporal,benzocaine,early,True
+Which copper side effects occur immediate?,temporal,copper,immediate,True
+What are the early side effects of copper?,temporal,copper,early,True
+Which guanfacine side effects occur immediate?,temporal,guanfacine,immediate,True
+Which guanfacine side effects occur early?,temporal,guanfacine,early,True
+Which montelukast side effects occur immediate?,temporal,montelukast,immediate,True
+List early adverse reactions to montelukast,temporal,montelukast,early,True
+List immediate adverse reactions to modafinil,temporal,modafinil,immediate,True
+Which modafinil side effects occur early?,temporal,modafinil,early,True
+What are the immediate side effects of fludrocortisone?,temporal,fludrocortisone,immediate,True
+Which fludrocortisone side effects occur early?,temporal,fludrocortisone,early,True
+What are the immediate side effects of tazarotene?,temporal,tazarotene,immediate,True
+What are the early side effects of tazarotene?,temporal,tazarotene,early,True
+Which pyridoxine side effects occur immediate?,temporal,pyridoxine,immediate,True
+Which pyridoxine side effects occur early?,temporal,pyridoxine,early,True
+List immediate adverse reactions to bexarotene,temporal,bexarotene,immediate,True
+List early adverse reactions to bexarotene,temporal,bexarotene,early,True
+Which signifor side effects occur immediate?,temporal,signifor,immediate,True
+Which signifor side effects occur early?,temporal,signifor,early,True
+Which ticlopidine side effects occur immediate?,temporal,ticlopidine,immediate,True
+Which ticlopidine side effects occur early?,temporal,ticlopidine,early,True
+Which thalidomide side effects occur immediate?,temporal,thalidomide,immediate,True
+What are the early side effects of thalidomide?,temporal,thalidomide,early,True
+What are the immediate side effects of hoe?,temporal,hoe,immediate,True
+What are the early side effects of hoe?,temporal,hoe,early,True
+What are the immediate side effects of fentanyl?,temporal,fentanyl,immediate,True
+List early adverse reactions to fentanyl,temporal,fentanyl,early,True
+List immediate adverse reactions to meropenem,temporal,meropenem,immediate,True
+What are the early side effects of meropenem?,temporal,meropenem,early,True
+List immediate adverse reactions to estriol,temporal,estriol,immediate,True
+What are the early side effects of estriol?,temporal,estriol,early,True
+What are the immediate side effects of perphenazine?,temporal,perphenazine,immediate,True
+What are the early side effects of perphenazine?,temporal,perphenazine,early,True
+List immediate adverse reactions to amantadine,temporal,amantadine,immediate,True
+List early adverse reactions to amantadine,temporal,amantadine,early,True
+What are the immediate side effects of entecavir?,temporal,entecavir,immediate,True
+Which entecavir side effects occur early?,temporal,entecavir,early,True
+List immediate adverse reactions to brolene,temporal,brolene,immediate,True
+List early adverse reactions to brolene,temporal,brolene,early,True
+List immediate adverse reactions to cefprozil,temporal,cefprozil,immediate,True
+What are the early side effects of cefprozil?,temporal,cefprozil,early,True
+What are the immediate side effects of glat?,temporal,glat,immediate,True
+What are the early side effects of glat?,temporal,glat,early,True
+List immediate adverse reactions to midodrine,temporal,midodrine,immediate,True
+What are the early side effects of midodrine?,temporal,midodrine,early,True
+List immediate adverse reactions to vandetanib,temporal,vandetanib,immediate,True
+List early adverse reactions to vandetanib,temporal,vandetanib,early,True
+List immediate adverse reactions to estazolam,temporal,estazolam,immediate,True
+Which estazolam side effects occur early?,temporal,estazolam,early,True
+What are the immediate side effects of sevelamer?,temporal,sevelamer,immediate,True
+What are the early side effects of sevelamer?,temporal,sevelamer,early,True
+What are the immediate side effects of hydroflumethiazide?,temporal,hydroflumethiazide,immediate,True
+Which hydroflumethiazide side effects occur early?,temporal,hydroflumethiazide,early,True
+Which hmdp side effects occur immediate?,temporal,hmdp,immediate,True
+Which hmdp side effects occur early?,temporal,hmdp,early,True
+Which riluzole side effects occur immediate?,temporal,riluzole,immediate,True
+List early adverse reactions to riluzole,temporal,riluzole,early,True
+Which voriconazole side effects occur immediate?,temporal,voriconazole,immediate,True
+List early adverse reactions to voriconazole,temporal,voriconazole,early,True

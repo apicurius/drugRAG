@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Logs
+logs/
+*.log
+
+# Data files (too large)
+data/raw/
+data/interim/
+*.db
+*.pkl
+*.pickle
+
+# Model files
+models/
+*.pth
+*.pt
+*.h5
+*.onnx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment variables
+.env
+config.json
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+temp/
+tmp/
+
+# Large result files (keep summary only)
+experiments/evaluation_logs/*/detailed_interactions.log
+experiments/evaluation_logs/*/detailed_results.csv
+experiments/evaluation_logs/*/evaluation.log

@@ -1,0 +1,1343 @@
+[
+  {
+    "query": {
+      "format": "A",
+      "drug": "aspirin",
+      "side_effect": "headache",
+      "query_text": "aspirin headache",
+      "timestamp": "2025-09-21T00:19:29.784569"
+    },
+    "pinecone_response": {
+      "total_matches": 5,
+      "namespace": "drug-side-effects-formatA",
+      "matches": [
+        {
+          "rank": 1,
+          "score": 0.854675412,
+          "id": "format_a_aspirin_594",
+          "metadata": {
+            "drug": "aspirin",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug aspirin causes the following side effects or adverse reactions: acidosis, agitation, anaemia, anaphylactic shock, angioedema, arthralgia, asthma, blood cholesterol increased, breast feeding, chest discomfort, chest pain, coagulopathy, coma, confusional state, contusion, convulsion, deafness, dermatitis, diabetes mellitus, diarrhoea, dizziness, dyspepsia, dyspnoea, epigastric discomfort, feeling abnormal, flushing, foetor hepaticus, gastrointestinal haemorrhage, gout, haematemesis, haemoglobin, haemorrhage, haemorrhagic disorder, hearing impaired, hepatocellular injury, hepatotoxicity, hyperhidrosis, hypersensitivity, hypertension, hypoglycaemia, hypokalaemia, influenza, leukopenia, liver disorder, loss of consciousness, melaena, metabolic acidosis, nausea, peptic ulcer, polyuria, pruritus, purpura, rash, renal impairment, respiratory alkalosis, respiratory failure, reye's syndrome, shock, somnolence, syncope, tachycardia, thirst, thrombocytopenia, tinnitus, ulcer, urticaria, varicella, vascular purpura, vertigo, vomiting"
+          }
+        },
+        {
+          "rank": 2,
+          "score": 0.80871594,
+          "id": "format_a_salicylate_842",
+          "metadata": {
+            "drug": "salicylate",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug salicylate causes the following side effects or adverse reactions: abdominal discomfort, abdominal pain upper, asthma, burning sensation, confusional state, constipation, deafness, decreased appetite, dermatitis, diarrhoea, dizziness, duodenal ulcer, dysgeusia, dyspepsia, ecchymosis, epistaxis, erythema, erythema multiforme, feeling abnormal, gastric ulcer, hallucination, headache, hearing impaired, hepatitis, lethargy, nausea, occult blood positive, oedema, oesophagitis, pain, pruritus, rash, skin exfoliation, skin papilloma, somnolence, tinnitus, urticaria, vomiting, weight increased"
+          }
+        },
+        {
+          "rank": 3,
+          "score": 0.805969357,
+          "id": "format_a_acetaminophen_243",
+          "metadata": {
+            "drug": "acetaminophen",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug acetaminophen causes the following side effects or adverse reactions: abdominal discomfort, abdominal distension, abdominal pain, acute generalised exanthematous pustulosis, acute hepatic failure, administration site reaction, agitation, agranulocytosis, alveolitis, anaemia, anaemia postoperative, anaphylactic shock, angioedema, angiopathy, angle closure glaucoma, anxiety, aspartate aminotransferase increased, asthenia, asthma, atelectasis, azotaemia, balance disorder, benign prostatic hyperplasia, bladder neck obstruction, blood disorder, blood pressure increased, body temperature increased, breath sounds abnormal, bronchospasm, cardiac disorder, chest discomfort, chest pain, chills, coma, confusional state, connective tissue disorder, constipation, convulsion, coordination abnormal, cough, decreased appetite, dermatitis, dermatitis atopic, dermatitis exfoliative, diarrhoea, discomfort, disturbance in attention, dizziness, drug eruption, drug interaction, dry mouth, dyskinesia, dyspepsia, dysphoria, dyspnoea, dystonia, dysuria, energy increased, eructation, erythema, erythema multiforme, euphoric mood, eye disorder, fatigue, feeling abnormal, fluid overload, flushing, gastrointestinal disorder, gastrointestinal pain, haemoglobin, haemolytic anaemia, haemorrhage, hallucination, headache, hepatic enzyme increased, hepatic failure, hepatic function abnormal, hepatic necrosis, hepatitis, hepatitis fulminant, hepatobiliary disease, hepatocellular injury, hyperglycaemia, hyperhidrosis, hyperreflexia, hypersensitivity, hypertension, hypoalbuminaemia, hypokalaemia, hypomagnesaemia, hypophosphataemia, hypotension, hypotonia, ill-defined disorder, immune system disorder, infusion site pain, injection site pain, injection site reaction, insomnia, irritability, kounis syndrome, leukopenia, liver injury, malaise, malnutrition, mediastinal disorder, mental disorder, mental status changes, muscle relaxant therapy, muscle spasms, muscle twitching, muscular weakness, mydriasis, myoclonus, nausea, nervous system disorder, nervousness, neutropenia, nightmare, oedema, oedema peripheral, oliguria, pain in extremity, palpitations, pancreatitis acute, pancytopenia, pemphigoid, periorbital oedema, photosensitivity reaction, pleural effusion, pneumothorax, post procedural haemorrhage, pruritus, pulmonary function test decreased, pulmonary oedema, rash, rash macular, rash maculo-papular, rash pustular, renal failure acute, renal tubular necrosis, respiratory depression, serotonin syndrome, shock, skin disorder, somnolence, stevens-johnson syndrome, strangury, stridor, tachycardia, tension, thrombocytopenia, toxic epidermal necrolysis, traumatic liver injury, tremor, trismus, urethral disorder, urinary hesitation, urinary retention, urinary tract disorder, urticaria, vision blurred, vomiting, wheezing"
+          }
+        },
+        {
+          "rank": 4,
+          "score": 0.804870725,
+          "id": "format_a_asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2_910",
+          "metadata": {
+            "drug": "asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2 causes the following side effects or adverse reactions: abdominal discomfort, abdominal pain, abdominal pain upper, blood pressure increased, dermatitis, diarrhoea, discomfort, dizziness, dyspnoea, erythema, flushing, headache, hyperhidrosis, hypersensitivity, hypertension, hypoaesthesia, hypotension, impaired gastric emptying, loss of consciousness, muscle spasms, nausea, pain, rash, sensory loss, shock, sneezing, syncope, vomiting"
+          }
+        },
+        {
+          "rank": 5,
+          "score": 0.798584104,
+          "id": "format_a_acetohydroxamic_877",
+          "metadata": {
+            "drug": "acetohydroxamic",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug acetohydroxamic causes the following side effects or adverse reactions: abdominal discomfort, alopecia, anaemia, anxiety, asthenia, decreased appetite, deep vein thrombosis, depression, dermatitis, discomfort, fatigue, feeling abnormal, feeling hot, gastrointestinal disorder, gastrointestinal tract irritation, haemolytic anaemia, headache, ill-defined disorder, injury, lethargy, malaise, nausea, nervousness, palpitations, phlebitis superficial, rash, renal failure, renal impairment, reticulocytosis, tension, thrombophlebitis, tremor, vomiting"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "query": {
+      "format": "A",
+      "drug": "ibuprofen",
+      "side_effect": "nausea",
+      "query_text": "ibuprofen nausea",
+      "timestamp": "2025-09-21T00:19:30.998717"
+    },
+    "pinecone_response": {
+      "total_matches": 5,
+      "namespace": "drug-side-effects-formatA",
+      "matches": [
+        {
+          "rank": 1,
+          "score": 0.847167969,
+          "id": "format_a_ibuprofen_77",
+          "metadata": {
+            "drug": "ibuprofen",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug ibuprofen causes the following side effects or adverse reactions: abdominal discomfort, abdominal distension, abdominal pain, abdominal pain upper, abnormal dreams, acidosis, acute coronary syndrome, adrenal insufficiency, affect lability, agitation, agranulocytosis, alopecia, amblyopia, anaemia, anaphylactic shock, anaphylactoid reaction, angioedema, anxiety, aplastic anaemia, apnoea, arrhythmia, arthralgia, arthritis, asthenia, asthma, atelectasis, azotaemia, bacteraemia, benign intracranial hypertension, bladder pain, bleeding time prolonged, blood creatinine decreased, blood creatinine increased, blood disorder, blood lactate dehydrogenase increased, blood urea increased, bronchitis, bronchopulmonary dysplasia, bronchospasm, bruxism, cardiac failure, cardiac failure congestive, cataract, cellulitis gangrenous, cerebrovascular accident, chills, cholestasis, cognitive disorder, colitis, colitis ulcerative, colour blindness acquired, coma, confusional state, conjunctivitis, constipation, contusion, convulsion, cough, crohn's disease, cystitis, cystitis noninfective, deafness, decreased appetite, depression, dermatitis, dermatitis bullous, dermatitis exfoliative, diarrhoea, diplopia, discomfort, disorientation, disturbance in sexual arousal, dizziness, dry eye, dry mouth, duodenal ulcer, duodenitis, dysarthria, dysgeusia, dyspepsia, dysphagia, dysphonia, dyspnoea, dysuria, ecchymosis, encephalitis, eosinophilia, epidermal necrosis, epistaxis, erectile dysfunction, eructation, erythema, erythema multiforme, euphoric mood, fatigue, feeling abnormal, flatulence, fluid retention, foetor hepaticus, gastric ulcer, gastritis, gastroenteritis, gastrointestinal disorder, gastrointestinal haemorrhage, gastrointestinal pain, gastrointestinal perforation, gastrooesophageal reflux disease, glomerular filtration rate decreased, glomerulonephritis, glossitis, glycosuria, gynaecomastia, haematemesis, haematuria, haemoglobin, haemoglobin decreased, haemolytic anaemia, haemorrhage, hallucination, headache, hearing impaired, henoch-schonlein purpura, hepatic enzyme increased, hepatic failure, hepatic function abnormal, hepatic necrosis, hepatitis, hepatitis toxic, hepatobiliary disease, hepatocellular injury, hepatorenal syndrome, hiccups, hyperglycaemia, hyperhidrosis, hyperkinesia, hypernatraemia, hypersensitivity, hypertension, hypertonia, hypoalbuminaemia, hypocalcaemia, hypoglycaemia, hypokalaemia, hyponatraemia, hypopnoea, hypoproteinaemia, hypotension, hypoxia, ileus, ill-defined disorder, immune system disorder, infection, influenza, influenza like illness, inguinal hernia, injection site reaction, insomnia, intestinal perforation, intraventricular haemorrhage, jaundice, leukopenia, libido decreased, liver disorder, liver function test abnormal, local swelling, loss of consciousness, lymphadenopathy, malaise, malnutrition, mediastinal disorder, melaena, meningitis aseptic, menorrhagia, mental disorder, metrorrhagia, mixed connective tissue disease, mood swings, mouth ulceration, muscle spasms, musculoskeletal discomfort, musculoskeletal stiffness, myalgia, myocardial infarction, nasal congestion, nausea, necrotising colitis, necrotising enterocolitis neonatal, necrotising fasciitis, neoplasm, nephritis, nephropathy toxic, nephrotic syndrome, nervous system disorder, nervousness, neuralgia, neuritis, neuropathy peripheral, neutropenia, nuchal rigidity, oedema, oedema peripheral, oesophageal spasm, oesophagitis, oliguria, optic neuritis, palpitations, pancreatitis, pancreatitis acute, pancytopenia, paraesthesia, peptic ulcer, periventricular leukomalacia, pharyngitis, photosensitivity reaction, pneumonia, pneumonia bacterial, pneumothorax, pollakiuria, polyuria, proctocolitis, protein urine present, proteinuria, pruritus, pulmonary congestion, pulmonary function test decreased, pulmonary haemorrhage, pulmonary hypertension, purpura, rash, rash pustular, rectal haemorrhage, renal failure, renal failure acute, renal impairment, renal papillary necrosis, renal tubular necrosis, respiratory depression, respiratory failure, respiratory tract congestion, respiratory tract infection, reye's syndrome, rhinitis, scotoma, sepsis, serum sickness, shock, sinus bradycardia, sinus tachycardia, sinusitis, skin disorder, skin lesion, somnolence, stevens-johnson syndrome, stomatitis, swelling, syncope, systemic lupus erythematosus, tachycardia, tension, thirst, thrombocytopenia, thrombocytosis, tinnitus, toxic epidermal necrolysis, toxic neuropathy, tremor, tubulointerstitial nephritis, ulcer, urethral disorder, urinary incontinence, urinary retention, urinary tract disorder, urinary tract infection, urine output, urine output increased, urticaria, vascular purpura, vasculitis, vasodilation procedure, vertigo, vision blurred, visual acuity reduced, visual impairment, vomiting, weight decreased, wheezing, wound haemorrhage"
+          }
+        },
+        {
+          "rank": 2,
+          "score": 0.81628418,
+          "id": "format_a_flurbiprofen_122",
+          "metadata": {
+            "drug": "flurbiprofen",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug flurbiprofen causes the following side effects or adverse reactions: abdominal discomfort, abdominal distension, abdominal pain, acute coronary syndrome, affect lability, agranulocytosis, albuminuria, alopecia, amblyopia, amnesia, anaemia, anaphylactic shock, angina pectoris, angioedema, angiopathy, anorectal discomfort, anxiety, aplastic anaemia, arrhythmia, arthritis, arthropathy, asthenia, asthma, ataxia, bladder pain, bleeding time prolonged, blepharitis, blood uric acid increased, body temperature increased, breast pain, bronchitis, cardiac failure congestive, cerebral ischaemia, cerebrovascular accident, chills, cholecystitis, colitis, coma, confusional state, conjunctivitis, constipation, convulsion, corneal opacity, cough, cystitis, cystitis noninfective, deafness, decreased appetite, dermatitis, dermatitis exfoliative, diarrhoea, diarrhoea haemorrhagic, diplopia, discomfort, disturbance in sexual arousal, dizziness, drug interaction, dry mouth, dry skin, dyspepsia, dyspnoea, dysuria, ear disorder, ecchymosis, eczema, electroencephalogram abnormal, emotional distress, endophthalmitis, enteritis, eosinophilia, epistaxis, erectile dysfunction, eructation, erythema multiforme, euphoric mood, extrasystoles, eye irritation, feeling abnormal, fibrosis, flatulence, gastritis, gastroenteritis, gastrointestinal haemorrhage, gastrointestinal pain, gastrointestinal perforation, gastrointestinal ulcer haemorrhage, gingival bleeding, gingivitis, glaucoma, glossitis, haematemesis, haematuria, haemoglobin, haemolytic anaemia, haemorrhage, haemorrhagic disorder, hallucination, headache, hearing impaired, hepatic enzyme increased, hepatic failure, hepatitis, herpes simplex, herpes zoster, hyperglycaemia, hyperhidrosis, hyperkalaemia, hyperreflexia, hypersensitivity, hypertension, hypertonia, hyperuricaemia, hyperventilation, hyphaema, hypotension, ill-defined disorder, incontinence, increased appetite, infection, inflammatory bowel disease, influenza, insomnia, iron deficiency anaemia, jaundice, jaundice cholestatic, keratitis, laryngitis, leukocytosis, leukopenia, libido decreased, loss of consciousness, lung disorder, lymphadenopathy, malaise, melaena, meningitis, meningitis aseptic, migraine, mood swings, muscle twitching, muscular weakness, musculoskeletal discomfort, myalgia, mydriasis, myocardial infarction, nail discolouration, nail disorder, nausea, nephrolithiasis, nervousness, neuralgia, neutropenia, ocular hyperaemia, oedema, oesophageal disorder, oesophagitis, oliguria, optic neuritis, osteoarthritis, pain, palpitations, pancreatitis, pancytopenia, paraesthesia, parosmia, peptic ulcer, petechiae, pharyngitis, phlebitis, photophobia, photosensitivity reaction, pneumonia, polyuria, prostatic disorder, protein urine present, proteinuria, pruritus, pulmonary embolism, pulmonary function test decreased, pulmonary infarction, purpura, pyuria, rash, rectal haemorrhage, renal failure, renal impairment, respiratory depression, retinal haemorrhage, rhinitis, right ventricular failure, scleritis, seborrhoeic dermatitis, sepsis, shock, sinusitis, skin exfoliation, skin ulcer, somnolence, speech disorder, stevens-johnson syndrome, stomatitis, subarachnoid haemorrhage, syncope, tachycardia, tenosynovitis, tension, thirst, thrombocytopenia, tinnitus, tooth abscess, toxic epidermal necrolysis, tremor, tubulointerstitial nephritis, ulcer, urethritis, urethritis noninfective, urinary tract infection, urine abnormality, urine analysis abnormal, urine output increased, urticaria, uterine haemorrhage, vaginal discharge, vaginal infection, vaginal inflammation, vascular purpura, vasculitis, vasodilation procedure, vertigo, visual impairment, vomiting, vulvovaginitis, white blood cell disorder"
+          }
+        },
+        {
+          "rank": 3,
+          "score": 0.813171446,
+          "id": "format_a_fenoprofen_497",
+          "metadata": {
+            "drug": "fenoprofen",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug fenoprofen causes the following side effects or adverse reactions: abdominal pain, agranulocytosis, alopecia, anaphylactic shock, angioedema, anuria, aphthous stomatitis, aplastic anaemia, asthenia, atrial fibrillation, azotaemia, bladder pain, body temperature increased, breast pain, confusional state, constipation, contusion, convulsion, cystitis, cystitis noninfective, decreased appetite, depression, dermatitis, dermatitis exfoliative, diarrhoea, diplopia, discomfort, disorientation, dizziness, dry mouth, dysgeusia, dyspepsia, dyspnoea, dysuria, electrocardiogram change, erythema multiforme, fatigue, feeling abnormal, flatulence, gastritis, gastrointestinal disorder, gastrointestinal haemorrhage, gastrointestinal pain, glossodynia, haematuria, haemoglobin, haemolytic anaemia, haemorrhage, headache, hearing impaired, hepatitis cholestatic, hyperhidrosis, hypersensitivity, ill-defined disorder, insomnia, jaundice, lymphadenopathy, malaise, nasopharyngitis, nausea, nephrotic syndrome, nervousness, oedema peripheral, oliguria, optic neuritis, palpitations, pancreatitis, pancytopenia, peptic ulcer, personality change, pruritus, pulmonary oedema, purpura, rash, renal failure, renal papillary necrosis, somnolence, stevens-johnson syndrome, supraventricular tachycardia, tachycardia, tension, thrombocytopenia, tinnitus, toxic epidermal necrolysis, tremor, trigeminal neuralgia, tubulointerstitial nephritis, upper respiratory tract infection, urticaria, vascular purpura, vision blurred, vomiting"
+          }
+        },
+        {
+          "rank": 4,
+          "score": 0.811645567,
+          "id": "format_a_nabumetone_379",
+          "metadata": {
+            "drug": "nabumetone",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug nabumetone causes the following side effects or adverse reactions: abdominal pain, acne, acute coronary syndrome, agitation, agranulocytosis, albuminuria, alopecia, alveolitis allergic, anaemia, anaphylactic shock, anaphylactoid reaction, angina pectoris, angioedema, anxiety, aplastic anaemia, arrhythmia, asthenia, asthma, azotaemia, blood uric acid increased, body temperature increased, chills, confusional state, congenital anomaly, constipation, cough, decreased appetite, depression, dermatitis, dermatitis bullous, developmental delay, diarrhoea, discomfort, dizziness, dry mouth, duodenal ulcer, duodenitis, dyspepsia, dysphagia, dyspnoea, dysuria, eosinophilic pneumonia, erectile dysfunction, eructation, erythema multiforme, fatigue, feeling abnormal, flatulence, gastric ulcer, gastritis, gastroenteritis, gastrointestinal haemorrhage, gastrointestinal pain, gingivitis, glossitis, haematuria, haemoglobin, haemorrhage, headache, hepatic failure, hyperglycaemia, hyperhidrosis, hypersensitivity, hypertension, hyperuricaemia, hypokalaemia, ill-defined disorder, increased appetite, insomnia, interstitial lung disease, jaundice, jaundice cholestatic, leukopenia, liver function test abnormal, loss of consciousness, malaise, melaena, myocardial infarction, nausea, nephritic syndrome, nephrolithiasis, nephrotic syndrome, nervousness, nightmare, occult blood positive, oedema, palpitations, pancreatitis, paraesthesia, peptic ulcer, photosensitivity reaction, pneumonia, pruritus, pseudoporphyria, rash, rectal haemorrhage, renal failure, shock, somnolence, stevens-johnson syndrome, stomatitis, syncope, tension, thrombocytopenia, thrombophlebitis, tinnitus, toxic epidermal necrolysis, tremor, tubulointerstitial nephritis, urticaria, vaginal haemorrhage, vasculitis, vertigo, visual impairment, vomiting, weight decreased, weight increased"
+          }
+        },
+        {
+          "rank": 5,
+          "score": 0.807128906,
+          "id": "format_a_parecoxib_519",
+          "metadata": {
+            "drug": "parecoxib",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug parecoxib causes the following side effects or adverse reactions: abdominal pain, acute coronary syndrome, agitation, alanine aminotransferase increased, alveolar osteitis, anaemia postoperative, anaphylactic shock, anaphylactoid reaction, angioedema, angiopathy, arthralgia, aspartate aminotransferase increased, asthenia, back pain, blood creatine phosphokinase increased, blood creatinine increased, blood lactate dehydrogenase increased, blood urea increased, bradycardia, bronchospasm, cardiac disorder, cardiac failure congestive, cerebrovascular disorder, connective tissue disorder, constipation, decreased appetite, dermatitis, dermatitis exfoliative, dizziness, dry mouth, dyspepsia, dyspnoea, ear pain, ecchymosis, erythema multiforme, flatulence, gastrointestinal disorder, gastrointestinal pain, gastrointestinal sounds abnormal, gastrooesophageal reflux disease, hepatitis, hyperglycaemia, hyperhidrosis, hypersensitivity, hypertension, hypoaesthesia, hypokalaemia, hypotension, immune system disorder, infection, infestation, injection site pain, injection site reaction, insomnia, malnutrition, mediastinal disorder, musculoskeletal discomfort, myocardial infarction, nausea, nervous system disorder, oedema mouth, oedema peripheral, oesophagitis, oliguria, orthostatic hypotension, pancreatitis, pharyngitis, post procedural complication, pruritus, pulmonary embolism, rash, renal failure, renal failure acute, respiratory failure, shock, skin disorder, stevens-johnson syndrome, swelling, tachycardia, thrombocytopenia, toxic epidermal necrolysis, ulcer, urethral disorder, urinary tract disorder, urticaria, vomiting, wound infection"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "query": {
+      "format": "A",
+      "drug": "metformin",
+      "side_effect": "dizziness",
+      "query_text": "metformin dizziness",
+      "timestamp": "2025-09-21T00:19:31.486188"
+    },
+    "pinecone_response": {
+      "total_matches": 5,
+      "namespace": "drug-side-effects-formatA",
+      "matches": [
+        {
+          "rank": 1,
+          "score": 0.846618772,
+          "id": "format_a_metformin_395",
+          "metadata": {
+            "drug": "metformin",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug metformin causes the following side effects or adverse reactions: abdominal discomfort, abdominal distension, abdominal pain, abdominal pain upper, abnormal faeces, acetonaemia, acidosis, acute prerenal failure, anaemia megaloblastic, angina pectoris, angina unstable, angiopathy, asthenia, azotaemia, blood disorder, body temperature decreased, bradycardia, breast disorder, cardiac disorder, chest discomfort, chest pain, chills, connective tissue disorder, constipation, contusion, decreased appetite, dehydration, dermatitis, diarrhoea, discomfort, dizziness, dysgeusia, dyspepsia, dyspnoea, ear pain, emotional distress, epigastric discomfort, erythema, eye disorder, fatigue, feeling abnormal, flatulence, flushing, fungal infection, gastrointestinal disorder, gastrointestinal pain, gastrointestinal tract irritation, headache, hepatitis, hepatobiliary disease, hyperhidrosis, hypertension, hypoaesthesia, hypoglycaemia, hypotension, hypothermia, ill-defined disorder, immune system disorder, infection, infestation, influenza, injury, ketoacidosis, ketonuria, lethargy, liver function test abnormal, loss of consciousness, malaise, malnutrition, mediastinal disorder, migraine, muscle spasms, muscle strain, musculoskeletal discomfort, myalgia, nail disorder, nasal congestion, nasopharyngitis, nausea, nervous system disorder, neuropathy peripheral, neutropenia, oedema, oedema peripheral, pain in extremity, palpitations, pancreatitis, paraesthesia, pruritus, rash, renal impairment, respiratory distress, rhinitis, rhinitis seasonal, rhinorrhoea, seasonal allergy, shock, sinus congestion, sinus headache, skin disorder, somnolence, syncope, thrombocytopenia, tonsillitis, tooth abscess, toothache, tremor, upper respiratory tract infection, urticaria, viral diarrhoea, vision blurred, vitamin b12 deficiency, vomiting, white blood cell count increased"
+          }
+        },
+        {
+          "rank": 2,
+          "score": 0.805603087,
+          "id": "format_a_metolazone_471",
+          "metadata": {
+            "drug": "metolazone",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug metolazone causes the following side effects or adverse reactions: abdominal discomfort, abdominal distension, abdominal pain, agitation, agranulocytosis, alkalosis hypochloraemic, anaemia, anxiety, arthralgia, asthenia, back pain, blood urea increased, blood uric acid increased, chest pain, chills, constipation, cough, cutaneous vasculitis, decreased appetite, dermatitis, diarrhoea, discomfort, dizziness, dry mouth, dry skin, dysgeusia, dyspepsia, epistaxis, erectile dysfunction, erythema multiforme, eye pruritus, fatigue, feeling abnormal, flatulence, gastrointestinal pain, glycosuria, headache, hepatitis, hypercalcaemia, hyperglycaemia, hypersensitivity, hypertension, hyperuricaemia, hypochloraemia, hypokalaemia, hypomagnesaemia, hyponatraemia, hypophosphataemia, hypoplastic anaemia, hypovolaemia, ill-defined disorder, insomnia, jaundice cholestatic, lethargy, leukopenia, loss of consciousness, major depression, malaise, muscle spasms, musculoskeletal discomfort, nausea, nervousness, neuropathy peripheral, nocturia, oropharyngeal discomfort, oropharyngeal pain, orthostatic hypotension, pain, palpitations, pancreatitis, paraesthesia, peripheral coldness, petechiae, photosensitivity reaction, pruritus, purpura, rash, shock, sinus congestion, skin exfoliation, skin necrosis, somnolence, stevens-johnson syndrome, swelling, syncope, tension, thrombocytopenia, tinnitus, toxic epidermal necrolysis, urticaria, vascular purpura, vasculitis necrotising, venous thrombosis, vertigo, vision blurred, vomiting"
+          }
+        },
+        {
+          "rank": 3,
+          "score": 0.800842404,
+          "id": "format_a_metoclopramide_439",
+          "metadata": {
+            "drug": "metoclopramide",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug metoclopramide causes the following side effects or adverse reactions: agitation, agranulocytosis, akathisia, akinesia, altered state of consciousness, amenorrhoea, angioedema, anxiety, asthenia, asthma, atrial fibrillation, atrioventricular block, autonomic nervous system imbalance, blood disorder, body temperature increased, bradycardia, bradykinesia, breast enlargement, bronchospasm, cardiac arrest, cardiac failure congestive, cardio-respiratory arrest, cogwheel rigidity, completed suicide, confusional state, convulsion, delirium, depression, depression suicidal, dermatitis, diarrhoea, dizziness, dyskinesia, dysphoria, dyspnoea, dystonia, erectile dysfunction, extrapyramidal disorder, fatigue, feeling abnormal, feeling jittery, fluid retention, flushing, galactorrhoea, grimacing, gynaecomastia, hallucination, headache, hepatotoxicity, hyperprolactinaemia, hyperpyrexia, hypersensitivity, hypertension, hypotension, incontinence, insomnia, jaundice, laryngeal oedema, laryngospasm, leukopenia, mania, masked facies, menstruation irregular, methaemoglobinaemia, muscle rigidity, muscle spasms, nausea, nervousness, neuroleptic malignant syndrome, neutropenia, obsessive rumination, obsessive thoughts, oculogyric crisis, oedema, opisthotonus, palpitations, pollakiuria, porphyrin metabolism disorder, priapism, protrusion tongue, rash, rash maculo-papular, renal impairment, respiratory failure, sexual dysfunction, sinus arrest, somnolence, stridor, suicidal ideation, sulphaemoglobinaemia, supraventricular tachycardia, tachycardia, tardive dyskinesia, tetanus, torticollis, tremor, trismus, upper airway obstruction, urinary incontinence, urticaria, ventricular fibrillation, ventricular tachycardia, visual impairment, wheezing"
+          }
+        },
+        {
+          "rank": 4,
+          "score": 0.79345715,
+          "id": "format_a_nateglinide_828",
+          "metadata": {
+            "drug": "nateglinide",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug nateglinide causes the following side effects or adverse reactions: abdominal pain, arthropathy, asthenia, back pain, bronchitis, cough, dermatitis, diarrhoea, dizziness, dyspepsia, erythema multiforme, fatigue, gastrointestinal disorder, gastrointestinal pain, hepatic enzyme increased, hepatitis cholestatic, hepatobiliary disease, hyperhidrosis, hypersensitivity, hypoglycaemia, immune system disorder, increased appetite, influenza, injury, jaundice, malnutrition, nausea, neuropathy peripheral, oedema peripheral, osteoarthritis, palpitations, polyuria, pruritus, rash, thirst, tremor, upper respiratory tract infection, urine output increased, urticaria, vomiting"
+          }
+        },
+        {
+          "rank": 5,
+          "score": 0.79296881,
+          "id": "format_a_metrodin_127",
+          "metadata": {
+            "drug": "metrodin",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug metrodin causes the following side effects or adverse reactions: abdominal discomfort, abdominal distension, abdominal pain, abdominal pain lower, abdominal pain upper, abnormal faeces, abortion spontaneous, abscess, acne, acute respiratory distress syndrome, adnexa uteri pain, adnexal torsion, affect lability, alopecia, anaphylactic shock, anaphylactoid reaction, angiopathy, anovulatory cycle, anxiety, application site oedema, arthralgia, arthropathy, aspartate aminotransferase increased, assisted fertilisation, asthenia, asthma, atelectasis, back pain, benign hydatidiform mole, bladder pain, blood bilirubin increased, blood lactate dehydrogenase increased, blood urea increased, body temperature increased, breast disorder, breast pain, breast tenderness, bronchitis, cervix disorder, chest pain, chills, coagulopathy, complication of pregnancy, congenital anomaly, congenital eye disorder, congestive cardiomyopathy, conjunctivitis, connective tissue disorder, constipation, contusion, cough, cryptorchism, cyst, cystitis, cystitis noninfective, decreased appetite, dehydration, dependence, depression, dermatitis, dermatitis exfoliative, dermoid cyst, developmental delay, diarrhoea, discomfort, dizziness, drug abuse, dry skin, dysmenorrhoea, dyspepsia, dyspnoea, dysuria, ectopic pregnancy, eczema, embolism, embolism venous, emotional distress, endocrine disorder, erythema, exomphalos, eye disorder, face oedema, fatigue, feeling abnormal, flatulence, foetal disorder, fungal infection, gastrointestinal disorder, gastrointestinal pain, gastrooesophageal reflux disease, general symptom, genital candidiasis, genital herpes, genital infection, genital pain, gynaecomastia, haematoma, haemoglobin, haemoptysis, haemorrhage, haemorrhoids, headache, herpes simplex, herpes zoster, hot flush, hydrocephalus, hyperaesthesia, hyperhidrosis, hypersensitivity, hypertension, hypotension, ill-defined disorder, immune system disorder, induration, infection, infestation, influenza, influenza like illness, injection site bruising, injection site haemorrhage, injection site induration, injection site inflammation, injection site irritation, injection site pain, injection site reaction, injury, insomnia, joint dislocation, laryngeal pain, leukopenia, local reaction, loss of consciousness, lymphadenopathy, malaise, mediastinal disorder, melaena, meningocele, menopausal symptoms, menorrhagia, menstrual disorder, mental disorder, metrorrhagia, migraine, mood swings, mouth ulceration, multiple congenital abnormalities, multiple pregnancy, muscle spasms, musculoskeletal discomfort, myalgia, nasal congestion, nasopharyngitis, nausea, neck pain, neoplasm, nephrolithiasis, nervous system disorder, nervousness, neutropenia, nipple pain, oedema, oropharyngeal discomfort, oropharyngeal pain, osteoarthritis, otitis media, ovarian cyst, ovarian disorder, ovarian enlargement, ovarian hyperstimulation syndrome, ovarian neoplasm, pain, palpitations, paraesthesia, pelvic discomfort, pelvic pain, peritoneal haemorrhage, pharyngitis, pilonidal cyst, pneumothorax, pollakiuria, pregnancy, premature labour, presyncope, pruritus, pruritus genital, puerperal pyrexia, rash, red blood cells semen positive, rhinitis, secondary hypogonadism, sepsis, shock, sinusitis, skin disorder, somnolence, spermatocele, swelling, swelling face, syncope, systemic lupus erythematosus, tachycardia, tachypnoea, tenderness, tension, thirst, throat irritation, thrombosis, tooth disorder, toothache, trisomy 18, upper limb fracture, upper respiratory tract infection, urinary incontinence, urinary tract infection, urticaria, uterine disorder, uterine enlargement, uterine haemorrhage, uterine spasm, vaginal discharge, vaginal haemorrhage, vaginal infection, vaginal inflammation, varicocele, varicose vein, viral infection, vomiting, vulvovaginal pruritus, vulvovaginitis, weight increased"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "query": {
+      "format": "A",
+      "drug": "lisinopril",
+      "side_effect": "cough",
+      "query_text": "lisinopril cough",
+      "timestamp": "2025-09-21T00:19:31.857092"
+    },
+    "pinecone_response": {
+      "total_matches": 5,
+      "namespace": "drug-side-effects-formatA",
+      "matches": [
+        {
+          "rank": 1,
+          "score": 0.835632384,
+          "id": "format_a_lisinopril_134",
+          "metadata": {
+            "drug": "lisinopril",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug lisinopril causes the following side effects or adverse reactions: abdominal pain, acute coronary syndrome, acute myocardial infarction, agranulocytosis, alopecia, anaemia, anaphylactic shock, anaphylactoid reaction, angina pectoris, angioedema, angiopathy, antinuclear antibody positive, anuria, anxiety, arrhythmia, arthralgia, arthritis, arthropathy, asthenia, asthma, ataxia, atrial fibrillation, atrial flutter, atrial tachycardia, atrioventricular block complete, azotaemia, back pain, bladder pain, blindness, blood creatinine increased, blood urea increased, body temperature increased, bradycardia, breast disorder, breast pain, breath sounds abnormal, bronchitis, bronchospasm, bursitis, cardiac arrest, cardiac fibrillation, cerebral ischaemia, cerebrovascular accident, chest discomfort, chest pain, chills, confusional state, constipation, cough, cystitis, cystitis noninfective, decreased appetite, dehydration, depression, depressive symptom, dermatitis, diabetes mellitus, diabetic complication, diarrhoea, diplopia, discomfort, disturbance in sexual arousal, dizziness, drug interaction, dry mouth, dysaesthesia, dysgeusia, dyspepsia, dyspnoea, dyspnoea paroxysmal nocturnal, dysuria, ear disorder, eczema, endocrine disorder, eosinophilia, epistaxis, erectile dysfunction, erythema, erythema multiforme, face oedema, fatigue, feeling abnormal, flank pain, flatulence, fluid overload, fluid retention, flushing, gastritis, gastroenteritis, gastrointestinal disorder, gastrointestinal pain, generalised oedema, gout, haematuria, haemolytic anaemia, haemoptysis, hallucination, headache, hepatic failure, hepatic function abnormal, hepatitis, hepatobiliary disease, herpes zoster, hyperglycaemia, hyperhidrosis, hyperkalaemia, hyperlipidaemia, hypersensitivity, hypersomnia, hypertonia, hypoglycaemia, hyponatraemia, hypotension, ill-defined disorder, inappropriate antidiuretic hormone secretion, infarction, infection, influenza, influenza like illness, injury, insomnia, irritability, jaundice, jaundice cholestatic, laryngeal oedema, laryngitis, leukocytosis, leukopenia, libido decreased, loss of consciousness, lung infiltration, lung neoplasm, malaise, malnutrition, mediastinal disorder, memory impairment, mental disorder, muscle spasms, musculoskeletal discomfort, musculoskeletal pain, myalgia, myocardial infarction, nasal congestion, nasopharyngitis, nausea, neck pain, nervousness, neuropathy peripheral, neutropenia, oedema, oedema peripheral, oliguria, oropharyngeal discomfort, oropharyngeal pain, orthopnoea, orthostatic hypotension, osteoarthritis, otitis media, pain, pain in extremity, painful respiration, palpitations, pancreatitis, pancytopenia, papillary muscle rupture, paraesthesia, pelvic pain, pemphigus, persistent foetal circulation, pharyngitis, photophobia, photosensitivity reaction, pleural effusion, pneumonia, postinfarction angina, protein urine present, proteinuria, pruritus, pseudolymphoma, psoriasis, pulmonary embolism, pulmonary eosinophilia, pulmonary oedema, pyelonephritis, rash, red blood cell sedimentation rate increased, renal failure, renal failure acute, renal impairment, renal pain, rhinitis, rhinorrhoea, salivary hypersecretion, shock, sinusitis, skin disorder, skin infection, sleep disorder, somnolence, stevens-johnson syndrome, syncope, tachycardia, tendon disorder, tension, thrombocytopenia, tinnitus, toxic epidermal necrolysis, transient ischaemic attack, tremor, upper respiratory tract infection, urethral disorder, urinary tract disorder, urinary tract infection, urticaria, vasculitis, ventricular extrasystoles, ventricular fibrillation, ventricular tachycardia, vertigo, viral infection, vision blurred, vomiting, weight decreased, weight increased, wheezing"
+          }
+        },
+        {
+          "rank": 2,
+          "score": 0.807800293,
+          "id": "format_a_benazepril_474",
+          "metadata": {
+            "drug": "benazepril",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug benazepril causes the following side effects or adverse reactions: abdominal pain, acute coronary syndrome, agranulocytosis, alopecia, anaphylactic shock, anaphylactoid reaction, angina pectoris, angioedema, anxiety, arrhythmia, arthralgia, arthritis, asthenia, asthma, back pain, blood creatinine increased, blood urea increased, bronchitis, cerebrovascular accident, chest pain, constipation, coordination abnormal, cough, dermatitis, diarrhoea, disturbance in sexual arousal, dizziness, dizziness postural, dyspepsia, dyspnoea, electrocardiogram change, eosinophilia, erectile dysfunction, erythema multiforme, face oedema, fatigue, flatulence, flushing, gastritis, gastrointestinal pain, haemolytic anaemia, headache, hepatitis, hyperhidrosis, hyperkalaemia, hypersensitivity, hypertonia, hyponatraemia, hypotension, infection, influenza, insomnia, jaundice cholestatic, laryngeal oedema, leukopenia, libido decreased, lip oedema, lipoedema, loss of consciousness, melaena, musculoskeletal discomfort, musculoskeletal pain, myalgia, myocardial infarction, nausea, nervousness, neutropenia, oedema, oedema peripheral, orthostatic hypotension, palpitations, pancreatitis, paraesthesia, pemphigus, pharyngitis, photosensitivity reaction, pollakiuria, protein urine present, proteinuria, pruritus, pulmonary eosinophilia, rash, rhinitis, shock, sinusitis, small bowel angioedema, somnolence, stevens-johnson syndrome, syncope, tension, thrombocytopenia, tinnitus, urinary tract infection, vertigo, vomiting"
+          }
+        },
+        {
+          "rank": 3,
+          "score": 0.803527951,
+          "id": "format_a_cilazapril_297",
+          "metadata": {
+            "drug": "cilazapril",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug cilazapril causes the following side effects or adverse reactions: abdominal pain, acute coronary syndrome, agranulocytosis, alopecia, anaemia, angina pectoris, angioedema, angiopathy, anxiety, arrhythmia, arthralgia, asthenia, ataxia, atrial fibrillation, atrioventricular block, azotaemia, blood creatinine abnormal, blood disorder, bradycardia, bronchitis, bronchospasm, cardiac disorder, cardiac failure, cardiac failure congestive, cardiogenic shock, cerebrovascular accident, cerebrovascular disorder, chest pain, chills, confusional state, conjunctivitis, constipation, cough, decreased appetite, dermatitis, diarrhoea, discomfort, disturbance in sexual arousal, dizziness, dry mouth, dysgeusia, dyspepsia, dysphonia, dyspnoea, dysuria, epistaxis, erectile dysfunction, erythema multiforme, extrasystoles, face oedema, fatigue, feeling abnormal, flatulence, flushing, gastrointestinal disorder, gastrointestinal haemorrhage, gastrointestinal pain, gout, haemolytic anaemia, headache, hepatic function abnormal, hepatitis cholestatic, hepatobiliary disease, hot flush, hyperglycaemia, hyperhidrosis, hyperkalaemia, hypersensitivity, hypertension, hypoaesthesia, hypotension, ill-defined disorder, immune system disorder, insomnia, laryngeal oedema, leukopenia, libido decreased, liver function test abnormal, loss of consciousness, malaise, menopausal symptoms, migraine, muscle spasms, musculoskeletal discomfort, myalgia, myocardial infarction, myocardial ischaemia, nausea, necrosis, nephropathy, nervousness, neutropenia, oedema, orthostatic hypotension, pain, palpitations, pancreatitis, paraesthesia, pemphigus, pharyngitis, photophobia, photosensitivity reaction, pollakiuria, polyuria, protein urine present, proteinuria, pruritus, purpura, rash, rash erythematous, rash maculo-papular, rectal haemorrhage, renal artery stenosis, renal failure, renal failure acute, renal impairment, renal pain, respiratory tract infection, rhinitis, scleroderma, shock, sinusitis, skin disorder, somnolence, stevens-johnson syndrome, syncope, systemic lupus erythematosus, tachycardia, tension, thrombocytopenia, thrombocytopenic purpura, tinnitus, toxic epidermal necrolysis, tremor, urethral disorder, urinary tract disorder, urine output increased, urticaria, vascular purpura, vertigo, visual impairment, vomiting"
+          }
+        },
+        {
+          "rank": 4,
+          "score": 0.801391602,
+          "id": "format_a_captopril_321",
+          "metadata": {
+            "drug": "captopril",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug captopril causes the following side effects or adverse reactions: abdominal pain, acidosis, ageusia, agranulocytosis, alopecia, anaemia, anaphylactic shock, anaphylactoid reaction, angina pectoris, angioedema, antinuclear antibody positive, anuria, aphthous stomatitis, arthralgia, asthenia, ataxia, blister, blood potassium increased, blood pressure increased, blood pressure normal, body temperature increased, bronchospasm, cardiac arrest, cerebrovascular accident, chest pain, cholestasis, confusional state, constipation, cough, decreased appetite, dermatitis, dermatitis bullous, dermatitis exfoliative, diabetes mellitus, diarrhoea, discomfort, dizziness, drug interaction, dry eye, dry mouth, dysgeusia, dyspepsia, dyspnoea, eosinophilia, epigastric discomfort, erectile dysfunction, erythema multiforme, fatigue, feeling abnormal, flushing, gastrointestinal pain, glossitis, gynaecomastia, haemolytic anaemia, hallucination, headache, hepatic necrosis, hepatitis, hepatocellular injury, hyperkalaemia, hyponatraemia, hypotension, hypovolaemia, ill-defined disorder, insomnia, jaundice, jaundice cholestatic, laryngeal oedema, liver injury, loss of consciousness, loss of libido, lymphadenopathy, malaise, microcephaly, microsomia, muscle contracture, muscular weakness, musculoskeletal discomfort, myalgia, nausea, necrosis, nephritis, nephrotic syndrome, nervousness, neutropenia, obstructive airways disorder, oligohydramnios, oliguria, orthostatic hypotension, pallor, palpitations, pancreatitis, pancytopenia, paraesthesia, patent ductus arteriosus, pemphigoid, pemphigus, peptic ulcer, pharyngitis, photosensitivity reaction, pollakiuria, polyuria, pregnancy, protein urine present, proteinuria, pruritus, pulmonary eosinophilia, rales, rash, red blood cell sedimentation rate increased, renal failure, renal failure acute, renal failure chronic, renovascular hypertension, rhinitis, serum sickness, shock, somnolence, stevens-johnson syndrome, stomatitis, syncope, tachycardia, tension, thermal burn, thrombocytopenia, tongue ulceration, traumatic liver injury, tubulointerstitial nephritis, ulcer, urine output increased, vasculitis, vision blurred, vomiting, weight decreased"
+          }
+        },
+        {
+          "rank": 5,
+          "score": 0.799621582,
+          "id": "format_a_quinapril_491",
+          "metadata": {
+            "drug": "quinapril",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug quinapril causes the following side effects or adverse reactions: abdominal pain, acute coronary syndrome, agranulocytosis, alopecia, amblyopia, anaphylactic shock, anaphylactoid reaction, angina pectoris, angioedema, angiopathy, arrhythmia, arthralgia, asthenia, back pain, blood urea increased, breast disorder, cardiac disorder, cardiogenic shock, cerebrovascular accident, chest pain, connective tissue disorder, constipation, cough, depression, dermatitis, dermatitis exfoliative, dermatomyositis, diarrhoea, discomfort, dizziness, dry mouth, dyspepsia, dyspnoea, erectile dysfunction, eye disorder, fatigue, feeling abnormal, flatulence, gastrointestinal disorder, gastrointestinal haemorrhage, gastrointestinal pain, haemolytic anaemia, headache, hepatitis, hepatobiliary disease, hyperhidrosis, hyperkalaemia, hypertensive crisis, ill-defined disorder, immune system disorder, infection, infestation, insomnia, laryngeal oedema, liver function test abnormal, loss of consciousness, malaise, mediastinal disorder, mental disorder, musculoskeletal discomfort, myalgia, myocardial infarction, nausea, nervous system disorder, nervousness, oedema, orthostatic hypotension, palpitations, pancreatitis, paraesthesia, pemphigus, pharyngitis, photosensitivity reaction, pregnancy, pruritus, pulmonary eosinophilia, rash, renal failure, renal failure acute, shock, skin disorder, somnolence, syncope, tachycardia, tension, thrombocytopenia, urethral disorder, urinary tract disorder, urinary tract infection, vasodilation procedure, vertigo, viral infection, vomiting"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "query": {
+      "format": "A",
+      "drug": "atorvastatin",
+      "side_effect": "muscle pain",
+      "query_text": "atorvastatin muscle pain",
+      "timestamp": "2025-09-21T00:19:32.225072"
+    },
+    "pinecone_response": {
+      "total_matches": 5,
+      "namespace": "drug-side-effects-formatA",
+      "matches": [
+        {
+          "rank": 1,
+          "score": 0.856994689,
+          "id": "format_a_atorvastatin_156",
+          "metadata": {
+            "drug": "atorvastatin",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug atorvastatin causes the following side effects or adverse reactions: abdominal discomfort, abdominal pain, abnormal dreams, affect lability, ageusia, agitation, alanine aminotransferase increased, alopecia, amblyopia, amnesia, anaemia, anaphylactic shock, angioedema, anorectal discomfort, arrhythmia, arthralgia, arthritis, aspartate aminotransferase increased, asthenia, asthma, back pain, biliary colic, bladder pain, blood bilirubin increased, blood creatine phosphokinase increased, blood magnesium decreased, body temperature increased, breast disorder, breast enlargement, bronchitis, bursitis, cerebral haemorrhage, cheilitis, chest pain, cholestasis, cognitive disorder, colitis, confusional state, connective tissue disorder, constipation, coordination abnormal, cystitis, cystitis noninfective, deafness, decreased appetite, dermatitis, dermatitis contact, diarrhoea, discomfort, disturbance in sexual arousal, dizziness, drug interaction, dry eye, dry mouth, dry skin, duodenal ulcer, dysgeusia, dyspepsia, dysphagia, dyspnoea, dysuria, ecchymosis, eczema, ejaculation disorder, enteritis, epididymitis, epistaxis, erectile dysfunction, eructation, erythema multiforme, eye disorder, eye haemorrhage, face oedema, fatigue, feeling abnormal, fibrocystic breast disease, flatulence, fluid retention, gastric ulcer, gastritis, gastroenteritis, gastrointestinal disorder, gastrointestinal pain, generalised oedema, gingival bleeding, glaucoma, glossitis, gout, gynaecomastia, haematuria, haemorrhagic stroke, headache, hepatic enzyme increased, hepatic failure, hepatitis, hepatobiliary disease, hyperglycaemia, hyperhidrosis, hyperkinesia, hypersensitivity, hypertonia, hypoaesthesia, hypoglycaemia, ill-defined disorder, immune system disorder, immune-mediated necrotising myopathy, increased appetite, infection, infestation, influenza, injury, insomnia, interstitial lung disease, ischaemic stroke, jaundice cholestatic, joint swelling, laryngeal pain, libido decreased, liver function test abnormal, loss of consciousness, lymphadenopathy, malaise, malnutrition, mediastinal disorder, melaena, memory impairment, mental disorder, metrorrhagia, micturition urgency, migraine, mood swings, mouth ulceration, muscle fatigue, muscle spasms, muscle swelling, muscular weakness, musculoskeletal discomfort, musculoskeletal pain, musculoskeletal stiffness, myalgia, myoglobin urine present, myoglobinuria, myopathy, myositis, nasopharyngitis, nausea, neck pain, nephritis, nephrolithiasis, nervous system disorder, neuropathy peripheral, nightmare, nocturia, nuchal rigidity, oedema peripheral, oesophagitis, orthostatic hypotension, pain, pain in extremity, palpitations, pancreatitis, paraesthesia, parosmia, petechiae, pharyngitis, phlebitis, photosensitivity reaction, pneumonia, pollakiuria, proctalgia, pruritus, rash, rectal haemorrhage, rectal tenesmus, refraction disorder, renal failure, renal failure acute, renal impairment, rhabdomyolysis, rhinitis, seborrhoeic dermatitis, shock, sinusitis, skin disorder, skin ulcer, somnolence, stevens-johnson syndrome, stomatitis, syncope, tendinous contracture, tendon rupture, tenosynovitis, thrombocytopenia, tinnitus, torticollis, toxic epidermal necrolysis, transaminases increased, transient ischaemic attack, urinary incontinence, urinary retention, urinary tract infection, urticaria, uterine haemorrhage, vaginal haemorrhage, viith nerve paralysis, vision blurred, vomiting, weight increased, white blood cells urine positive"
+          }
+        },
+        {
+          "rank": 2,
+          "score": 0.850586,
+          "id": "format_a_pitavastatin_789",
+          "metadata": {
+            "drug": "pitavastatin",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug pitavastatin causes the following side effects or adverse reactions: abdominal discomfort, abdominal pain, amnesia, arthralgia, asthenia, back pain, cognitive disorder, confusional state, constipation, dermatitis, diarrhoea, discomfort, dizziness, dyspepsia, erectile dysfunction, fatigue, feeling abnormal, gastrointestinal pain, headache, hepatic failure, hepatitis, hypersensitivity, hypoaesthesia, ill-defined disorder, immune-mediated necrotising myopathy, influenza, insomnia, interstitial lung disease, jaundice, malaise, memory impairment, muscle spasms, musculoskeletal discomfort, myalgia, myoglobin urine present, myoglobinuria, myopathy, myositis, nasopharyngitis, nausea, pain in extremity, pruritus, rash, renal failure acute, rhabdomyolysis, urticaria"
+          }
+        },
+        {
+          "rank": 3,
+          "score": 0.844970822,
+          "id": "format_a_cerivastatin_414",
+          "metadata": {
+            "drug": "cerivastatin",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug cerivastatin causes the following side effects or adverse reactions: abdominal pain, agitation, alopecia, amnesia, anaemia, anaphylactic shock, anaphylactoid reaction, angina pectoris, angioedema, antinuclear antibody positive, anxiety, arthralgia, arthritis, asthenia, back pain, body temperature increased, bronchitis, cataract, chest pain, chills, colitis, constipation, cough, decreased appetite, dermatitis, dermatomyositis, diarrhoea, discomfort, dizziness, drug reaction with eosinophilia and systemic symptoms, duodenal ulcer, dysgeusia, dyspepsia, dyspnoea, eosinophilia, epistaxis, erectile dysfunction, erythema multiforme, facial paresis, feeling abnormal, flatulence, flushing, gastrointestinal disorder, gastrointestinal haemorrhage, gastrointestinal pain, gynaecomastia, haemolytic anaemia, headache, hepatic cancer, hepatic necrosis, hepatitis, hepatitis chronic active, hepatocellular carcinoma, hyperkinesia, hypersensitivity, hypertonia, iiird nerve paralysis, ill-defined disorder, influenza, injury, insomnia, jaundice cholestatic, lenticular opacities, leukopenia, loss of libido, malaise, muscle spasms, muscular weakness, musculoskeletal discomfort, myalgia, myoglobin urine present, myoglobinuria, myopathy, myositis, nausea, neuropathy peripheral, nodule, oedema, ophthalmoplegia, pain in extremity, pancreatitis, paraesthesia, paralysis, peripheral nerve palsy, pharyngitis, photosensitivity reaction, polymyalgia rheumatica, pruritus, purpura, rash, renal failure acute, renal impairment, rhabdomyolysis, rhinitis, sinusitis, somnolence, stevens-johnson syndrome, systemic lupus erythematosus, thrombocytopenia, toxic epidermal necrolysis, transaminases increased, tremor, urticaria, vascular purpura, vasculitis, vertigo, viith nerve paralysis, vision blurred, visual impairment, vomiting"
+          }
+        },
+        {
+          "rank": 4,
+          "score": 0.842895567,
+          "id": "format_a_lovastatin_428",
+          "metadata": {
+            "drug": "lovastatin",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug lovastatin causes the following side effects or adverse reactions: abdominal discomfort, abdominal pain, alopecia, amnesia, anaphylactic shock, angioedema, antinuclear antibody positive, anxiety, arthralgia, arthritis, asthenia, back pain, blood alkaline phosphatase increased, blood creatine phosphokinase increased, body temperature increased, cataract, chest pain, chills, cognitive disorder, confusional state, constipation, decreased appetite, dermatitis, dermatomyositis, diarrhoea, discomfort, dizziness, drug reaction with eosinophilia and systemic symptoms, dry mouth, dysgeusia, dyspepsia, dyspnoea, eosinophilia, erectile dysfunction, erythema multiforme, eye irritation, facial paresis, fatigue, feeling abnormal, flatulence, flushing, gastrointestinal pain, gynaecomastia, haemolytic anaemia, headache, hepatic cancer, hepatic failure, hepatic function abnormal, hepatic necrosis, hepatitis, hepatitis chronic active, hepatocellular carcinoma, hypersensitivity, iiird nerve paralysis, ill-defined disorder, immune-mediated necrotising myopathy, infection, influenza, injury, insomnia, jaundice cholestatic, lenticular opacities, leukopenia, loss of libido, lupus-like syndrome, malaise, memory impairment, menarche, muscle spasms, musculoskeletal discomfort, musculoskeletal pain, myalgia, myopathy, nausea, neuropathy peripheral, nodule, ophthalmoplegia, pain, pain in extremity, pancreatitis, paraesthesia, peripheral nerve palsy, photosensitivity reaction, polymyalgia rheumatica, pregnancy, pruritus, purpura, rash, regurgitation, rhabdomyolysis, sinusitis, stevens-johnson syndrome, systemic lupus erythematosus, tenderness, thrombocytopenia, toxic epidermal necrolysis, transaminases increased, tremor, urinary tract infection, urticaria, vascular purpura, vasculitis, vertigo, viith nerve paralysis, vision blurred, vomiting"
+          }
+        },
+        {
+          "rank": 5,
+          "score": 0.839416564,
+          "id": "format_a_simvastatin_334",
+          "metadata": {
+            "drug": "simvastatin",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug simvastatin causes the following side effects or adverse reactions: abdominal discomfort, abdominal pain, alopecia, amnesia, anaemia, anaphylactic shock, angioedema, antinuclear antibody positive, anxiety, arthralgia, arthritis, asthenia, atrial fibrillation, blood alkaline phosphatase increased, blood creatine phosphokinase increased, body temperature increased, breast feeding, bronchitis, cataract, chest pain, chills, cognitive disorder, confusional state, constipation, decreased appetite, depression, dermatitis, dermatomyositis, diabetes mellitus, diarrhoea, discomfort, dizziness, drug interaction, drug reaction with eosinophilia and systemic symptoms, dysgeusia, dyspepsia, dyspnoea, eczema, endocrine disorder, eosinophilia, erectile dysfunction, erythema, erythema multiforme, facial paresis, fatigue, feeling abnormal, flatulence, flushing, foetor hepaticus, gastritis, gastrointestinal disorder, gastrointestinal pain, gynaecomastia, haemolytic anaemia, headache, hepatic cancer, hepatic failure, hepatic function abnormal, hepatic necrosis, hepatitis, hepatitis chronic active, hepatocellular carcinoma, hepatocellular injury, hypersensitivity, iiird nerve paralysis, ill-defined disorder, immune-mediated necrotising myopathy, infection, inflammation, insomnia, interstitial lung disease, jaundice, jaundice cholestatic, lenticular opacities, leukopenia, liver disorder, loss of libido, lupus-like syndrome, malaise, memory impairment, menarche, mental disorder, muscle spasms, muscular weakness, musculoskeletal discomfort, musculoskeletal disorder, myalgia, myopathy, nausea, neuropathy peripheral, nightmare, nodule, oedema, ophthalmoplegia, pain, pancreatitis, paraesthesia, peripheral nerve palsy, photosensitivity reaction, polymyalgia rheumatica, polyneuropathy, pregnancy, protein urine present, proteinuria, pruritus, purpura, rash, red blood cell sedimentation rate increased, regurgitation, rhabdomyolysis, sensory disturbance, sexual dysfunction, sinusitis, sleep disorder, stevens-johnson syndrome, swelling, systemic lupus erythematosus, tenderness, thrombocytopenia, toxic epidermal necrolysis, transaminases increased, tremor, upper respiratory tract infection, urticaria, vascular purpura, vasculitis, vertigo, viith nerve paralysis, vision blurred, vomiting"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "query": {
+      "format": "B",
+      "drug": "aspirin",
+      "side_effect": "headache",
+      "query_text": "aspirin headache",
+      "timestamp": "2025-09-21T00:19:32.593659"
+    },
+    "pinecone_response": {
+      "total_matches": 5,
+      "drug_relevant_matches": 5,
+      "namespace": "drug-side-effects-formatB",
+      "matches": [
+        {
+          "rank": 1,
+          "score": 0.871032894,
+          "id": "format_b_aspirin_arthralgia_105304",
+          "metadata": {
+            "drug": "aspirin",
+            "drug_interaction": true,
+            "evidence_level": "post-market",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "rare",
+            "onset_time": "days",
+            "organ_class": "dermatological",
+            "paper_spec": "individual_pairs",
+            "reversibility": "irreversible",
+            "severity_score": 0.86,
+            "side_effect": "arthralgia",
+            "text": "The drug aspirin may cause arthralgia as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2013.0
+          }
+        },
+        {
+          "rank": 2,
+          "score": 0.867187679,
+          "id": "format_b_aspirin_vertigo_105278",
+          "metadata": {
+            "drug": "aspirin",
+            "drug_interaction": true,
+            "evidence_level": "post-market",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "rare",
+            "onset_time": "days",
+            "organ_class": "metabolic",
+            "paper_spec": "individual_pairs",
+            "reversibility": "reversible",
+            "severity_score": 0.73,
+            "side_effect": "vertigo",
+            "text": "The drug aspirin may cause vertigo as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2022.0
+          }
+        },
+        {
+          "rank": 3,
+          "score": 0.866821468,
+          "id": "format_b_aspirin_hypertension_105321",
+          "metadata": {
+            "drug": "aspirin",
+            "drug_interaction": true,
+            "evidence_level": "clinical_trial",
+            "fda_warning": true,
+            "format": "B",
+            "frequency": "very_rare",
+            "onset_time": "hours",
+            "organ_class": "musculoskeletal",
+            "paper_spec": "individual_pairs",
+            "reversibility": "reversible",
+            "severity_score": 0.74,
+            "side_effect": "hypertension",
+            "text": "The drug aspirin may cause hypertension as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2023.0
+          }
+        },
+        {
+          "rank": 4,
+          "score": 0.864258,
+          "id": "format_b_aspirin_urticaria_105332",
+          "metadata": {
+            "drug": "aspirin",
+            "drug_interaction": true,
+            "evidence_level": "case_report",
+            "fda_warning": true,
+            "format": "B",
+            "frequency": "common",
+            "onset_time": "hours",
+            "organ_class": "dermatological",
+            "paper_spec": "individual_pairs",
+            "reversibility": "irreversible",
+            "severity_score": 0.38,
+            "side_effect": "urticaria",
+            "text": "The drug aspirin may cause urticaria as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2022.0
+          }
+        },
+        {
+          "rank": 5,
+          "score": 0.864135861,
+          "id": "format_b_aspirin_contusion_105331",
+          "metadata": {
+            "drug": "aspirin",
+            "drug_interaction": true,
+            "evidence_level": "case_report",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "very_rare",
+            "onset_time": "immediate",
+            "organ_class": "dermatological",
+            "paper_spec": "individual_pairs",
+            "reversibility": "partially_reversible",
+            "severity_score": 0.4,
+            "side_effect": "contusion",
+            "text": "The drug aspirin may cause contusion as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2015.0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "query": {
+      "format": "B",
+      "drug": "ibuprofen",
+      "side_effect": "nausea",
+      "query_text": "ibuprofen nausea",
+      "timestamp": "2025-09-21T00:19:32.976539"
+    },
+    "pinecone_response": {
+      "total_matches": 5,
+      "drug_relevant_matches": 4,
+      "namespace": "drug-side-effects-formatB",
+      "matches": [
+        {
+          "rank": 1,
+          "score": 0.900329471,
+          "id": "format_b_ibuprofen_nausea_30923",
+          "metadata": {
+            "drug": "ibuprofen",
+            "drug_interaction": true,
+            "evidence_level": "case_report",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "uncommon",
+            "onset_time": "hours",
+            "organ_class": "musculoskeletal",
+            "paper_spec": "individual_pairs",
+            "reversibility": "reversible",
+            "severity_score": 0.52,
+            "side_effect": "nausea",
+            "text": "The drug ibuprofen may cause nausea as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2019.0
+          }
+        },
+        {
+          "rank": 2,
+          "score": 0.868225098,
+          "id": "format_b_ibuprofen_vomiting_31046",
+          "metadata": {
+            "drug": "ibuprofen",
+            "drug_interaction": true,
+            "evidence_level": "case_report",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "common",
+            "onset_time": "hours",
+            "organ_class": "dermatological",
+            "paper_spec": "individual_pairs",
+            "reversibility": "irreversible",
+            "severity_score": 0.8,
+            "side_effect": "vomiting",
+            "text": "The drug ibuprofen may cause vomiting as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2022.0
+          }
+        },
+        {
+          "rank": 3,
+          "score": 0.865722656,
+          "id": "format_b_flurbiprofen_nausea_42575",
+          "metadata": {
+            "drug": "flurbiprofen",
+            "drug_interaction": false,
+            "evidence_level": "case_report",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "rare",
+            "onset_time": "weeks",
+            "organ_class": "musculoskeletal",
+            "paper_spec": "individual_pairs",
+            "reversibility": "partially_reversible",
+            "severity_score": 0.11,
+            "side_effect": "nausea",
+            "text": "The drug flurbiprofen may cause nausea as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antipsychotic",
+            "year_reported": 2010.0
+          }
+        },
+        {
+          "rank": 4,
+          "score": 0.865234256,
+          "id": "format_b_ibuprofen_abdominal discomfort_31066",
+          "metadata": {
+            "drug": "ibuprofen",
+            "drug_interaction": true,
+            "evidence_level": "systematic_review",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "very_rare",
+            "onset_time": "immediate",
+            "organ_class": "metabolic",
+            "paper_spec": "individual_pairs",
+            "reversibility": "irreversible",
+            "severity_score": 0.81,
+            "side_effect": "abdominal discomfort",
+            "text": "The drug ibuprofen may cause abdominal discomfort as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2017.0
+          }
+        },
+        {
+          "rank": 5,
+          "score": 0.86328131,
+          "id": "format_b_ibuprofen_gastroenteritis_30967",
+          "metadata": {
+            "drug": "ibuprofen",
+            "drug_interaction": true,
+            "evidence_level": "case_report",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "uncommon",
+            "onset_time": "immediate",
+            "organ_class": "neurological",
+            "paper_spec": "individual_pairs",
+            "reversibility": "reversible",
+            "severity_score": 0.82,
+            "side_effect": "gastroenteritis",
+            "text": "The drug ibuprofen may cause gastroenteritis as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2023.0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "query": {
+      "format": "B",
+      "drug": "metformin",
+      "side_effect": "dizziness",
+      "query_text": "metformin dizziness",
+      "timestamp": "2025-09-21T00:19:33.348094"
+    },
+    "pinecone_response": {
+      "total_matches": 5,
+      "drug_relevant_matches": 4,
+      "namespace": "drug-side-effects-formatB",
+      "matches": [
+        {
+          "rank": 1,
+          "score": 0.901733458,
+          "id": "format_b_metformin_dizziness_86966",
+          "metadata": {
+            "drug": "metformin",
+            "drug_interaction": false,
+            "evidence_level": "case_report",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "uncommon",
+            "onset_time": "immediate",
+            "organ_class": "musculoskeletal",
+            "paper_spec": "individual_pairs",
+            "reversibility": "reversible",
+            "severity_score": 0.3,
+            "side_effect": "dizziness",
+            "text": "The drug metformin may cause dizziness as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antihypertensive",
+            "year_reported": 2015.0
+          }
+        },
+        {
+          "rank": 2,
+          "score": 0.859863341,
+          "id": "format_b_metformin_dyspnoea_86975",
+          "metadata": {
+            "drug": "metformin",
+            "drug_interaction": false,
+            "evidence_level": "systematic_review",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "very_rare",
+            "onset_time": "immediate",
+            "organ_class": "musculoskeletal",
+            "paper_spec": "individual_pairs",
+            "reversibility": "reversible",
+            "severity_score": 0.33,
+            "side_effect": "dyspnoea",
+            "text": "The drug metformin may cause dyspnoea as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antihypertensive",
+            "year_reported": 2018.0
+          }
+        },
+        {
+          "rank": 3,
+          "score": 0.856445432,
+          "id": "format_b_metformin_dysgeusia_86978",
+          "metadata": {
+            "drug": "metformin",
+            "drug_interaction": false,
+            "evidence_level": "post-market",
+            "fda_warning": true,
+            "format": "B",
+            "frequency": "very_rare",
+            "onset_time": "days",
+            "organ_class": "respiratory",
+            "paper_spec": "individual_pairs",
+            "reversibility": "irreversible",
+            "severity_score": 0.59,
+            "side_effect": "dysgeusia",
+            "text": "The drug metformin may cause dysgeusia as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antihypertensive",
+            "year_reported": 2022.0
+          }
+        },
+        {
+          "rank": 4,
+          "score": 0.856018186,
+          "id": "format_b_metformin_syncope_86951",
+          "metadata": {
+            "drug": "metformin",
+            "drug_interaction": false,
+            "evidence_level": "systematic_review",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "uncommon",
+            "onset_time": "months",
+            "organ_class": "neurological",
+            "paper_spec": "individual_pairs",
+            "reversibility": "partially_reversible",
+            "severity_score": 0.66,
+            "side_effect": "syncope",
+            "text": "The drug metformin may cause syncope as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antihypertensive",
+            "year_reported": 2010.0
+          }
+        },
+        {
+          "rank": 5,
+          "score": 0.855835,
+          "id": "format_b_metolazone_dizziness_94958",
+          "metadata": {
+            "drug": "metolazone",
+            "drug_interaction": true,
+            "evidence_level": "post-market",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "very_rare",
+            "onset_time": "months",
+            "organ_class": "musculoskeletal",
+            "paper_spec": "individual_pairs",
+            "reversibility": "irreversible",
+            "severity_score": 0.16,
+            "side_effect": "dizziness",
+            "text": "The drug metolazone may cause dizziness as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidepressant",
+            "year_reported": 2016.0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "query": {
+      "format": "B",
+      "drug": "lisinopril",
+      "side_effect": "cough",
+      "query_text": "lisinopril cough",
+      "timestamp": "2025-09-21T00:19:33.863642"
+    },
+    "pinecone_response": {
+      "total_matches": 5,
+      "drug_relevant_matches": 5,
+      "namespace": "drug-side-effects-formatB",
+      "matches": [
+        {
+          "rank": 1,
+          "score": 0.897888243,
+          "id": "format_b_lisinopril_cough_45406",
+          "metadata": {
+            "drug": "lisinopril",
+            "drug_interaction": false,
+            "evidence_level": "case_report",
+            "fda_warning": true,
+            "format": "B",
+            "frequency": "very_rare",
+            "onset_time": "weeks",
+            "organ_class": "cardiovascular",
+            "paper_spec": "individual_pairs",
+            "reversibility": "irreversible",
+            "severity_score": 0.42,
+            "side_effect": "cough",
+            "text": "The drug lisinopril may cause cough as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "other",
+            "year_reported": 2022.0
+          }
+        },
+        {
+          "rank": 2,
+          "score": 0.865905881,
+          "id": "format_b_lisinopril_bronchitis_45308",
+          "metadata": {
+            "drug": "lisinopril",
+            "drug_interaction": false,
+            "evidence_level": "case_report",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "common",
+            "onset_time": "months",
+            "organ_class": "gastrointestinal",
+            "paper_spec": "individual_pairs",
+            "reversibility": "reversible",
+            "severity_score": 0.26,
+            "side_effect": "bronchitis",
+            "text": "The drug lisinopril may cause bronchitis as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "other",
+            "year_reported": 2023.0
+          }
+        },
+        {
+          "rank": 3,
+          "score": 0.861694336,
+          "id": "format_b_lisinopril_bronchospasm_45437",
+          "metadata": {
+            "drug": "lisinopril",
+            "drug_interaction": false,
+            "evidence_level": "post-market",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "rare",
+            "onset_time": "weeks",
+            "organ_class": "gastrointestinal",
+            "paper_spec": "individual_pairs",
+            "reversibility": "partially_reversible",
+            "severity_score": 0.39,
+            "side_effect": "bronchospasm",
+            "text": "The drug lisinopril may cause bronchospasm as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "other",
+            "year_reported": 2011.0
+          }
+        },
+        {
+          "rank": 4,
+          "score": 0.86102283,
+          "id": "format_b_lisinopril_haemoptysis_45260",
+          "metadata": {
+            "drug": "lisinopril",
+            "drug_interaction": false,
+            "evidence_level": "clinical_trial",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "common",
+            "onset_time": "weeks",
+            "organ_class": "dermatological",
+            "paper_spec": "individual_pairs",
+            "reversibility": "irreversible",
+            "severity_score": 0.71,
+            "side_effect": "haemoptysis",
+            "text": "The drug lisinopril may cause haemoptysis as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "other",
+            "year_reported": 2020.0
+          }
+        },
+        {
+          "rank": 5,
+          "score": 0.859436035,
+          "id": "format_b_lisinopril_wheezing_45458",
+          "metadata": {
+            "drug": "lisinopril",
+            "drug_interaction": false,
+            "evidence_level": "systematic_review",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "common",
+            "onset_time": "immediate",
+            "organ_class": "respiratory",
+            "paper_spec": "individual_pairs",
+            "reversibility": "partially_reversible",
+            "severity_score": 0.84,
+            "side_effect": "wheezing",
+            "text": "The drug lisinopril may cause wheezing as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "other",
+            "year_reported": 2017.0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "query": {
+      "format": "B",
+      "drug": "atorvastatin",
+      "side_effect": "muscle pain",
+      "query_text": "atorvastatin muscle pain",
+      "timestamp": "2025-09-21T00:19:34.232511"
+    },
+    "pinecone_response": {
+      "total_matches": 5,
+      "drug_relevant_matches": 5,
+      "namespace": "drug-side-effects-formatB",
+      "matches": [
+        {
+          "rank": 1,
+          "score": 0.894897521,
+          "id": "format_b_atorvastatin_musculoskeletal pain_50041",
+          "metadata": {
+            "drug": "atorvastatin",
+            "drug_interaction": false,
+            "evidence_level": "post-market",
+            "fda_warning": true,
+            "format": "B",
+            "frequency": "common",
+            "onset_time": "immediate",
+            "organ_class": "musculoskeletal",
+            "paper_spec": "individual_pairs",
+            "reversibility": "reversible",
+            "severity_score": 0.64,
+            "side_effect": "musculoskeletal pain",
+            "text": "The drug atorvastatin may cause musculoskeletal pain as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2012.0
+          }
+        },
+        {
+          "rank": 2,
+          "score": 0.887817502,
+          "id": "format_b_atorvastatin_pain in extremity_50181",
+          "metadata": {
+            "drug": "atorvastatin",
+            "drug_interaction": false,
+            "evidence_level": "post-market",
+            "fda_warning": true,
+            "format": "B",
+            "frequency": "very_rare",
+            "onset_time": "days",
+            "organ_class": "psychiatric",
+            "paper_spec": "individual_pairs",
+            "reversibility": "partially_reversible",
+            "severity_score": 0.43,
+            "side_effect": "pain in extremity",
+            "text": "The drug atorvastatin may cause pain in extremity as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2013.0
+          }
+        },
+        {
+          "rank": 3,
+          "score": 0.883850157,
+          "id": "format_b_atorvastatin_musculoskeletal discomfort_50156",
+          "metadata": {
+            "drug": "atorvastatin",
+            "drug_interaction": false,
+            "evidence_level": "clinical_trial",
+            "fda_warning": true,
+            "format": "B",
+            "frequency": "uncommon",
+            "onset_time": "immediate",
+            "organ_class": "gastrointestinal",
+            "paper_spec": "individual_pairs",
+            "reversibility": "reversible",
+            "severity_score": 0.18,
+            "side_effect": "musculoskeletal discomfort",
+            "text": "The drug atorvastatin may cause musculoskeletal discomfort as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2010.0
+          }
+        },
+        {
+          "rank": 4,
+          "score": 0.879333556,
+          "id": "format_b_atorvastatin_pain_50025",
+          "metadata": {
+            "drug": "atorvastatin",
+            "drug_interaction": false,
+            "evidence_level": "case_report",
+            "fda_warning": true,
+            "format": "B",
+            "frequency": "rare",
+            "onset_time": "weeks",
+            "organ_class": "metabolic",
+            "paper_spec": "individual_pairs",
+            "reversibility": "irreversible",
+            "severity_score": 0.47,
+            "side_effect": "pain",
+            "text": "The drug atorvastatin may cause pain as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2017.0
+          }
+        },
+        {
+          "rank": 5,
+          "score": 0.876037657,
+          "id": "format_b_atorvastatin_back pain_50073",
+          "metadata": {
+            "drug": "atorvastatin",
+            "drug_interaction": false,
+            "evidence_level": "post-market",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "rare",
+            "onset_time": "immediate",
+            "organ_class": "neurological",
+            "paper_spec": "individual_pairs",
+            "reversibility": "reversible",
+            "severity_score": 0.82,
+            "side_effect": "back pain",
+            "text": "The drug atorvastatin may cause back pain as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2010.0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "query": {
+      "format": "A",
+      "drug": "aspirin",
+      "side_effect": "bleeding",
+      "query_text": "aspirin bleeding",
+      "timestamp": "2025-09-21T00:19:34.685908"
+    },
+    "pinecone_response": {
+      "total_matches": 10,
+      "namespace": "drug-side-effects-formatA",
+      "matches": [
+        {
+          "rank": 1,
+          "score": 0.85559088,
+          "id": "format_a_aspirin_594",
+          "metadata": {
+            "drug": "aspirin",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug aspirin causes the following side effects or adverse reactions: acidosis, agitation, anaemia, anaphylactic shock, angioedema, arthralgia, asthma, blood cholesterol increased, breast feeding, chest discomfort, chest pain, coagulopathy, coma, confusional state, contusion, convulsion, deafness, dermatitis, diabetes mellitus, diarrhoea, dizziness, dyspepsia, dyspnoea, epigastric discomfort, feeling abnormal, flushing, foetor hepaticus, gastrointestinal haemorrhage, gout, haematemesis, haemoglobin, haemorrhage, haemorrhagic disorder, hearing impaired, hepatocellular injury, hepatotoxicity, hyperhidrosis, hypersensitivity, hypertension, hypoglycaemia, hypokalaemia, influenza, leukopenia, liver disorder, loss of consciousness, melaena, metabolic acidosis, nausea, peptic ulcer, polyuria, pruritus, purpura, rash, renal impairment, respiratory alkalosis, respiratory failure, reye's syndrome, shock, somnolence, syncope, tachycardia, thirst, thrombocytopenia, tinnitus, ulcer, urticaria, varicella, vascular purpura, vertigo, vomiting"
+          }
+        },
+        {
+          "rank": 2,
+          "score": 0.802490354,
+          "id": "format_a_fondaparinux_442",
+          "metadata": {
+            "drug": "fondaparinux",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug fondaparinux causes the following side effects or adverse reactions: abdominal pain, acute coronary syndrome, alanine aminotransferase increased, anaemia, anaphylactic shock, angioedema, angiopathy, anxiety, aspartate aminotransferase increased, asthenia, atrial fibrillation, back pain, blister, body temperature increased, cardiac arrest, cardiac failure, cardiac tamponade, cerebral haemorrhage, chest pain, coagulopathy, confusional state, constipation, contusion, cough, dermatitis, dermatitis bullous, diarrhoea, dizziness, drug interaction, dyspepsia, dyspnoea, epistaxis, eye haemorrhage, fatigue, feeling abnormal, flushing, foetor hepaticus, gastritis, gastrointestinal disorder, gastrointestinal pain, gingival bleeding, haematoma, haematuria, haemoglobin, haemoglobin decreased, haemoptysis, haemorrhage, haemorrhage intracranial, haemorrhagic stroke, headache, heparin-induced thrombocytopenia, hepatic enzyme increased, hepatic function abnormal, hepatobiliary disease, hepatocellular injury, hot flush, hyperbilirubinaemia, hypersensitivity, hypokalaemia, hypotension, immune system disorder, infection, infestation, injection site haemorrhage, insomnia, liver disorder, local reaction, loss of consciousness, malnutrition, mediastinal disorder, menopausal symptoms, nausea, nervous system disorder, oedema, oedema genital, oedema peripheral, pain, pain in extremity, post procedural haemorrhage, postoperative wound infection, procedural site reaction, prothrombin level decreased, pruritus, purpura, rash, retroperitoneal haemorrhage, shock, skin disorder, somnolence, spinal haematoma, surgery, syncope, thrombocytopenia, thrombocytosis, thrombosis, thrombosis in device, urinary retention, urinary tract infection, vascular purpura, ventricular tachycardia, vertigo, vomiting, wound secretion"
+          }
+        },
+        {
+          "rank": 3,
+          "score": 0.800232,
+          "id": "format_a_salicylate_842",
+          "metadata": {
+            "drug": "salicylate",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug salicylate causes the following side effects or adverse reactions: abdominal discomfort, abdominal pain upper, asthma, burning sensation, confusional state, constipation, deafness, decreased appetite, dermatitis, diarrhoea, dizziness, duodenal ulcer, dysgeusia, dyspepsia, ecchymosis, epistaxis, erythema, erythema multiforme, feeling abnormal, gastric ulcer, hallucination, headache, hearing impaired, hepatitis, lethargy, nausea, occult blood positive, oedema, oesophagitis, pain, pruritus, rash, skin exfoliation, skin papilloma, somnolence, tinnitus, urticaria, vomiting, weight increased"
+          }
+        },
+        {
+          "rank": 4,
+          "score": 0.798339903,
+          "id": "format_a_prasugrel_650",
+          "metadata": {
+            "drug": "prasugrel",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug prasugrel causes the following side effects or adverse reactions: anaemia, anaphylactic shock, angioedema, angiopathy, asthenia, atrial fibrillation, back pain, body temperature increased, bradycardia, cerebrovascular accident, colorectal cancer, contusion, cough, dermatitis, diarrhoea, dizziness, dyspnoea, ecchymosis, epistaxis, eye disorder, eye haemorrhage, fatigue, gastrointestinal disorder, gastrointestinal haemorrhage, gingival bleeding, haematochezia, haematoma, haematuria, haemoglobin, haemoptysis, haemorrhage, haemorrhage intracranial, headache, hypercholesterolaemia, hyperlipidaemia, hypersensitivity, hypertension, hypotension, immune system disorder, leukopenia, mediastinal disorder, nausea, neoplasm, neoplasm malignant, non-cardiac chest pain, oedema peripheral, pain in extremity, pericardial effusion, post procedural haemorrhage, puncture site haemorrhage, rash, rectal haemorrhage, retinal haemorrhage, retroperitoneal haemorrhage, skin disorder, subcutaneous haematoma, surgery, thrombocytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, urethral disorder, urinary tract disorder, vessel puncture site haematoma"
+          }
+        },
+        {
+          "rank": 5,
+          "score": 0.793884337,
+          "id": "format_a_dabigatran_322",
+          "metadata": {
+            "drug": "dabigatran",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug dabigatran causes the following side effects or adverse reactions: abdominal discomfort, abdominal pain, abdominal pain upper, acute coronary syndrome, alanine aminotransferase increased, allergic oedema, anaemia, anaemia postoperative, anaphylactic shock, angina pectoris, angioedema, angiopathy, arthralgia, aspartate aminotransferase increased, asthenia, back pain, blood bilirubin increased, blood urine present, bloody discharge, bone disorder, bronchitis, bronchospasm, cardiac disorder, cardiac failure, cardiac failure congestive, catheter site haemorrhage, cerebral haemorrhage, chest discomfort, chest pain, compartment syndrome, connective tissue disorder, constipation, contusion, cough, dermatitis, diarrhoea, dizziness, drug hypersensitivity, dyspepsia, dysphagia, dyspnoea, dyspnoea exertional, ecchymosis, embolic stroke, epigastric discomfort, epistaxis, fatigue, flatulence, gastric haemorrhage, gastritis, gastritis erosive, gastritis haemorrhagic, gastrointestinal disorder, gastrointestinal haemorrhage, gastrointestinal pain, gastrointestinal ulcer, gastrooesophageal reflux disease, gastrooesophagitis, gout, haemarthrosis, haematocrit decreased, haematoma, haematuria, haemoglobin, haemoglobin decreased, haemoptysis, haemorrhage, haemorrhage intracranial, haemorrhagic erosive gastritis, haemorrhagic stroke, haemorrhoidal haemorrhage, headache, hepatic enzyme increased, hepatic function abnormal, hepatitis viral, hepatobiliary disease, hyperbilirubinaemia, hypersensitivity, hypertension, hypotension, immune system disorder, incision site haemorrhage, infection, infestation, influenza, injection site haemorrhage, liver function test abnormal, loss of consciousness, malnutrition, mediastinal disorder, musculoskeletal discomfort, musculoskeletal pain, myocardial infarction, nasopharyngitis, nausea, nervous system disorder, occult blood positive, oedema peripheral, oesophageal ulcer, oesophagitis, osteoarthritis, pain in extremity, palpitations, pericardial haemorrhage, pneumonia, post procedural discharge, post procedural haematoma, post procedural haemorrhage, pruritus, rash, rectal haemorrhage, retroperitoneal haemorrhage, shock, sinusitis, skin disorder, skin haemorrhage, spinal cord haemorrhage, subarachnoid haemorrhage, surgery, syncope, thrombocytopenia, thrombosis, transaminases increased, traumatic haemorrhage, upper respiratory tract infection, urethral disorder, urinary tract disorder, urinary tract infection, urogenital haemorrhage, urticaria, vomiting, wound, wound haemorrhage, wound secretion"
+          }
+        },
+        {
+          "rank": 6,
+          "score": 0.793396056,
+          "id": "format_a_clopidogrel_149",
+          "metadata": {
+            "drug": "clopidogrel",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug clopidogrel causes the following side effects or adverse reactions: abdominal distension, abdominal pain, abdominal pain upper, acquired haemophilia, acute hepatic failure, agranulocytosis, anaemia, anaphylactic shock, anaphylactoid reaction, angina pectoris, angioedema, angiopathy, anxiety, aplastic anaemia, arterial thrombosis, arthralgia, arthritis, arthropathy, asthenia, asthma, autonomic neuropathy, back pain, bladder pain, bleeding time prolonged, blindness, blood creatine increased, blood creatinine increased, blood disorder, blood uric acid increased, body temperature increased, bone disorder, bronchitis, bronchospasm, cardiac failure, cardiovascular disorder, cataract, cerebral haemorrhage, chest pain, coagulopathy, colitis, colitis microscopic, confusional state, conjunctivitis, constipation, contusion, cough, cystitis, cystitis noninfective, deafness, depression, dermatitis, dermatitis bullous, diarrhoea, dizziness, drug eruption, drug hypersensitivity, drug interaction, drug reaction with eosinophilia and systemic symptoms, duodenal ulcer, duodenitis haemorrhagic, dyspepsia, dyspnoea, ecchymosis, eczema, eosinophilia, eosinophilic pneumonia, epistaxis, erythema multiforme, exfoliative rash, eye disorder, eye haemorrhage, factor viii deficiency, fatigue, feeling abnormal, flatulence, fluid retention, food allergy, gastric ulcer, gastric ulcer perforation, gastritis, gastritis haemorrhagic, gastrointestinal disorder, gastrointestinal haemorrhage, gastrointestinal pain, gastrointestinal ulcer haemorrhage, generalised oedema, glomerulonephritis, glucose-6-phosphate dehydrogenase deficiency, gout, gravitational oedema, haemarthrosis, haematoma, haematuria, haemoglobin, haemoglobin decreased, haemolysis, haemoptysis, haemorrhage, haemorrhage intracranial, haemorrhagic stroke, haemothorax, hallucination, headache, hearing impaired, henoch-schonlein purpura, hepatic enzyme increased, hepatic function abnormal, hepatic steatosis, hepatitis, hepatitis a, hepatobiliary disease, hernia, hyperbilirubinaemia, hypercholesterolaemia, hypersensitivity, hypertension, hyperuricaemia, hypoaesthesia, hypochromic anaemia, hypoglycaemia, hypotension, immune system disorder, infection, influenza like illness, injury, insomnia, intermittent claudication, interstitial lung disease, intestinal perforation, intestinal ulcer, iron deficiency anaemia, leukaemia, leukopenia, lichen planus, liver function test abnormal, liver injury, loss of consciousness, malnutrition, mediastinal disorder, menorrhagia, mental disorder, muscle spasms, musculoskeletal discomfort, myalgia, nausea, necrosis ischaemic, nephritic syndrome, nervous system disorder, neuralgia, neuropathy peripheral, neutropenia, neutrophil count decreased, non-cardiogenic pulmonary oedema, oedema, oedema peripheral, oesophageal ulcer, oesophagitis, osteoarthritis, osteonecrosis, pain, palpitations, pancreatitis, pancytopenia, paraesthesia, peptic ulcer, peripheral ischaemia, peritoneal haemorrhage, platelet count decreased, pneumonia, pruritus, pruritus generalised, pulmonary embolism, pulmonary haemorrhage, puncture site haemorrhage, purpura, rash, rash erythematous, rash maculo-papular, renal colic, renal failure, renal failure acute, renal impairment, respiratory tract haemorrhage, retinal haemorrhage, retroperitoneal haemorrhage, rhinitis, serum sickness, shock, sinusitis, skin disorder, skin haemorrhage, skin ulcer, stevens-johnson syndrome, stomatitis, surgery, syncope, thrombotic thrombocytopenic purpura, tinnitus, toxic epidermal necrolysis, traumatic liver injury, ulcer, ulcer haemorrhage, upper respiratory tract infection, urethral disorder, urinary tract disorder, urinary tract infection, urticaria, vascular purpura, vasculitis, vasomotor rhinitis, vertigo, visual impairment, vomiting"
+          }
+        },
+        {
+          "rank": 7,
+          "score": 0.79132086,
+          "id": "format_a_asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2_910",
+          "metadata": {
+            "drug": "asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2 causes the following side effects or adverse reactions: abdominal discomfort, abdominal pain, abdominal pain upper, blood pressure increased, dermatitis, diarrhoea, discomfort, dizziness, dyspnoea, erythema, flushing, headache, hyperhidrosis, hypersensitivity, hypertension, hypoaesthesia, hypotension, impaired gastric emptying, loss of consciousness, muscle spasms, nausea, pain, rash, sensory loss, shock, sneezing, syncope, vomiting"
+          }
+        },
+        {
+          "rank": 8,
+          "score": 0.79119879,
+          "id": "format_a_tirofiban_908",
+          "metadata": {
+            "drug": "tirofiban",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug tirofiban causes the following side effects or adverse reactions: acute myocardial infarction, anaphylactic shock, body temperature increased, bradycardia, cardiac tamponade, chills, dizziness, haematemesis, haematuria, haemoglobin, haemoglobin decreased, haemoptysis, haemorrhage, haemorrhage intracranial, headache, hypercholesterolaemia, hyperhidrosis, hypersensitivity, hypertension, myocardial infarction, nausea, oedema, pain, pericardial haemorrhage, retroperitoneal haemorrhage, spinal epidural haematoma, swelling, thrombocytopenia, urticaria"
+          }
+        },
+        {
+          "rank": 9,
+          "score": 0.790893614,
+          "id": "format_a_rivaroxaban_403",
+          "metadata": {
+            "drug": "rivaroxaban",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug rivaroxaban causes the following side effects or adverse reactions: abdominal pain, abdominal pain upper, agranulocytosis, amylase increased, anaemia, anaphylactic shock, angina pectoris, angioedema, angiopathy, asthenia, back pain, bilirubin conjugated increased, blister, blood bilirubin increased, blood creatinine increased, blood lactate dehydrogenase increased, blood urea increased, bronchiectasis, cardiac disorder, cerebral haemorrhage, chest pain, cholestasis, compartment syndrome, conjunctival haemorrhage, connective tissue disorder, constipation, contusion, dermatitis, dermatitis atopic, dermatitis bullous, diarrhoea, discomfort, dizziness, dry mouth, dyspepsia, dyspnoea, ecchymosis, embolism venous, epidural haemorrhage, epistaxis, erythema multiforme, eye disorder, eye haemorrhage, fatigue, feeling abnormal, gamma-glutamyltransferase increased, gastrointestinal disorder, gastrointestinal haemorrhage, gastrointestinal pain, gingival bleeding, haemarthrosis, haematoma, haematuria, haemoglobin, haemoptysis, haemorrhage, haemorrhage intracranial, headache, hemiparesis, hepatic function abnormal, hepatitis, hepatobiliary disease, hypersensitivity, hypoperfusion, hypotension, ill-defined disorder, immune system disorder, infection, infestation, jaundice, lipase increased, loss of consciousness, malaise, mediastinal disorder, menorrhagia, muscle haemorrhage, muscle spasms, myocardial ischaemia, nausea, nervous system disorder, oedema, oropharyngeal pain, osteoarthritis, pain, pain in extremity, pallor, post procedural haemorrhage, pruritus, pruritus generalised, pulmonary haemorrhage, rash, rectal haemorrhage, renal failure, renal failure acute, retroperitoneal haemorrhage, shock, sinusitis, skin disorder, stevens-johnson syndrome, subdural haematoma, swelling, syncope, tachycardia, thrombocytosis, toothache, urethral disorder, urinary tract disorder, urinary tract infection, urticaria, vascular pseudoaneurysm, vomiting, wound haemorrhage, wound secretion"
+          }
+        },
+        {
+          "rank": 10,
+          "score": 0.789611876,
+          "id": "format_a_warfarin_539",
+          "metadata": {
+            "drug": "warfarin",
+            "format": "A",
+            "paper_spec": "aggregated_side_effects",
+            "text": "The drug warfarin causes the following side effects or adverse reactions: abdominal distension, abdominal pain, alopecia, anaemia, anaphylactic shock, angina pectoris, angiopathy, asthenia, blue toe syndrome, body temperature increased, cerebral haemorrhage, chest pain, chills, coma, dermatitis, dermatitis bullous, diarrhoea, discomfort, dizziness, dysgeusia, dyspnoea, ecchymosis, epistaxis, fat embolism, fatigue, feeling abnormal, flatulence, gastrointestinal disorder, gastrointestinal haemorrhage, gastrointestinal pain, haematemesis, haematuria, haemoglobin, haemoglobin decreased, haemorrhage, haemothorax, headache, hepatic enzyme increased, hepatic function abnormal, hepatitis, hepatitis cholestatic, hepatobiliary disease, hypersensitivity, hypotension, ill-defined disorder, immune system disorder, infarction, infection, jaundice, lethargy, liver injury, loss of consciousness, malaise, mediastinal disorder, melaena, muscle spasms, nausea, neoplasm, nervous system disorder, oedema, pain, pallor, pancreatitis, paraesthesia, paralysis, priapism, pruritus, rash, rectal haemorrhage, shock, skin disorder, skin exfoliation, skin necrosis, subdural haematoma, swelling, syncope, temperature intolerance, traumatic liver injury, ulcer, urethral disorder, urinary tract disorder, urticaria, vasculitis, vomiting"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "query": {
+      "format": "B",
+      "drug": "aspirin",
+      "side_effect": "bleeding",
+      "query_text": "aspirin bleeding",
+      "timestamp": "2025-09-21T00:19:35.083188"
+    },
+    "pinecone_response": {
+      "total_matches": 10,
+      "drug_relevant_matches": 10,
+      "namespace": "drug-side-effects-formatB",
+      "matches": [
+        {
+          "rank": 1,
+          "score": 0.879455626,
+          "id": "format_b_aspirin_haemorrhage_105306",
+          "metadata": {
+            "drug": "aspirin",
+            "drug_interaction": true,
+            "evidence_level": "post-market",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "very_rare",
+            "onset_time": "months",
+            "organ_class": "gastrointestinal",
+            "paper_spec": "individual_pairs",
+            "reversibility": "irreversible",
+            "severity_score": 0.42,
+            "side_effect": "haemorrhage",
+            "text": "The drug aspirin may cause haemorrhage as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2014.0
+          }
+        },
+        {
+          "rank": 2,
+          "score": 0.877807677,
+          "id": "format_b_aspirin_gastrointestinal haemorrhage_105292",
+          "metadata": {
+            "drug": "aspirin",
+            "drug_interaction": true,
+            "evidence_level": "clinical_trial",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "common",
+            "onset_time": "weeks",
+            "organ_class": "gastrointestinal",
+            "paper_spec": "individual_pairs",
+            "reversibility": "partially_reversible",
+            "severity_score": 0.06,
+            "side_effect": "gastrointestinal haemorrhage",
+            "text": "The drug aspirin may cause gastrointestinal haemorrhage as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2021.0
+          }
+        },
+        {
+          "rank": 3,
+          "score": 0.874694884,
+          "id": "format_b_aspirin_haematemesis_105275",
+          "metadata": {
+            "drug": "aspirin",
+            "drug_interaction": true,
+            "evidence_level": "clinical_trial",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "rare",
+            "onset_time": "hours",
+            "organ_class": "cardiovascular",
+            "paper_spec": "individual_pairs",
+            "reversibility": "reversible",
+            "severity_score": 0.46,
+            "side_effect": "haematemesis",
+            "text": "The drug aspirin may cause haematemesis as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2024.0
+          }
+        },
+        {
+          "rank": 4,
+          "score": 0.871032894,
+          "id": "format_b_aspirin_haemorrhagic disorder_105323",
+          "metadata": {
+            "drug": "aspirin",
+            "drug_interaction": true,
+            "evidence_level": "post-market",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "common",
+            "onset_time": "days",
+            "organ_class": "neurological",
+            "paper_spec": "individual_pairs",
+            "reversibility": "reversible",
+            "severity_score": 0.63,
+            "side_effect": "haemorrhagic disorder",
+            "text": "The drug aspirin may cause haemorrhagic disorder as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2021.0
+          }
+        },
+        {
+          "rank": 5,
+          "score": 0.86956805,
+          "id": "format_b_aspirin_coagulopathy_105290",
+          "metadata": {
+            "drug": "aspirin",
+            "drug_interaction": true,
+            "evidence_level": "systematic_review",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "very_rare",
+            "onset_time": "immediate",
+            "organ_class": "gastrointestinal",
+            "paper_spec": "individual_pairs",
+            "reversibility": "reversible",
+            "severity_score": 0.75,
+            "side_effect": "coagulopathy",
+            "text": "The drug aspirin may cause coagulopathy as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2020.0
+          }
+        },
+        {
+          "rank": 6,
+          "score": 0.864807189,
+          "id": "format_b_aspirin_haemoglobin_105283",
+          "metadata": {
+            "drug": "aspirin",
+            "drug_interaction": true,
+            "evidence_level": "post-market",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "very_rare",
+            "onset_time": "weeks",
+            "organ_class": "respiratory",
+            "paper_spec": "individual_pairs",
+            "reversibility": "reversible",
+            "severity_score": 0.7,
+            "side_effect": "haemoglobin",
+            "text": "The drug aspirin may cause haemoglobin as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2019.0
+          }
+        },
+        {
+          "rank": 7,
+          "score": 0.861267209,
+          "id": "format_b_aspirin_anaemia_105329",
+          "metadata": {
+            "drug": "aspirin",
+            "drug_interaction": true,
+            "evidence_level": "systematic_review",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "uncommon",
+            "onset_time": "weeks",
+            "organ_class": "dermatological",
+            "paper_spec": "individual_pairs",
+            "reversibility": "reversible",
+            "severity_score": 0.05,
+            "side_effect": "anaemia",
+            "text": "The drug aspirin may cause anaemia as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2018.0
+          }
+        },
+        {
+          "rank": 8,
+          "score": 0.860290587,
+          "id": "format_b_aspirin_thrombocytopenia_105319",
+          "metadata": {
+            "drug": "aspirin",
+            "drug_interaction": true,
+            "evidence_level": "systematic_review",
+            "fda_warning": true,
+            "format": "B",
+            "frequency": "common",
+            "onset_time": "weeks",
+            "organ_class": "cardiovascular",
+            "paper_spec": "individual_pairs",
+            "reversibility": "partially_reversible",
+            "severity_score": 0.32,
+            "side_effect": "thrombocytopenia",
+            "text": "The drug aspirin may cause thrombocytopenia as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2021.0
+          }
+        },
+        {
+          "rank": 9,
+          "score": 0.858520567,
+          "id": "format_b_aspirin_purpura_105340",
+          "metadata": {
+            "drug": "aspirin",
+            "drug_interaction": true,
+            "evidence_level": "case_report",
+            "fda_warning": false,
+            "format": "B",
+            "frequency": "common",
+            "onset_time": "months",
+            "organ_class": "respiratory",
+            "paper_spec": "individual_pairs",
+            "reversibility": "partially_reversible",
+            "severity_score": 0.48,
+            "side_effect": "purpura",
+            "text": "The drug aspirin may cause purpura as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2022.0
+          }
+        },
+        {
+          "rank": 10,
+          "score": 0.858154356,
+          "id": "format_b_aspirin_vascular purpura_105308",
+          "metadata": {
+            "drug": "aspirin",
+            "drug_interaction": true,
+            "evidence_level": "case_report",
+            "fda_warning": true,
+            "format": "B",
+            "frequency": "rare",
+            "onset_time": "hours",
+            "organ_class": "metabolic",
+            "paper_spec": "individual_pairs",
+            "reversibility": "reversible",
+            "severity_score": 0.26,
+            "side_effect": "vascular purpura",
+            "text": "The drug aspirin may cause vascular purpura as an adverse effect, adverse reaction, or side effect.",
+            "therapeutic_class": "antidiabetic",
+            "year_reported": 2022.0
+          }
+        }
+      ]
+    }
+  }
+]

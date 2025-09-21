@@ -1,0 +1,8 @@
+query,query_type,drug,risk_group,requires_clinical_context
+What special precautions for warfarin in pregnancy?,contraindication,warfarin,pregnancy,True
+What special precautions for thalidomide in pregnancy?,contraindication,thalidomide,pregnancy,True
+Is methotrexate contraindicated in pregnancy?,contraindication,methotrexate,pregnancy,True
+What are the risks of metformin in renal impairment patients?,contraindication,metformin,renal_impairment,True
+Is lithium contraindicated in renal impairment?,contraindication,lithium,renal_impairment,True
+Is acetaminophen contraindicated in hepatic impairment?,contraindication,acetaminophen,hepatic_impairment,True
+What are the risks of methotrexate in hepatic impairment patients?,contraindication,methotrexate,hepatic_impairment,True

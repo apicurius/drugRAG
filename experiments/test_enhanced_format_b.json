@@ -1,0 +1,79 @@
+{
+  "timestamp": "2025-09-20T22:07:47.353322",
+  "configuration": {
+    "architectures": [
+      "enhanced_format_b"
+    ],
+    "models": [
+      "qwen"
+    ],
+    "query_types": [
+      "organ_specific"
+    ],
+    "queries_per_type": 1
+  },
+  "results": [
+    {
+      "architecture": "enhanced_format_b",
+      "model": "qwen",
+      "aggregated_metrics": {
+        "avg_precision": 0.0,
+        "avg_recall": 0.0,
+        "avg_f1": 0.0,
+        "avg_semantic_similarity": 0.0,
+        "avg_ndcg": 0.0,
+        "avg_map": 0.0,
+        "avg_safety_score": 1.0,
+        "avg_completeness": 0.0,
+        "avg_aggregate_score": 0.2,
+        "std_f1": 0.0,
+        "std_aggregate_score": 0.0,
+        "avg_processing_time": 1.8204097747802734,
+        "total_queries": 1,
+        "successful_queries": 1
+      },
+      "detailed_results": [
+        {
+          "query_id": "organ_specific_0",
+          "query_type": "organ_specific",
+          "metrics": {
+            "query_type": "organ_specific",
+            "basic_metrics": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "semantic_metrics": {
+              "similarity": 0.0
+            },
+            "ranking_metrics": {
+              "ndcg@10": 0.0,
+              "map": 0.0
+            },
+            "clinical_metrics": {
+              "weighted_accuracy": 0,
+              "safety_score": 1.0,
+              "completeness": 0.0,
+              "severe_recall": 1.0,
+              "moderate_recall": 1.0,
+              "mild_recall": 1.0
+            },
+            "aggregate_score": 0.2,
+            "interpretation": "Poor"
+          },
+          "response": {
+            "drug": "rosuvastatin",
+            "organ": "gastrointestinal",
+            "side_effects_found": [],
+            "count": 0,
+            "architecture": "enhanced_format_b",
+            "model": "vllm_qwen",
+            "query_type": "organ_specific"
+          },
+          "predicted_count": 0,
+          "ground_truth_count": 5
+        }
+      ]
+    }
+  ]
+}

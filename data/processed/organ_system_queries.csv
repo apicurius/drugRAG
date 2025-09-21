@@ -1,0 +1,9 @@
+organ_system,query,expected_side_effects,effect_count
+cardiovascular,What are common cardiovascular side effects of medications?,"['hypertension', 'tachycardia', 'bradycardia', 'arrhythmia', 'chest pain', 'palpitations', 'hypotension']",7
+gastrointestinal,What are common gastrointestinal side effects of medications?,"['nausea', 'vomiting', 'diarrhea', 'constipation', 'abdominal pain', 'dyspepsia', 'gastritis']",7
+neurological,What are common neurological side effects of medications?,"['headache', 'dizziness', 'somnolence', 'insomnia', 'tremor', 'seizure', 'neuropathy']",7
+respiratory,What are common respiratory side effects of medications?,"['dyspnea', 'cough', 'bronchitis', 'pneumonia', 'respiratory depression', 'asthma']",6
+hepatic,What are common hepatic side effects of medications?,"['hepatotoxicity', 'elevated liver enzymes', 'jaundice', 'hepatitis', 'liver failure']",5
+renal,What are common renal side effects of medications?,"['renal failure', 'nephrotoxicity', 'proteinuria', 'increased creatinine', 'urinary retention']",5
+psychiatric,What are common psychiatric side effects of medications?,"['depression', 'anxiety', 'confusion', 'hallucination', 'psychosis', 'suicidal ideation']",6
+dermatological,What are common dermatological side effects of medications?,"['rash', 'pruritus', 'urticaria', 'alopecia', 'stevens-johnson syndrome', 'photosensitivity']",6

@@ -1,0 +1,81 @@
+drug_class,side_effect,query,expected_drugs
+statins,cognitive disorder,Which statins cause cognitive disorder?,"['rosuvastatin', 'pravastatin']"
+statins,upper respiratory tract infection,Which statins cause upper respiratory tract infection?,['pravastatin']
+statins,hepatic necrosis,Which statins cause hepatic necrosis?,"['simvastatin', 'pravastatin']"
+statins,infection,Which statins cause infection?,"['atorvastatin', 'pravastatin']"
+statins,streptococcal sepsis,Which statins cause streptococcal sepsis?,[]
+statins,implant site reaction,Which statins cause implant site reaction?,[]
+statins,injection site induration,Which statins cause injection site induration?,[]
+statins,peripheral coldness,Which statins cause peripheral coldness?,[]
+statins,abdominal distension,Which statins cause abdominal distension?,[]
+statins,malabsorption,Which statins cause malabsorption?,[]
+ssris,blood pressure increased,Which ssris cause blood pressure increased?,"['fluoxetine', 'citalopram']"
+ssris,feeling jittery,Which ssris cause feeling jittery?,['citalopram']
+ssris,postpartum disorder,Which ssris cause postpartum disorder?,[]
+ssris,tongue neoplasm malignant stage unspecified,Which ssris cause tongue neoplasm malignant stage unspecified?,[]
+ssris,acute graft versus host disease,Which ssris cause acute graft versus host disease?,[]
+ssris,diabetic vascular disorder,Which ssris cause diabetic vascular disorder?,[]
+ssris,electrocardiogram st segment abnormal,Which ssris cause electrocardiogram st segment abnormal?,[]
+ssris,scleroderma,Which ssris cause scleroderma?,[]
+ssris,gastric disorder,Which ssris cause gastric disorder?,[]
+ssris,factor i deficiency,Which ssris cause factor i deficiency?,[]
+nsaids,tachycardia,Which nsaids cause tachycardia?,"['diclofenac', 'celecoxib']"
+nsaids,body temperature increased,Which nsaids cause body temperature increased?,"['naproxen', 'celecoxib']"
+nsaids,nephropathy toxic,Which nsaids cause nephropathy toxic?,['ibuprofen']
+nsaids,corneal thinning,Which nsaids cause corneal thinning?,['diclofenac']
+nsaids,haemorrhage,Which nsaids cause haemorrhage?,['ibuprofen']
+nsaids,learning disorder,Which nsaids cause learning disorder?,[]
+nsaids,fat redistribution,Which nsaids cause fat redistribution?,[]
+nsaids,jessner's lymphocytic infiltration,Which nsaids cause jessner's lymphocytic infiltration?,[]
+nsaids,platelet production decreased,Which nsaids cause platelet production decreased?,[]
+nsaids,septic arthritis streptobacillus,Which nsaids cause septic arthritis streptobacillus?,[]
+ace inhibitors,injury,Which ace inhibitors cause injury?,['lisinopril']
+ace inhibitors,somnolence,Which ace inhibitors cause somnolence?,['lisinopril']
+ace inhibitors,incision site haemorrhage,Which ace inhibitors cause incision site haemorrhage?,[]
+ace inhibitors,vulvovaginal disorder,Which ace inhibitors cause vulvovaginal disorder?,[]
+ace inhibitors,stereotypy,Which ace inhibitors cause stereotypy?,[]
+ace inhibitors,folliculitis,Which ace inhibitors cause folliculitis?,[]
+ace inhibitors,pseudomonal sepsis,Which ace inhibitors cause pseudomonal sepsis?,[]
+ace inhibitors,neoplasm,Which ace inhibitors cause neoplasm?,[]
+ace inhibitors,ectopic pregnancy,Which ace inhibitors cause ectopic pregnancy?,[]
+ace inhibitors,renal infarct,Which ace inhibitors cause renal infarct?,[]
+beta blockers,gastrointestinal disorder,Which beta blockers cause gastrointestinal disorder?,"['metoprolol', 'propranolol']"
+beta blockers,rash erythematous,Which beta blockers cause rash erythematous?,"['atenolol', 'propranolol']"
+beta blockers,cardiac arrest,Which beta blockers cause cardiac arrest?,"['metoprolol', 'carvedilol']"
+beta blockers,wheezing,Which beta blockers cause wheezing?,"['metoprolol', 'atenolol']"
+beta blockers,gastrointestinal pain,Which beta blockers cause gastrointestinal pain?,"['metoprolol', 'propranolol']"
+beta blockers,retinal scar,Which beta blockers cause retinal scar?,[]
+beta blockers,perirenal haematoma,Which beta blockers cause perirenal haematoma?,[]
+beta blockers,nephrocalcinosis,Which beta blockers cause nephrocalcinosis?,[]
+beta blockers,pneumonia bacterial,Which beta blockers cause pneumonia bacterial?,[]
+beta blockers,polydactyly,Which beta blockers cause polydactyly?,[]
+ppis,fracture,Which ppis cause fracture?,['lansoprazole']
+ppis,tenderness,Which ppis cause tenderness?,['lansoprazole']
+ppis,international normalised ratio increased,Which ppis cause international normalised ratio increased?,[]
+ppis,accommodation disorder,Which ppis cause accommodation disorder?,[]
+ppis,onychomadesis,Which ppis cause onychomadesis?,[]
+ppis,heart rate irregular,Which ppis cause heart rate irregular?,[]
+ppis,retinopathy proliferative,Which ppis cause retinopathy proliferative?,[]
+ppis,blepharospasm,Which ppis cause blepharospasm?,[]
+ppis,proctalgia,Which ppis cause proctalgia?,[]
+ppis,haptoglobin increased,Which ppis cause haptoglobin increased?,[]
+benzodiazepines,delusion,Which benzodiazepines cause delusion?,"['diazepam', 'clonazepam']"
+benzodiazepines,back pain,Which benzodiazepines cause back pain?,"['alprazolam', 'clonazepam']"
+benzodiazepines,urinary retention,Which benzodiazepines cause urinary retention?,"['diazepam', 'clonazepam']"
+benzodiazepines,gastritis,Which benzodiazepines cause gastritis?,['clonazepam']
+benzodiazepines,paraplegia,Which benzodiazepines cause paraplegia?,[]
+benzodiazepines,b-cell type acute leukaemia,Which benzodiazepines cause b-cell type acute leukaemia?,[]
+benzodiazepines,transient ischaemic attack,Which benzodiazepines cause transient ischaemic attack?,[]
+benzodiazepines,adrenal gland cancer,Which benzodiazepines cause adrenal gland cancer?,[]
+benzodiazepines,sideroblastic anaemia,Which benzodiazepines cause sideroblastic anaemia?,[]
+benzodiazepines,retinal detachment,Which benzodiazepines cause retinal detachment?,[]
+antibiotics,nasal inflammation,Which antibiotics cause nasal inflammation?,[]
+antibiotics,angioedema,Which antibiotics cause angioedema?,"['azithromycin', 'doxycycline']"
+antibiotics,hair growth abnormal,Which antibiotics cause hair growth abnormal?,[]
+antibiotics,trichotillomania,Which antibiotics cause trichotillomania?,[]
+antibiotics,cirrhosis alcoholic,Which antibiotics cause cirrhosis alcoholic?,[]
+antibiotics,urogenital haemorrhage,Which antibiotics cause urogenital haemorrhage?,[]
+antibiotics,ankle fracture,Which antibiotics cause ankle fracture?,[]
+antibiotics,glomerulonephritis membranoproliferative,Which antibiotics cause glomerulonephritis membranoproliferative?,[]
+antibiotics,rhabdomyolysis,Which antibiotics cause rhabdomyolysis?,[]
+antibiotics,skin candida,Which antibiotics cause skin candida?,['ciprofloxacin']

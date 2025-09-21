@@ -1,0 +1,946 @@
+query,query_type,drug,organ_filter,ground_truth,num_results
+What gastrointestinal side effects does rosuvastatin cause?,organ_specific,rosuvastatin,gastrointestinal,"['dyspepsia', 'nausea', 'constipation', 'gastrointestinal pain', 'abdominal pain']",5
+Find all cardiovascular adverse events from rosuvastatin,organ_specific,rosuvastatin,cardiovascular,['arrhythmia'],1
+List rosuvastatin's effects on the musculoskeletal system,organ_specific,rosuvastatin,musculoskeletal,"['muscle swelling', 'rhabdomyolysis', 'myalgia', 'arthralgia']",4
+Find all psychiatric adverse events from rosuvastatin,organ_specific,rosuvastatin,psychiatric,"['depression', 'insomnia', 'confusional state']",3
+Show endocrine toxicity of rosuvastatin,organ_specific,rosuvastatin,endocrine,['diabetes mellitus'],1
+Show neurological toxicity of rosuvastatin,organ_specific,rosuvastatin,neurological,"['neuropathy peripheral', 'dizziness', 'headache']",3
+Find all dermatological adverse events from rosuvastatin,organ_specific,rosuvastatin,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'rash']",4
+What are the hepatobiliary risks of taking rosuvastatin?,organ_specific,rosuvastatin,hepatobiliary,"['hepatitis', 'hepatic failure', 'hepatic enzyme increased', 'hepatobiliary disease', 'jaundice']",5
+What immunological side effects does rosuvastatin cause?,organ_specific,rosuvastatin,immunological,['hypersensitivity'],1
+List rosuvastatin's effects on the renal system,organ_specific,rosuvastatin,renal,"['proteinuria', 'urinary tract infection', 'renal failure acute', 'microscopic hematuria', 'nephropathy']",5
+What are the hematological risks of taking rosuvastatin?,organ_specific,rosuvastatin,hematological,['thrombocytopenia'],1
+List rosuvastatin's effects on the respiratory system,organ_specific,rosuvastatin,respiratory,"['cough', 'cough increased']",2
+Find all gastrointestinal adverse events from anthracycline,organ_specific,anthracycline,gastrointestinal,"['vomiting', 'nausea', 'gastritis', 'constipation', 'gastrointestinal pain', 'abdominal pain', 'gastrointestinal haemorrhage']",7
+What dermatological side effects does anthracycline cause?,organ_specific,anthracycline,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'skin hyperpigmentation', 'rash', 'rash macular', 'dry skin', 'dermatitis contact', 'alopecia', 'seborrhoeic dermatitis', 'alopecia reversible']",11
+What cardiovascular side effects does anthracycline cause?,organ_specific,anthracycline,cardiovascular,"['cardiac disorder', 'acute cardiac toxicity', 'cardiac arrest', 'cardiac failure congestive', 'tachycardia', 'angina pectoris', 'hypertension', 'pulmonary hypertension', 'supraventricular tachycardia', 'palpitations', 'sinus tachycardia', 'cardiac tamponade', 'cardiac failure', 'arrhythmia', 'myocardial infarction']",15
+Find all psychiatric adverse events from anthracycline,organ_specific,anthracycline,psychiatric,"['bone marrow depression', 'agitation', 'anxiety', 'hallucination', 'depression', 'insomnia', 'confusional state']",7
+List anthracycline's effects on the musculoskeletal system,organ_specific,anthracycline,musculoskeletal,"['myalgia', 'arthralgia']",2
+List anthracycline's effects on the neurological system,organ_specific,anthracycline,neurological,"['dizziness', 'ataxia', 'headache', 'tremor', 'neuropathy peripheral', 'neuropathy']",6
+Find all ocular adverse events from anthracycline,organ_specific,anthracycline,ocular,"['abnormal vision', 'conjunctivitis']",2
+What respiratory side effects does anthracycline cause?,organ_specific,anthracycline,respiratory,['cough'],1
+Show otic toxicity of anthracycline,organ_specific,anthracycline,otic,"['deafness', 'tinnitus']",2
+List anthracycline's effects on the hematological system,organ_specific,anthracycline,hematological,"['febrile neutropenia', 'gingival bleeding', 'thrombocytopenia', 'leukopenia', 'neutropenia', 'pancytopenia']",6
+Find all hepatobiliary adverse events from anthracycline,organ_specific,anthracycline,hepatobiliary,"['hepatic impairment', 'hepatomegaly', 'liver disorder', 'hepatic function abnormal']",4
+List anthracycline's effects on the immunological system,organ_specific,anthracycline,immunological,"['hypersensitivity', 'anaphylactic shock', 'anaphylactoid reaction']",3
+What renal side effects does anthracycline cause?,organ_specific,anthracycline,renal,"['renal impairment', 'renal failure']",2
+List mirabegron's effects on the gastrointestinal system,organ_specific,mirabegron,gastrointestinal,"['dyspepsia', 'nausea', 'gastritis', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain']",8
+Find all musculoskeletal adverse events from mirabegron,organ_specific,mirabegron,musculoskeletal,"['joint swelling', 'arthralgia']",2
+Find all renal adverse events from mirabegron,organ_specific,mirabegron,renal,"['urinary tract disorder', 'cystitis', 'urinary retention', 'urinary tract infection', 'cystitis noninfective', 'nephrolithiasis']",6
+Show neurological toxicity of mirabegron,organ_specific,mirabegron,neurological,"['dizziness', 'headache']",2
+Show dermatological toxicity of mirabegron,organ_specific,mirabegron,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'rash papular', 'rash', 'rash macular', 'vulvovaginal pruritus', 'skin disorder']",9
+What ocular side effects does mirabegron cause?,organ_specific,mirabegron,ocular,"['glaucoma', 'vision blurred']",2
+Show cardiovascular toxicity of mirabegron,organ_specific,mirabegron,cardiovascular,"['hypertension', 'cardiac disorder', 'palpitations', 'tachycardia']",4
+What are the respiratory risks of taking mirabegron?,organ_specific,mirabegron,respiratory,['upper respiratory tract infection'],1
+What immunological side effects does mirabegron cause?,organ_specific,mirabegron,immunological,['leukocytoclastic vasculitis'],1
+List naftifine's effects on the dermatological system,organ_specific,naftifine,dermatological,"['dermatitis', 'pruritus', 'rash', 'skin tenderness', 'pain of skin', 'dermatitis bullous']",6
+Find all neurological adverse events from naftifine,organ_specific,naftifine,neurological,"['dizziness', 'headache']",2
+Find all hematological adverse events from naftifine,organ_specific,naftifine,hematological,['leukopenia'],1
+Find all immunological adverse events from methyclothiazide,organ_specific,methyclothiazide,immunological,"['hypersensitivity', 'anaphylactic shock', 'cutaneous vasculitis', 'vasculitis necrotising', 'vasculitis']",5
+What gastrointestinal side effects does methyclothiazide cause?,organ_specific,methyclothiazide,gastrointestinal,"['vomiting', 'gastric irritation', 'constipation', 'nausea', 'epigastric discomfort']",5
+Show neurological toxicity of methyclothiazide,organ_specific,methyclothiazide,neurological,"['dizziness', 'headache', 'vertigo']",3
+What dermatological side effects does methyclothiazide cause?,organ_specific,methyclothiazide,dermatological,"['dermatitis', 'urticaria', 'rash', 'photosensitivity reaction', 'photosensitivity']",5
+What cardiovascular side effects does methyclothiazide cause?,organ_specific,methyclothiazide,cardiovascular,['orthostatic hypotension'],1
+What hepatobiliary side effects does methyclothiazide cause?,organ_specific,methyclothiazide,hepatobiliary,['jaundice'],1
+What are the hematological risks of taking methyclothiazide?,organ_specific,methyclothiazide,hematological,"['thrombocytopenia', 'leukopenia']",2
+What are the musculoskeletal risks of taking methyclothiazide?,organ_specific,methyclothiazide,musculoskeletal,"['cramp muscle', 'muscle spasms']",2
+What are the respiratory risks of taking methyclothiazide?,organ_specific,methyclothiazide,respiratory,"['pneumonia', 'pulmonary oedema', 'respiratory distress']",3
+List methyclothiazide's effects on the psychiatric system,organ_specific,methyclothiazide,psychiatric,['agitation'],1
+What ocular side effects does methyclothiazide cause?,organ_specific,methyclothiazide,ocular,['vision blurred'],1
+Find all gastrointestinal adverse events from liraglutide,organ_specific,liraglutide,gastrointestinal,"['vomiting', 'dyspepsia', 'intestinal obstruction', 'nausea', 'abdominal discomfort', 'abdominal pain upper', 'gastritis', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain']",12
+List liraglutide's effects on the immunological system,organ_specific,liraglutide,immunological,"['hypersensitivity', 'anaphylactic shock']",2
+Show neurological toxicity of liraglutide,organ_specific,liraglutide,neurological,"['dizziness', 'headache']",2
+List liraglutide's effects on the dermatological system,organ_specific,liraglutide,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'rash', 'injection site dermatitis']",5
+Find all cardiovascular adverse events from liraglutide,organ_specific,liraglutide,cardiovascular,"['cardiac disorder', 'hypotension', 'palpitations', 'tachycardia']",4
+What are the renal risks of taking liraglutide?,organ_specific,liraglutide,renal,"['urinary tract disorder', 'renal impairment', 'serum creatinine increased', 'blood creatinine increased', 'renal failure acute', 'renal failure', 'renal failure chronic']",7
+What respiratory side effects does liraglutide cause?,organ_specific,liraglutide,respiratory,['upper respiratory tract infection'],1
+What are the endocrine risks of taking liraglutide?,organ_specific,liraglutide,endocrine,['papillary thyroid cancer'],1
+Find all ocular adverse events from unoprostone,organ_specific,unoprostone,ocular,"['cataract', 'abnormal vision', 'diplopia', 'optic atrophy', 'colour blindness', 'conjunctivitis']",6
+Show endocrine toxicity of unoprostone,organ_specific,unoprostone,endocrine,['diabetes mellitus'],1
+What neurological side effects does unoprostone cause?,organ_specific,unoprostone,neurological,"['dizziness', 'headache']",2
+Find all immunological adverse events from unoprostone,organ_specific,unoprostone,immunological,['hypersensitivity'],1
+What are the cardiovascular risks of taking unoprostone?,organ_specific,unoprostone,cardiovascular,"['hypertension', 'palpitations']",2
+What are the gastrointestinal risks of taking unoprostone?,organ_specific,unoprostone,gastrointestinal,"['vomiting', 'nausea']",2
+Show dermatological toxicity of unoprostone,organ_specific,unoprostone,dermatological,"['skin hyperpigmentation', 'pruritus']",2
+Find all respiratory adverse events from unoprostone,organ_specific,unoprostone,respiratory,"['cough', 'cough increased']",2
+What psychiatric side effects does unoprostone cause?,organ_specific,unoprostone,psychiatric,['insomnia'],1
+Show immunological toxicity of brolene,organ_specific,brolene,immunological,['hypersensitivity'],1
+What dermatological side effects does brolene cause?,organ_specific,brolene,dermatological,['skin sensitisation'],1
+List amphetamine's effects on the gastrointestinal system,organ_specific,amphetamine,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'abdominal cramps', 'abdominal pain upper', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'colitis ischaemic', 'abdominal pain']",10
+What are the immunological risks of taking amphetamine?,organ_specific,amphetamine,immunological,"['hypersensitivity', 'anaphylactic shock', 'vasculitis cerebral']",3
+What psychiatric side effects does amphetamine cause?,organ_specific,amphetamine,psychiatric,"['delirium', 'agitation', 'anxiety', 'hallucination', 'depression', 'insomnia', 'confusional state']",7
+List amphetamine's effects on the neurological system,organ_specific,amphetamine,neurological,"['dizziness', 'ataxia', 'headache', 'tremor']",4
+List amphetamine's effects on the dermatological system,organ_specific,amphetamine,dermatological,"['dermatitis', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'allergic urticaria', 'dyskinesia', 'skin disorder', 'alopecia', 'photosensitivity reaction']",9
+List amphetamine's effects on the cardiovascular system,organ_specific,amphetamine,cardiovascular,"['cardiac disorder', 'hypotension', 'cardiac death', 'tachycardia', 'hypertension', 'angina pectoris', 'palpitations', 'arrhythmia', 'myocardial infarction']",9
+Show renal toxicity of amphetamine,organ_specific,amphetamine,renal,"['urinary tract infection', 'urinary tract disorder']",2
+Find all musculoskeletal adverse events from amphetamine,organ_specific,amphetamine,musculoskeletal,"['rhabdomyolysis', 'muscle twitching']",2
+Find all gastrointestinal adverse events from teduglutide,organ_specific,teduglutide,gastrointestinal,"['vomiting', 'nausea', 'intestinal obstruction', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain', 'gastrointestinal stoma complication']",7
+What psychiatric side effects does teduglutide cause?,organ_specific,teduglutide,psychiatric,['anxiety'],1
+What musculoskeletal side effects does teduglutide cause?,organ_specific,teduglutide,musculoskeletal,['arthralgia'],1
+Show renal toxicity of teduglutide,organ_specific,teduglutide,renal,"['renal colic', 'urinary tract disorder', 'cholecystitis']",3
+List teduglutide's effects on the hepatobiliary system,organ_specific,teduglutide,hepatobiliary,"['cholestasis', 'hepatobiliary disease']",2
+Show respiratory toxicity of teduglutide,organ_specific,teduglutide,respiratory,"['cough', 'respiratory tract infection']",2
+What are the dermatological risks of taking teduglutide?,organ_specific,teduglutide,dermatological,"['unspecified disorder of skin and subcutaneous tissue', 'skin disorder', 'dermatitis atopic']",3
+Find all neurological adverse events from teduglutide,organ_specific,teduglutide,neurological,"['dizziness', 'headache']",2
+What are the cardiovascular risks of taking teduglutide?,organ_specific,teduglutide,cardiovascular,"['cardiac disorder', 'cardiac failure congestive']",2
+Show gastrointestinal toxicity of ziprasidone,organ_specific,ziprasidone,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'abdominal discomfort', 'gastrointestinal discomfort', 'gastritis', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",10
+What respiratory side effects does ziprasidone cause?,organ_specific,ziprasidone,respiratory,"['upper respiratory tract infection', 'cough increased', 'respiratory tract infection', 'pneumonia aspiration', 'respiratory alkalosis', 'cough', 'pneumonia']",7
+Find all dermatological adverse events from ziprasidone,organ_specific,ziprasidone,dermatological,"['vesiculobullous rash', 'eye pruritus', 'photosensitivity reaction', 'dermatitis', 'eczema', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'dyskinesia', 'dermatitis bullous', 'skin irritation', 'dermatitis atopic', 'skin disorder', 'tardive dyskinesia', 'fungal skin infection', 'dermatitis exfoliative', 'rash papular', 'rash', 'dermatitis contact', 'alopecia', 'rash maculo-papular', 'rash pustular', 'psoriasis']",22
+What are the cardiovascular risks of taking ziprasidone?,organ_specific,ziprasidone,cardiovascular,"['heart rate irregular', 'cardiac disorder', 'hypotension', 'pulmonary embolism', 'embolism venous', 'tachycardia', 'angina pectoris', 'hypertension', 'orthostatic hypotension', 'bradycardia', 'palpitations', 'venous thromboembolism', 'arrhythmia']",13
+Show psychiatric toxicity of ziprasidone,organ_specific,ziprasidone,psychiatric,"['delirium', 'agitation', 'anxiety', 'mania', 'hypomania', 'insomnia', 'confusional state']",7
+What musculoskeletal side effects does ziprasidone cause?,organ_specific,ziprasidone,musculoskeletal,"['muscle twitching', 'muscle spasms', 'rhabdomyolysis', 'cramp muscle', 'myalgia', 'muscle rigidity', 'joint stiffness', 'muscle relaxant therapy', 'arthralgia']",9
+List ziprasidone's effects on the neurological system,organ_specific,ziprasidone,neurological,"['parkinsonism', 'dizziness', 'ataxia', 'headache', 'vertigo positional', 'paralysis', 'tonic-clonic seizures', 'vertigo', 'dizziness postural', 'viith nerve paralysis', 'tremor', 'neuropathy peripheral', 'neuropathy']",13
+What are the ocular risks of taking ziprasidone?,organ_specific,ziprasidone,ocular,"['keratoconjunctivitis', 'cataract', 'vision blurred', 'abnormal vision', 'diplopia', 'conjunctivitis']",6
+What hematological side effects does ziprasidone cause?,organ_specific,ziprasidone,hematological,"['thrombocytopenia', 'gingival bleeding', 'leukopenia']",3
+List ziprasidone's effects on the hepatobiliary system,organ_specific,ziprasidone,hepatobiliary,"['liver fatty deposition', 'hepatic impairment', 'hepatitis', 'liver disorder', 'hepatomegaly', 'jaundice cholestatic', 'hepatic steatosis', 'liver function test abnormal', 'hepatic enzyme increased', 'jaundice']",10
+What are the immunological risks of taking ziprasidone?,organ_specific,ziprasidone,immunological,['hypersensitivity'],1
+List ziprasidone's effects on the endocrine system,organ_specific,ziprasidone,endocrine,"['diabetes mellitus', 'thyroiditis', 'hypothyroidism', 'glucose tolerance decreased', 'hyperthyroidism']",5
+List ziprasidone's effects on the renal system,organ_specific,ziprasidone,renal,"['urinary tract disorder', 'urinary retention', 'urinary incontinence', 'renal impairment', 'creatinine increased', 'blood creatinine increased', 'renal failure acute', 'oliguria', 'renal failure']",9
+List ziprasidone's effects on the otic system,organ_specific,ziprasidone,otic,['tinnitus'],1
+Show gastrointestinal toxicity of vitamin,organ_specific,vitamin,gastrointestinal,"['nausea', 'constipation']",2
+Find all cardiovascular adverse events from vitamin,organ_specific,vitamin,cardiovascular,"['hypertension', 'hypotension']",2
+What are the renal risks of taking vitamin?,organ_specific,vitamin,renal,"['irreversible renal failure', 'renal failure chronic', 'nephrocalcinosis']",3
+What are the musculoskeletal risks of taking vitamin?,organ_specific,vitamin,musculoskeletal,['osteoporosis'],1
+List vitamin's effects on the neurological system,organ_specific,vitamin,neurological,['dizziness'],1
+What are the immunological risks of taking vitamin?,organ_specific,vitamin,immunological,"['hypersensitivity', 'anaphylactic shock', 'anaphylactoid reaction']",3
+Show gastrointestinal toxicity of icodextrin,organ_specific,icodextrin,gastrointestinal,"['vomiting', 'dyspepsia', 'intestinal obstruction', 'nausea', 'abdominal discomfort', 'gastritis', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain', 'gastric ulcer']",12
+What psychiatric side effects does icodextrin cause?,organ_specific,icodextrin,psychiatric,"['agitation', 'anxiety', 'confusional state']",3
+Show musculoskeletal toxicity of icodextrin,organ_specific,icodextrin,musculoskeletal,"['cramp muscle', 'myalgia', 'bone pain', 'muscle spasms', 'arthralgia']",5
+Find all dermatological adverse events from icodextrin,organ_specific,icodextrin,dermatological,"['skin ulcer', 'exfoliative rash', 'dry skin', 'dermatitis', 'eczema', 'pruritus', 'urticaria', 'chapped skin', 'dermatitis bullous', 'skin discolouration', 'generalized urticaria', 'skin exfoliation', 'skin disorder', 'skin fissures', 'dermatitis exfoliative', 'rash', 'toxic skin eruption', 'rash maculo-papular', 'psoriasis']",19
+What are the respiratory risks of taking icodextrin?,organ_specific,icodextrin,respiratory,"['upper respiratory tract infection', 'bronchospasm', 'cough', 'pulmonary oedema']",4
+What are the endocrine risks of taking icodextrin?,organ_specific,icodextrin,endocrine,"['parathyroid disorder', 'diabetes mellitus']",2
+What are the neurological risks of taking icodextrin?,organ_specific,icodextrin,neurological,"['dizziness', 'headache']",2
+Show cardiovascular toxicity of icodextrin,organ_specific,icodextrin,cardiovascular,"['hypotension', 'tachycardia', 'hypertension', 'orthostatic hypotension', 'cardiac failure']",5
+Show immunological toxicity of icodextrin,organ_specific,icodextrin,immunological,"['hypersensitivity', 'vasculitis']",2
+Find all hematological adverse events from icodextrin,organ_specific,icodextrin,hematological,"['thrombocytopenia', 'leukopenia']",2
+List icodextrin's effects on the renal system,organ_specific,icodextrin,renal,"['oliguria', 'hypertensive nephropathy', 'renal pain']",3
+Show otic toxicity of icodextrin,organ_specific,icodextrin,otic,['tinnitus'],1
+What are the ocular risks of taking icodextrin?,organ_specific,icodextrin,ocular,['vision blurred'],1
+What are the hepatobiliary risks of taking icodextrin?,organ_specific,icodextrin,hepatobiliary,"['liver function test abnormal', 'raised liver function tests']",2
+Find all immunological adverse events from benzylpenicilloyl,organ_specific,benzylpenicilloyl,immunological,"['hypersensitivity', 'anaphylactic shock', 'systemic allergic reaction']",3
+List benzylpenicilloyl's effects on the cardiovascular system,organ_specific,benzylpenicilloyl,cardiovascular,['hypotension'],1
+What dermatological side effects does benzylpenicilloyl cause?,organ_specific,benzylpenicilloyl,dermatological,"['pruritus', 'urticaria']",2
+What are the gastrointestinal risks of taking lomitapide?,organ_specific,lomitapide,gastrointestinal,"['vomiting', 'gastrointestinal infection', 'abdominal pain upper', 'lower gastrointestinal haemorrhage', 'constipation', 'reaction gastrointestinal', 'epigastric discomfort', 'gastritis', 'gastric dilatation', 'nausea', 'abdominal pain lower', 'dyspepsia', 'gastrointestinal disorder', 'abdominal distension', 'abdominal tenderness', 'gastric disorder', 'abdominal discomfort', 'gastrointestinal pain', 'abdominal pain']",19
+What cardiovascular side effects does lomitapide cause?,organ_specific,lomitapide,cardiovascular,"['angina pectoris', 'cardiac disorder', 'palpitations']",3
+List lomitapide's effects on the musculoskeletal system,organ_specific,lomitapide,musculoskeletal,"['joint swelling', 'muscle twitching', 'myalgia', 'muscle spasms', 'arthralgia']",5
+What are the dermatological risks of taking lomitapide?,organ_specific,lomitapide,dermatological,"['rash erythematous', 'unspecified disorder of skin and subcutaneous tissue', 'skin disorder', 'dry skin', 'dermatitis bullous']",5
+Show neurological toxicity of lomitapide,organ_specific,lomitapide,neurological,"['dizziness', 'headache', 'migraine', 'vertigo']",4
+List lomitapide's effects on the hepatobiliary system,organ_specific,lomitapide,hepatobiliary,"['hepatomegaly', 'liver function test abnormal', 'hepatic enzyme increased', 'hepatic steatosis', 'hepatotoxicity', 'hepatobiliary disease']",6
+Show renal toxicity of lomitapide,organ_specific,lomitapide,renal,['urinary tract disorder'],1
+What respiratory side effects does lomitapide cause?,organ_specific,lomitapide,respiratory,"['upper-airway cough syndrome', 'pulmonary function test abnormal']",2
+List thiamine's effects on the immunological system,organ_specific,thiamine,immunological,"['hypersensitivity', 'anaphylactic shock']",2
+What gastrointestinal side effects does thiamine cause?,organ_specific,thiamine,gastrointestinal,['nausea'],1
+List thiamine's effects on the dermatological system,organ_specific,thiamine,dermatological,"['pruritus', 'urticaria']",2
+Show respiratory toxicity of thiamine,organ_specific,thiamine,respiratory,['pulmonary oedema'],1
+What are the psychiatric risks of taking thiamine?,organ_specific,thiamine,psychiatric,['agitation'],1
+What gastrointestinal side effects does nebivolol cause?,organ_specific,nebivolol,gastrointestinal,"['vomiting', 'nausea', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",5
+What are the respiratory risks of taking nebivolol?,organ_specific,nebivolol,respiratory,"['bronchospasm', 'acute pulmonary oedema']",2
+What neurological side effects does nebivolol cause?,organ_specific,nebivolol,neurological,"['dizziness', 'headache', 'vertigo']",3
+What dermatological side effects does nebivolol cause?,organ_specific,nebivolol,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin disorder', 'psoriasis']",7
+What cardiovascular side effects does nebivolol cause?,organ_specific,nebivolol,cardiovascular,"['cardiac disorder', 'bradycardia', 'myocardial infarction']",3
+Show immunological toxicity of nebivolol,organ_specific,nebivolol,immunological,"['hypersensitivity', 'allergic cutaneous angiitis', 'leukocytoclastic vasculitis']",3
+What renal side effects does nebivolol cause?,organ_specific,nebivolol,renal,['renal failure acute'],1
+List nebivolol's effects on the hematological system,organ_specific,nebivolol,hematological,['thrombocytopenia'],1
+Find all psychiatric adverse events from nebivolol,organ_specific,nebivolol,psychiatric,['insomnia'],1
+What are the gastrointestinal risks of taking sodium?,organ_specific,sodium,gastrointestinal,"['vomiting', 'nausea', 'intestinal obstruction', 'abdominal bloating', 'dyspepsia', 'abdominal cramps', 'gastric irritation', 'abdominal pain upper', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'intestinal perforation', 'fullness abdominal', 'abdominal pain', 'epigastric discomfort']",16
+List sodium's effects on the immunological system,organ_specific,sodium,immunological,"['hypersensitivity', 'type i hypersensitivity', 'anaphylactic shock', 'lupus erythematosus', 'anaphylactoid reaction', 'systemic lupus erythematosus', 'vasculitis']",7
+What are the psychiatric risks of taking sodium?,organ_specific,sodium,psychiatric,"['agitation', 'anxiety', 'hallucination', 'insomnia', 'confusional state']",5
+What cardiovascular side effects does sodium cause?,organ_specific,sodium,cardiovascular,"['heart rate irregular', 'hypotension', 'pulmonary embolism', 'cardiac arrest', 'venous thrombosis', 'tachycardia', 'hypertension', 'thrombosis', 'orthostatic hypotension', 'bradycardia', 'angina pectoris', 'palpitations', 'cardiac failure congestive', 'arrhythmia', 'cardiac fibrillation', 'myocardial infarction']",16
+What respiratory side effects does sodium cause?,organ_specific,sodium,respiratory,"['upper respiratory tract infection', 'bronchospasm', 'bronchopneumonia', 'pneumonia', 'asthmatic attack', 'asthma', 'eosinophilic pneumonia', 'respiratory failure', 'bronchospasm paradoxical', 'cough', 'cough increased', 'pulmonary oedema']",12
+List sodium's effects on the neurological system,organ_specific,sodium,neurological,"['dizziness', 'headache', 'migraine', 'paralysis', 'vertigo', 'tremor', 'neurological symptom', 'neuropathy peripheral']",8
+Show dermatological toxicity of sodium,organ_specific,sodium,dermatological,"['dermatitis', 'pruritus', 'dermatitis exfoliative', 'urticaria', 'skin discolouration', 'blotchy rash', 'rash', 'rash macular', 'eye pruritus', 'rash maculo-papular', 'photosensitivity', 'photosensitivity reaction']",12
+List sodium's effects on the renal system,organ_specific,sodium,renal,"['renal tubular necrosis', 'shutdown renal', 'nephrocalcinosis', 'acute phosphate nephropathy', 'renal impairment', 'urinary tract infection', 'creatinine increased', 'nephrosis', 'blood creatinine increased', 'renal failure acute', 'oliguria', 'renal failure', 'anuria', 'nephrotic syndrome']",14
+Find all hematological adverse events from sodium,organ_specific,sodium,hematological,"['neutropenia', 'mucosal bleeding', 'disseminated intravascular coagulation', 'pancytopenia', 'bleeding time prolonged']",5
+Show ocular toxicity of sodium,organ_specific,sodium,ocular,"['diplopia', 'vision blurred', 'abnormal vision', 'conjunctivitis']",4
+List sodium's effects on the musculoskeletal system,organ_specific,sodium,musculoskeletal,"['joint swelling', 'muscle twitching', 'cramp muscle', 'myalgia', 'muscle spasms', 'arthralgia']",6
+Show hepatobiliary toxicity of sodium,organ_specific,sodium,hepatobiliary,"['hepatocellular injury', 'liver disorder', 'foetor hepaticus']",3
+Show otic toxicity of sodium,organ_specific,sodium,otic,"['ototoxicity', 'tinnitus']",2
+Show endocrine toxicity of sodium,organ_specific,sodium,endocrine,['hypothyroidism'],1
+What are the gastrointestinal risks of taking troglitazone?,organ_specific,troglitazone,gastrointestinal,"['vomiting', 'nausea', 'abdominal pain', 'gastrointestinal pain']",4
+Find all cardiovascular adverse events from troglitazone,organ_specific,troglitazone,cardiovascular,['cardiac failure congestive'],1
+Show hepatobiliary toxicity of troglitazone,organ_specific,troglitazone,hepatobiliary,"['hepatitis', 'hepatic function abnormal', 'jaundice', 'liver function test abnormal']",4
+Find all neurological adverse events from troglitazone,organ_specific,troglitazone,neurological,['dizziness'],1
+Show immunological toxicity of streptomycin,organ_specific,streptomycin,immunological,['anaphylactic shock'],1
+Show otic toxicity of streptomycin,organ_specific,streptomycin,otic,"['ototoxicity', 'deafness']",2
+Find all dermatological adverse events from streptomycin,organ_specific,streptomycin,dermatological,"['dermatitis', 'dermatitis exfoliative', 'urticaria', 'rash']",4
+What hematological side effects does streptomycin cause?,organ_specific,streptomycin,hematological,"['thrombocytopenia', 'leukopenia', 'pancytopenia']",3
+What gastrointestinal side effects does streptomycin cause?,organ_specific,streptomycin,gastrointestinal,"['vomiting', 'nausea']",2
+Find all neurological adverse events from streptomycin,organ_specific,streptomycin,neurological,['vertigo'],1
+Show renal toxicity of streptomycin,organ_specific,streptomycin,renal,"['renal impairment', 'renal failure', 'nephrotoxicity', 'nephropathy toxic']",4
+What gastrointestinal side effects does eptifibatide cause?,organ_specific,eptifibatide,gastrointestinal,"['dyspepsia', 'nausea', 'gastrointestinal pain', 'abdominal pain', 'gastrointestinal haemorrhage']",5
+Show immunological toxicity of eptifibatide,organ_specific,eptifibatide,immunological,"['hypersensitivity', 'anaphylactic shock']",2
+Find all dermatological adverse events from eptifibatide,organ_specific,eptifibatide,dermatological,"['dermatitis', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin disorder']",5
+What neurological side effects does eptifibatide cause?,organ_specific,eptifibatide,neurological,"['neuropathy peripheral', 'headache']",2
+What are the cardiovascular risks of taking eptifibatide?,organ_specific,eptifibatide,cardiovascular,"['cardiac disorder', 'hypotension', 'ventricular tachycardia', 'cardiac arrest', 'hypertension', 'cardiac failure congestive', 'cardiac failure', 'myocardial infarction']",8
+What are the respiratory risks of taking eptifibatide?,organ_specific,eptifibatide,respiratory,"['pneumonia', 'pulmonary haemorrhage']",2
+What are the hematological risks of taking eptifibatide?,organ_specific,eptifibatide,hematological,['thrombocytopenia'],1
+Show renal toxicity of eptifibatide,organ_specific,eptifibatide,renal,"['renal impairment', 'renal failure', 'frank hematuria']",3
+Find all hepatobiliary adverse events from eptifibatide,organ_specific,eptifibatide,hepatobiliary,"['hepatic impairment', 'liver disorder']",2
+Show psychiatric toxicity of nimodipine,organ_specific,nimodipine,psychiatric,['depression'],1
+Show hematological toxicity of nimodipine,organ_specific,nimodipine,hematological,"['thrombocytopenia', 'disseminated intravascular coagulation']",2
+What neurological side effects does nimodipine cause?,organ_specific,nimodipine,neurological,"['dizziness', 'headache']",2
+What are the dermatological risks of taking nimodipine?,organ_specific,nimodipine,dermatological,"['dermatitis', 'pruritus', 'rash']",3
+Find all gastrointestinal adverse events from nimodipine,organ_specific,nimodipine,gastrointestinal,"['vomiting', 'gastrointestinal symptom nos', 'gastrointestinal disorder', 'nausea', 'gastrointestinal haemorrhage']",5
+Show cardiovascular toxicity of nimodipine,organ_specific,nimodipine,cardiovascular,"['cardiac disorder', 'hypotension', 'tachycardia', 'hypertension', 'bradycardia', 'palpitations', 'cardiac failure congestive', 'deep vein thrombosis']",8
+Find all hepatobiliary adverse events from nimodipine,organ_specific,nimodipine,hepatobiliary,"['hepatitis', 'hepatobiliary disease', 'jaundice', 'liver function test abnormal']",4
+What are the immunological risks of taking nimodipine?,organ_specific,nimodipine,immunological,['hypersensitivity'],1
+What are the musculoskeletal risks of taking nimodipine?,organ_specific,nimodipine,musculoskeletal,"['myalgia', 'cramp muscle', 'muscle spasms']",3
+What gastrointestinal side effects does eprosartan cause?,organ_specific,eprosartan,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'gastritis', 'constipation', 'gastrointestinal pain', 'abdominal pain']",7
+Find all cardiovascular adverse events from eprosartan,organ_specific,eprosartan,cardiovascular,"['hypotension', 'tachycardia', 'angina pectoris', 'bradycardia', 'orthostatic hypotension', 'palpitations', 'cardiac failure']",7
+Show psychiatric toxicity of eprosartan,organ_specific,eprosartan,psychiatric,"['depression', 'anxiety', 'insomnia']",3
+Show musculoskeletal toxicity of eprosartan,organ_specific,eprosartan,musculoskeletal,"['rhabdomyolysis', 'muscle spasms', 'myalgia', 'bone pain', 'tendonitis', 'arthralgia']",6
+Find all respiratory adverse events from eprosartan,organ_specific,eprosartan,respiratory,"['upper respiratory tract infection', 'cough', 'asthma']",3
+What are the neurological risks of taking eprosartan?,organ_specific,eprosartan,neurological,"['dizziness', 'ataxia', 'headache', 'migraine', 'vertigo', 'tremor', 'neuropathy peripheral']",7
+What are the ocular risks of taking eprosartan?,organ_specific,eprosartan,ocular,"['abnormal vision', 'conjunctivitis']",2
+Find all renal adverse events from eprosartan,organ_specific,eprosartan,renal,"['renal artery stenosis', 'cystitis', 'urinary incontinence', 'urinary tract infection', 'serum creatinine increased', 'blood creatinine increased', 'cystitis noninfective', 'nephrolithiasis', 'renal failure', 'calculus of kidney']",10
+What are the endocrine risks of taking eprosartan?,organ_specific,eprosartan,endocrine,['diabetes mellitus'],1
+What dermatological side effects does eprosartan cause?,organ_specific,eprosartan,dermatological,"['dermatitis', 'eczema', 'pruritus', 'urticaria', 'rash', 'rash maculo-papular']",6
+Show immunological toxicity of eprosartan,organ_specific,eprosartan,immunological,['hypersensitivity'],1
+What hematological side effects does eprosartan cause?,organ_specific,eprosartan,hematological,['thrombocytopenia'],1
+List eprosartan's effects on the otic system,organ_specific,eprosartan,otic,['tinnitus'],1
+Show gastrointestinal toxicity of ropivacaine,organ_specific,ropivacaine,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'constipation', 'gastrointestinal pain', 'abdominal distension', 'vomiting neonatal', 'abdominal pain']",8
+Find all immunological adverse events from ropivacaine,organ_specific,ropivacaine,immunological,"['hypersensitivity', 'anaphylactic shock', 'anaphylactoid reaction']",3
+List ropivacaine's effects on the psychiatric system,organ_specific,ropivacaine,psychiatric,"['agitation', 'anxiety', 'hallucination', 'respiratory depression', 'depression', 'cns depression nos', 'insomnia', 'confusional state']",8
+What cardiovascular side effects does ropivacaine cause?,organ_specific,ropivacaine,cardiovascular,"['hypotension', 'cardiac arrest', 'cardiac disorder', 'pulmonary embolism', 'ventricular arrhythmia', 'heart malformation', 'cardiac output decreased', 'myocardial infarction', 'tachycardia', 'hypertension', 'bradycardia', 'orthostatic hypotension', 'ventricular tachycardia', 'heart disease congenital', 'block heart', 'tachycardia foetal', 'bradycardia foetal', 'arrhythmia', 'deep vein thrombosis']",19
+List ropivacaine's effects on the musculoskeletal system,organ_specific,ropivacaine,musculoskeletal,"['muscle twitching', 'muscle spasms', 'cramp muscle', 'myalgia', 'muscle rigidity', 'muscle relaxant therapy', 'arthralgia']",7
+List ropivacaine's effects on the respiratory system,organ_specific,ropivacaine,respiratory,"['bronchospasm', 'respiratory arrest', 'pulmonary function test decreased', 'respiratory insufficiency', 'hypoxia', 'respiratory disorder neonatal', 'respiratory failure', 'pleural effusion', 'cough']",9
+List ropivacaine's effects on the neurological system,organ_specific,ropivacaine,neurological,"['dizziness', 'headache', 'cranial nerve paralysis', 'respiratory paralysis', 'paralysis', 'vertigo', 'tremor', 'neurological symptom', 'neuropathy peripheral', 'neuropathy']",10
+What are the dermatological risks of taking ropivacaine?,organ_specific,ropivacaine,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'rash', 'dyskinesia', 'skin disorder']",6
+Find all hepatobiliary adverse events from ropivacaine,organ_specific,ropivacaine,hepatobiliary,"['hepatic function abnormal', 'jaundice', 'jaundice neonatal']",3
+List ropivacaine's effects on the renal system,organ_specific,ropivacaine,renal,"['urinary tract disorder', 'urinary retention', 'urinary incontinence', 'urinary tract infection', 'oliguria']",5
+Find all hematological adverse events from ropivacaine,organ_specific,ropivacaine,hematological,['thrombocytopenia'],1
+What are the otic risks of taking ropivacaine?,organ_specific,ropivacaine,otic,['tinnitus'],1
+What are the ocular risks of taking ropivacaine?,organ_specific,ropivacaine,ocular,['vision blurred'],1
+List clozapine's effects on the gastrointestinal system,organ_specific,clozapine,gastrointestinal,"['vomiting', 'dyspepsia', 'intestinal obstruction', 'abdominal discomfort', 'constipation', 'gastrointestinal disorder', 'abdominal distension', 'reaction gastrointestinal', 'nausea', 'gastric ulcer']",10
+Show cardiovascular toxicity of clozapine,organ_specific,clozapine,cardiovascular,"['hypotension', 'thromboembolism', 'cardiac arrest', 'cardiac failure', 'cardiac disorder', 'embolism', 'pulmonary embolism', 'heart malformation', 'palpitations', 'myocardial infarction', 'tachycardia', 'hypertension', 'bradycardia', 'orthostatic hypotension', 'ventricular tachycardia', 'heart disease congenital', 'block heart', 'angina pectoris', 'heartburn', 'embolism venous', 'arrhythmia', 'deep vein thrombosis']",22
+List clozapine's effects on the psychiatric system,organ_specific,clozapine,psychiatric,"['delirium', 'agitation', 'suicidal ideation', 'hallucination', 'anxiety', 'respiratory depression', 'insomnia nec', 'depression', 'insomnia', 'confusional state']",10
+List clozapine's effects on the musculoskeletal system,organ_specific,clozapine,musculoskeletal,"['muscle twitching', 'rhabdomyolysis', 'bone marrow disorder', 'myalgia', 'muscle rigidity', 'muscle spasms', 'arthralgia']",7
+List clozapine's effects on the neurological system,organ_specific,clozapine,neurological,"['parkinsonism', 'dizziness', 'ataxia', 'headache', 'vertigo', 'tremor']",6
+What are the hepatobiliary risks of taking clozapine?,organ_specific,clozapine,hepatobiliary,"['liver disorder', 'hepatitis', 'hepatic cirrhosis', 'hepatocellular injury', 'hepatic failure', 'hepatic necrosis', 'traumatic liver injury', 'jaundice cholestatic', 'hepatic enzyme increased', 'hepatic fibrosis', 'hepatic steatosis', 'liver injury', 'hepatotoxicity', 'hepatobiliary disease', 'jaundice', 'foetor hepaticus', 'cholestasis']",17
+List clozapine's effects on the respiratory system,organ_specific,clozapine,respiratory,"['lower respiratory tract infection', 'pneumonia aspiration', 'respiratory arrest', 'pulmonary function test decreased', 'pleural effusion', 'cough', 'pneumonia']",7
+Show dermatological toxicity of clozapine,organ_specific,clozapine,dermatological,"['dermatitis', 'eczema', 'pruritus', 'urticaria', 'tardive dyskinesia', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'vulvovaginal pruritus', 'dyskinesia', 'skin disorder', 'photosensitivity', 'photosensitivity reaction']",12
+What are the endocrine risks of taking clozapine?,organ_specific,clozapine,endocrine,"['glucose tolerance impaired', 'diabetes mellitus']",2
+What are the ocular risks of taking clozapine?,organ_specific,clozapine,ocular,"['vision blurred', 'angle closure glaucoma']",2
+What immunological side effects does clozapine cause?,organ_specific,clozapine,immunological,"['hypersensitivity', 'vasculitis']",2
+Show hematological toxicity of clozapine,organ_specific,clozapine,hematological,"['thrombocytopenia', 'neutropenia', 'leukopenia']",3
+Find all renal adverse events from clozapine,organ_specific,clozapine,renal,"['urinary tract disorder', 'urinary retention', 'urinary incontinence', 'urinary abnormalities', 'renal failure']",5
+List vacv's effects on the gastrointestinal system,organ_specific,vacv,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'abdominal discomfort', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",8
+List vacv's effects on the dermatological system,organ_specific,vacv,dermatological,"['dermatitis', 'eczema', 'pruritus', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin disorder', 'alopecia', 'photosensitivity', 'photosensitivity reaction']",10
+What immunological side effects does vacv cause?,organ_specific,vacv,immunological,"['hypersensitivity', 'leukocytoclastic vasculitis', 'anaphylactic shock']",3
+Show musculoskeletal toxicity of vacv,organ_specific,vacv,musculoskeletal,"['myalgia', 'arthralgia']",2
+Show neurological toxicity of vacv,organ_specific,vacv,neurological,"['dizziness', 'ataxia', 'headache', 'migraine', 'tremor', 'neurological symptom']",6
+Find all psychiatric adverse events from vacv,organ_specific,vacv,psychiatric,"['auditory and visual hallucinations', 'agitation', 'hallucination', 'hallucinations, mixed', 'depression', 'mania', 'insomnia', 'confusional state']",8
+Find all respiratory adverse events from vacv,organ_specific,vacv,respiratory,"['upper respiratory tract infection', 'cough', 'cough increased']",3
+What hepatobiliary side effects does vacv cause?,organ_specific,vacv,hepatobiliary,"['hepatitis', 'hepatobiliary disease', 'raised liver function tests', 'liver function test abnormal']",4
+Show cardiovascular toxicity of vacv,organ_specific,vacv,cardiovascular,"['hypertension', 'tachycardia']",2
+Find all renal adverse events from vacv,organ_specific,vacv,renal,"['urinary tract disorder', 'renal pain', 'renal impairment', 'urinary tract infection', 'creatinine increased', 'blood creatinine increased', 'renal failure acute', 'renal failure']",8
+What are the hematological risks of taking vacv?,organ_specific,vacv,hematological,"['thrombocytopenia', 'leukopenia']",2
+Find all gastrointestinal adverse events from methylene,organ_specific,methylene,gastrointestinal,"['vomiting', 'nausea', 'dyspepsia', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",6
+List methylene's effects on the immunological system,organ_specific,methylene,immunological,"['hypersensitivity', 'anaphylactic shock']",2
+List methylene's effects on the psychiatric system,organ_specific,methylene,psychiatric,"['agitation', 'anxiety', 'confusional state']",3
+What cardiovascular side effects does methylene cause?,organ_specific,methylene,cardiovascular,"['cardiac disorder', 'hypotension', 'cardiac arrest', 'tachycardia', 'hypertension', 'arrhythmia']",6
+Show neurological toxicity of methylene,organ_specific,methylene,neurological,"['dizziness', 'headache', 'tremor']",3
+Find all dermatological adverse events from methylene,organ_specific,methylene,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'skin discolouration', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin disorder']",7
+Show renal toxicity of methylene,organ_specific,methylene,renal,['urinary tract disorder'],1
+List methylene's effects on the respiratory system,organ_specific,methylene,respiratory,['hypoxia'],1
+What endocrine side effects does methylene cause?,organ_specific,methylene,endocrine,['glucose-6-phosphate dehydrogenase deficiency'],1
+What are the gastrointestinal risks of taking cevimeline?,organ_specific,cevimeline,gastrointestinal,"['vomiting', 'dyspepsia', 'intestinal obstruction', 'nausea', 'enterocolitis', 'functional gastrointestinal disorder', 'gastritis', 'proctocolitis', 'constipation', 'gastrointestinal pain', 'abdominal distension', 'colitis ulcerative', 'abdominal pain', 'gastrointestinal haemorrhage', 'gastric ulcer']",15
+What dermatological side effects does cevimeline cause?,organ_specific,cevimeline,dermatological,"['skin ulcer', 'skin hypertrophy', 'seborrhoeic dermatitis', 'photosensitivity reaction', 'dry skin', 'dermatitis', 'eczema', 'pruritus', 'urticaria', 'pruritus genital', 'dyskinesia', 'dermatitis bullous', 'rash erythematous', 'skin discolouration', 'skin cold clammy', 'skin exfoliation', 'skin disorder', 'skin papilloma', 'rash', 'dermatitis contact', 'alopecia']",21
+What cardiovascular side effects does cevimeline cause?,organ_specific,cevimeline,cardiovascular,"['cardiac disorder', 'hypotension', 'cardiovascular disorder', 'hypertension worsened', 'pulmonary embolism', 'tachycardia', 'angina pectoris', 'cardiac murmur', 'hypertension', 'orthostatic hypotension', 'supraventricular tachycardia', 'palpitations', 'arrhythmia', 'myocardial infarction']",14
+Find all psychiatric adverse events from cevimeline,organ_specific,cevimeline,psychiatric,"['delirium', 'agitation', 'manic psychosis', 'hallucination', 'anxiety', 'depression aggravated', 'depression', 'mania', 'insomnia', 'confusional state']",10
+What musculoskeletal side effects does cevimeline cause?,organ_specific,cevimeline,musculoskeletal,"['joint dislocation', 'tendonitis', 'bone disorder', 'osteoporosis', 'muscle contractions involuntary', 'myalgia', 'bone pain', 'muscle spasms', 'arthralgia']",9
+Find all respiratory adverse events from cevimeline,organ_specific,cevimeline,respiratory,"['upper respiratory tract infection', 'bronchoconstriction', 'bronchospasm', 'respiratory tract congestion', 'asthma', 'pleural effusion', 'pulmonary fibrosis', 'cough', 'pneumonia', 'pulmonary congestion', 'chronic obstructive pulmonary disease']",11
+Show renal toxicity of cevimeline,organ_specific,cevimeline,renal,"['cystitis', 'urinary retention', 'cholecystitis', 'urinary incontinence', 'renal impairment', 'urinary tract infection', 'renal pain', 'nephrosis', 'cystitis noninfective', 'kidney function abnormal', 'nephrolithiasis', 'oliguria', 'calculus of kidney', 'nephrotic syndrome']",14
+List cevimeline's effects on the ocular system,organ_specific,cevimeline,ocular,"['glaucoma', 'keratoconjunctivitis', 'cataract', 'abnormal vision', 'diplopia', 'conjunctivitis']",6
+List cevimeline's effects on the otic system,organ_specific,cevimeline,otic,"['tinnitus', 'deafness', 'partial hearing loss', 'hearing impaired']",4
+Find all endocrine adverse events from cevimeline,organ_specific,cevimeline,endocrine,"['hypothyroidism', 'diabetes mellitus']",2
+List cevimeline's effects on the neurological system,organ_specific,cevimeline,neurological,"['dizziness', 'headache', 'migraine', 'paralysis', 'vertigo', 'tremor', 'neuropathy peripheral', 'neuropathy']",8
+Show immunological toxicity of cevimeline,organ_specific,cevimeline,immunological,"['hypersensitivity', 'vasculitis', 'lupus erythematosus', 'systemic lupus erythematosus']",4
+Find all hematological adverse events from cevimeline,organ_specific,cevimeline,hematological,"['postoperative hemorrhage', 'leukopenia', 'thrombocytopenia']",3
+What are the hepatobiliary risks of taking cevimeline?,organ_specific,cevimeline,hepatobiliary,['hepatitis viral'],1
+Show immunological toxicity of fosphenytoin,organ_specific,fosphenytoin,immunological,"['anaphylactic shock', 'anaphylactoid reaction']",2
+List fosphenytoin's effects on the musculoskeletal system,organ_specific,fosphenytoin,musculoskeletal,"['muscle twitching', 'muscle spasms', 'myalgia', 'muscle relaxant therapy', 'arthralgia']",5
+Find all respiratory adverse events from fosphenytoin,organ_specific,fosphenytoin,respiratory,"['cough increased', 'pneumonia aspiration', 'asthma', 'cough', 'pneumonia']",5
+Show neurological toxicity of fosphenytoin,organ_specific,fosphenytoin,neurological,"['dizziness', 'ataxia', 'headache', 'migraine', 'paralysis', 'vertigo', 'tremor']",7
+Find all psychiatric adverse events from fosphenytoin,organ_specific,fosphenytoin,psychiatric,"['delirium', 'agitation', 'cns depression nos', 'insomnia', 'confusional state']",5
+Show ocular toxicity of fosphenytoin,organ_specific,fosphenytoin,ocular,"['diplopia', 'conjunctivitis']",2
+Show gastrointestinal toxicity of fosphenytoin,organ_specific,fosphenytoin,gastrointestinal,"['vomiting', 'dyspepsia', 'gastritis', 'constipation', 'nausea', 'gastrointestinal haemorrhage']",6
+What are the otic risks of taking fosphenytoin?,organ_specific,fosphenytoin,otic,"['deafness', 'tinnitus']",2
+List fosphenytoin's effects on the dermatological system,organ_specific,fosphenytoin,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'skin discolouration', 'rash', 'dyskinesia', 'skin nodule', 'skin mass', 'dermatitis contact', 'photosensitivity reaction', 'rash maculo-papular', 'rash pustular']",12
+What endocrine side effects does fosphenytoin cause?,organ_specific,fosphenytoin,endocrine,['diabetes insipidus'],1
+What cardiovascular side effects does fosphenytoin cause?,organ_specific,fosphenytoin,cardiovascular,"['hypotension', 'pulmonary embolism', 'cardiac arrest', 'tachycardia', 'hypertension', 'bradycardia', 'orthostatic hypotension', 'palpitations', 'sinus bradycardia', 'cardiac failure congestive']",10
+List fosphenytoin's effects on the hematological system,organ_specific,fosphenytoin,hematological,"['thrombocytopenia', 'leukopenia']",2
+What renal side effects does fosphenytoin cause?,organ_specific,fosphenytoin,renal,"['urinary incontinence', 'oliguria', 'renal failure', 'urinary retention']",4
+Find all hepatobiliary adverse events from fosphenytoin,organ_specific,fosphenytoin,hepatobiliary,['liver function test abnormal'],1
+What are the gastrointestinal risks of taking fluvoxamine?,organ_specific,fluvoxamine,gastrointestinal,"['vomiting', 'dyspepsia', 'intestinal obstruction', 'nausea', 'abdominal discomfort', 'colitis', 'gastritis', 'constipation', 'gastrointestinal pain', 'gastrointestinal carcinoma', 'gastrointestinal disorder', 'gastrointestinal ulcer', 'abdominal distension', 'abdominal pain', 'gastrointestinal haemorrhage']",15
+Find all dermatological adverse events from fluvoxamine,organ_specific,fluvoxamine,dermatological,"['dermatitis', 'eczema', 'dermatitis exfoliative', 'pruritus', 'urticaria', 'tardive dyskinesia', 'skin discolouration', 'dermatitis atopic', 'rash', 'dyskinesia', 'alopecia', 'seborrhoeic dermatitis', 'dry skin', 'photosensitivity reaction', 'photosensitivity', 'rash maculo-papular', 'dermatitis bullous', 'psoriasis']",18
+Find all immunological adverse events from fluvoxamine,organ_specific,fluvoxamine,immunological,"['hypersensitivity', 'vasculitis', 'anaphylactic shock', 'cutaneous hypersensitivity']",4
+Show cardiovascular toxicity of fluvoxamine,organ_specific,fluvoxamine,cardiovascular,"['heart rate irregular', 'cardiac disorder', 'hypotension', 'heart alternation', 'cardiovascular disorder', 'embolism', 'cardiac arrest', 'tachycardia', 'angina pectoris', 'hypertension', 'orthostatic hypotension', 'bradycardia', 'palpitations', 'ventricular tachycardia', 'cardiac failure', 'arrhythmia', 'cardiac fibrillation', 'myocardial infarction']",18
+List fluvoxamine's effects on the renal system,organ_specific,fluvoxamine,renal,"['urinary tract disorder', 'cystitis', 'urinary retention', 'cholecystitis', 'urinary incontinence', 'renal pain', 'urinary tract infection', 'renal impairment', 'oliguria', 'cystitis noninfective', 'nephrolithiasis', 'renal failure acute', 'anuria', 'renal failure', 'calculus of kidney']",15
+List fluvoxamine's effects on the psychiatric system,organ_specific,fluvoxamine,psychiatric,"['psychotic depression', 'delirium', 'agitation', 'manic psychosis', 'suicidal ideation', 'hallucination', 'anxiety', 'major depression', 'depression', 'suicidal tendency', 'suicidal behaviour', 'cns depression nos', 'mania', 'insomnia', 'confusional state']",15
+What musculoskeletal side effects does fluvoxamine cause?,organ_specific,fluvoxamine,musculoskeletal,"['muscle twitching', 'bone disorder', 'fracture', 'muscle relaxant therapy', 'rhabdomyolysis', 'myalgia', 'bone pain', 'multiple fractures', 'muscle spasms', 'arthralgia']",10
+Find all respiratory adverse events from fluvoxamine,organ_specific,fluvoxamine,respiratory,"['upper respiratory tract infection', 'cough increased', 'cardio-respiratory arrest', 'asthma', 'pulmonary infarction', 'cough', 'pneumonia']",7
+Show neurological toxicity of fluvoxamine,organ_specific,fluvoxamine,neurological,"['parkinsonism', 'dizziness', 'ataxia', 'headache', 'migraine', 'paralysis', 'vertigo', 'tremor', 'neuropathy peripheral', 'neuropathy']",10
+List fluvoxamine's effects on the ocular system,organ_specific,fluvoxamine,ocular,"['glaucoma', 'vision blurred', 'abnormal vision', 'diplopia', 'conjunctivitis']",5
+Show otic toxicity of fluvoxamine,organ_specific,fluvoxamine,otic,"['deafness', 'tinnitus']",2
+List fluvoxamine's effects on the endocrine system,organ_specific,fluvoxamine,endocrine,"['hypothyroidism', 'blood glucose increased', 'diabetes mellitus', 'inappropriate antidiuretic hormone secretion']",4
+Show hepatobiliary toxicity of fluvoxamine,organ_specific,fluvoxamine,hepatobiliary,"['hepatitis', 'biliary colic', 'liver function test abnormal', 'hepatobiliary disease', 'jaundice', 'hepatic function abnormal']",6
+What hematological side effects does fluvoxamine cause?,organ_specific,fluvoxamine,hematological,"['thrombocytopenia', 'leukopenia']",2
+Find all immunological adverse events from spectinomycin,organ_specific,spectinomycin,immunological,"['hypersensitivity', 'anaphylactic shock', 'anaphylactoid reaction']",3
+Show neurological toxicity of spectinomycin,organ_specific,spectinomycin,neurological,['dizziness'],1
+List spectinomycin's effects on the gastrointestinal system,organ_specific,spectinomycin,gastrointestinal,['nausea'],1
+What are the dermatological risks of taking spectinomycin?,organ_specific,spectinomycin,dermatological,['urticaria'],1
+Find all renal adverse events from spectinomycin,organ_specific,spectinomycin,renal,['nephropathy toxic'],1
+List spectinomycin's effects on the psychiatric system,organ_specific,spectinomycin,psychiatric,['insomnia'],1
+What gastrointestinal side effects does iohexol cause?,organ_specific,iohexol,gastrointestinal,"['vomiting', 'nausea', 'gastrointestinal pain', 'gastrointestinal disorder', 'reaction gastrointestinal', 'abdominal pain']",6
+Show immunological toxicity of iohexol,organ_specific,iohexol,immunological,"['hypersensitivity', 'anaphylactic shock', 'anaphylactoid reaction']",3
+List iohexol's effects on the cardiovascular system,organ_specific,iohexol,cardiovascular,"['cardiac disorder', 'hypotension', 'myocardial ischaemia', 'cardiac arrest', 'bradycardia', 'hypertension', 'thrombosis', 'arrhythmia']",8
+What are the musculoskeletal risks of taking iohexol?,organ_specific,iohexol,musculoskeletal,"['bone disorder', 'muscle spasms', 'arthralgia']",3
+What respiratory side effects does iohexol cause?,organ_specific,iohexol,respiratory,"['bronchospasm', 'cough', 'pulmonary oedema', 'non-cardiogenic pulmonary oedema']",4
+Show psychiatric toxicity of iohexol,organ_specific,iohexol,psychiatric,['confusional state'],1
+What are the neurological risks of taking iohexol?,organ_specific,iohexol,neurological,"['dizziness', 'headache', 'tremor']",3
+Show dermatological toxicity of iohexol,organ_specific,iohexol,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'rash', 'skin disorder']",5
+Show renal toxicity of iohexol,organ_specific,iohexol,renal,"['renal failure', 'urinary tract disorder']",2
+Show endocrine toxicity of iohexol,organ_specific,iohexol,endocrine,['hyperthyroidism'],1
+Find all ocular adverse events from iohexol,organ_specific,iohexol,ocular,['blindness transient'],1
+What gastrointestinal side effects does metolazone cause?,organ_specific,metolazone,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal discomfort', 'abdominal bloating', 'epigastric distress', 'constipation', 'gastrointestinal pain', 'abdominal distension', 'abdominal pain', 'nausea']",10
+List metolazone's effects on the psychiatric system,organ_specific,metolazone,psychiatric,"['psychotic depression', 'agitation', 'anxiety', 'major depression', 'insomnia']",5
+Show musculoskeletal toxicity of metolazone,organ_specific,metolazone,musculoskeletal,"['cramp muscle', 'muscle spasms', 'arthralgia']",3
+What are the respiratory risks of taking metolazone?,organ_specific,metolazone,respiratory,['cough'],1
+Show dermatological toxicity of metolazone,organ_specific,metolazone,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'skin necrosis', 'rash', 'eye pruritus', 'skin exfoliation', 'photosensitivity', 'dry skin', 'photosensitivity reaction']",10
+List metolazone's effects on the neurological system,organ_specific,metolazone,neurological,"['dizziness', 'headache', 'vertigo', 'neuropathy peripheral', 'neuropathy']",5
+List metolazone's effects on the hepatobiliary system,organ_specific,metolazone,hepatobiliary,"['hepatitis', 'jaundice cholestatic']",2
+What immunological side effects does metolazone cause?,organ_specific,metolazone,immunological,"['hypersensitivity', 'cutaneous vasculitis', 'vasculitis necrotising']",3
+Find all cardiovascular adverse events from metolazone,organ_specific,metolazone,cardiovascular,"['hypertension', 'orthostatic hypotension', 'palpitations', 'venous thrombosis']",4
+What hematological side effects does metolazone cause?,organ_specific,metolazone,hematological,"['thrombocytopenia', 'leukopenia']",2
+Show otic toxicity of metolazone,organ_specific,metolazone,otic,['tinnitus'],1
+Find all ocular adverse events from metolazone,organ_specific,metolazone,ocular,['vision blurred'],1
+What are the gastrointestinal risks of taking febuxostat?,organ_specific,febuxostat,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'gastric ph decreased', 'abdominal discomfort', 'gastrointestinal discomfort', 'gastritis', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain']",12
+What dermatological side effects does febuxostat cause?,organ_specific,febuxostat,dermatological,"['rash follicular', 'exfoliative rash', 'photosensitivity reaction', 'mechanical urticaria', 'rash generalised', 'skin odour abnormal', 'dermatitis', 'eczema', 'pruritus', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'urticaria physical', 'dermatitis bullous', 'skin lesion', 'rash erythematous', 'skin discolouration', 'rash macular', 'skin exfoliation', 'skin disorder', 'photosensitivity', 'rash papular', 'rash', 'alopecia', 'rash maculo-papular', 'rash vesicular', 'rash pustular']",26
+What are the immunological risks of taking febuxostat?,organ_specific,febuxostat,immunological,"['hypersensitivity', 'anaphylactic shock', 'drug hypersensitivity']",3
+What are the cardiovascular risks of taking febuxostat?,organ_specific,febuxostat,cardiovascular,"['cardiac disorder', 'hypotension', 'sinus bradycardia', 'tachycardia', 'angina pectoris', 'hypertension', 'cardiac murmur', 'palpitations', 'cardiac flutter', 'myocardial infarction']",10
+Show psychiatric toxicity of febuxostat,organ_specific,febuxostat,psychiatric,"['anxiety', 'insomnia', 'agitation']",3
+What are the musculoskeletal risks of taking febuxostat?,organ_specific,febuxostat,musculoskeletal,"['joint swelling', 'muscle twitching', 'rhabdomyolysis', 'myalgia', 'joint stiffness', 'muscle tightness', 'muscle spasms', 'arthralgia']",8
+What are the renal risks of taking febuxostat?,organ_specific,febuxostat,renal,"['proteinuria', 'urinary tract disorder', 'cholecystitis', 'creatinine increased', 'blood creatinine increased', 'nephrolithiasis', 'renal failure']",7
+Find all respiratory adverse events from febuxostat,organ_specific,febuxostat,respiratory,"['upper respiratory tract infection', 'cough', 'respiratory tract congestion']",3
+Show otic toxicity of febuxostat,organ_specific,febuxostat,otic,"['deafness', 'tinnitus']",2
+Show endocrine toxicity of febuxostat,organ_specific,febuxostat,endocrine,"['blood thyroid stimulating hormone increased', 'glucose increased', 'blood glucose increased', 'diabetes mellitus']",4
+List febuxostat's effects on the neurological system,organ_specific,febuxostat,neurological,"['dizziness', 'headache', 'migraine', 'vertigo', 'tremor']",5
+List febuxostat's effects on the hepatobiliary system,organ_specific,febuxostat,hepatobiliary,"['hepatocellular injury', 'hepatitis', 'liver disorder', 'hepatic failure', 'traumatic liver injury', 'hepatomegaly', 'liver function test abnormal', 'hepatic steatosis', 'liver injury', 'hepatobiliary disease', 'jaundice', 'foetor hepaticus']",12
+Show hematological toxicity of febuxostat,organ_specific,febuxostat,hematological,"['neutropenia', 'thrombocytopenia', 'leukopenia', 'coagulation test abnormal', 'pancytopenia']",5
+Find all ocular adverse events from febuxostat,organ_specific,febuxostat,ocular,['vision blurred'],1
+List umeclidinium's effects on the musculoskeletal system,organ_specific,umeclidinium,musculoskeletal,"['myalgia', 'arthralgia']",2
+What are the respiratory risks of taking umeclidinium?,organ_specific,umeclidinium,respiratory,"['upper respiratory tract infection', 'lower respiratory tract infection', 'viral upper respiratory tract infection', 'bronchospasm paradoxical', 'cough', 'pneumonia']",6
+Find all neurological adverse events from umeclidinium,organ_specific,umeclidinium,neurological,"['dizziness', 'headache', 'sinus headache', 'vertigo']",4
+What gastrointestinal side effects does umeclidinium cause?,organ_specific,umeclidinium,gastrointestinal,"['gastrointestinal disorder', 'dyspepsia', 'nausea', 'abdominal pain upper']",4
+What dermatological side effects does umeclidinium cause?,organ_specific,umeclidinium,dermatological,"['dermatitis', 'unspecified disorder of skin and subcutaneous tissue', 'skin disorder', 'rash']",4
+What ocular side effects does umeclidinium cause?,organ_specific,umeclidinium,ocular,['angle closure glaucoma'],1
+What cardiovascular side effects does umeclidinium cause?,organ_specific,umeclidinium,cardiovascular,"['cardiac disorder', 'ventricular arrhythmia', 'supraventricular tachycardia', 'tachycardia', 'sinus tachycardia']",5
+List umeclidinium's effects on the renal system,organ_specific,umeclidinium,renal,"['urinary tract infection', 'urinary retention']",2
+Find all gastrointestinal adverse events from bezafibrate,organ_specific,bezafibrate,gastrointestinal,"['dyspepsia', 'nausea', 'epigastric distress', 'gastritis', 'constipation', 'gastrointestinal pain', 'abdominal pain']",7
+What dermatological side effects does bezafibrate cause?,organ_specific,bezafibrate,dermatological,"['dermatitis', 'eczema', 'pruritus', 'urticaria', 'rash', 'alopecia', 'photosensitivity', 'photosensitivity reaction']",8
+What hepatobiliary side effects does bezafibrate cause?,organ_specific,bezafibrate,hepatobiliary,"['cholestasis', 'liver function test abnormal']",2
+What neurological side effects does bezafibrate cause?,organ_specific,bezafibrate,neurological,"['dizziness', 'headache', 'migraine']",3
+List bezafibrate's effects on the immunological system,organ_specific,bezafibrate,immunological,['hypersensitivity'],1
+What are the renal risks of taking bezafibrate?,organ_specific,bezafibrate,renal,"['blood creatinine increased', 'urinary tract disorder', 'renal failure acute', 'serum creatinine increased']",4
+What musculoskeletal side effects does bezafibrate cause?,organ_specific,bezafibrate,musculoskeletal,"['myalgia', 'rhabdomyolysis', 'cramp muscle', 'muscle spasms']",4
+What cardiovascular side effects does bezafibrate cause?,organ_specific,bezafibrate,cardiovascular,['myocardial infarction'],1
+What hematological side effects does bezafibrate cause?,organ_specific,bezafibrate,hematological,"['thrombocytopenia', 'pancytopenia']",2
+Show psychiatric toxicity of bezafibrate,organ_specific,bezafibrate,psychiatric,['insomnia'],1
+What gastrointestinal side effects does papaverine cause?,organ_specific,papaverine,gastrointestinal,"['abdominal discomfort', 'nausea', 'constipation']",3
+List papaverine's effects on the dermatological system,organ_specific,papaverine,dermatological,"['dermatitis', 'rash']",2
+List papaverine's effects on the neurological system,organ_specific,papaverine,neurological,"['headache', 'vertigo']",2
+Find all hepatobiliary adverse events from papaverine,organ_specific,papaverine,hepatobiliary,['hepatitis'],1
+Find all neurological adverse events from isoxsuprine,organ_specific,isoxsuprine,neurological,['dizziness'],1
+What are the dermatological risks of taking isoxsuprine?,organ_specific,isoxsuprine,dermatological,"['dermatitis', 'rash']",2
+Show cardiovascular toxicity of isoxsuprine,organ_specific,isoxsuprine,cardiovascular,"['tachycardia foetal', 'hypotension', 'tachycardia']",3
+Show gastrointestinal toxicity of isoxsuprine,organ_specific,isoxsuprine,gastrointestinal,"['vomiting', 'abdominal discomfort', 'abdominal distress', 'nausea']",4
+What respiratory side effects does isoxsuprine cause?,organ_specific,isoxsuprine,respiratory,['pulmonary oedema'],1
+Find all dermatological adverse events from 5-fu,organ_specific,5-fu,dermatological,"['dermatitis', 'pruritus', 'skin irritation', 'urticaria', 'allergic contact dermatitis', 'skin hyperpigmentation', 'rash', 'alopecia', 'dermatitis contact', 'dry skin', 'photosensitivity reaction', 'photosensitivity', 'rash maculo-papular', 'dermatitis bullous']",14
+What immunological side effects does 5-fu cause?,organ_specific,5-fu,immunological,"['hypersensitivity', 'anaphylactic shock']",2
+What are the cardiovascular risks of taking 5-fu?,organ_specific,5-fu,cardiovascular,"['hypotension', 'myocardial ischaemia', 'cardiac arrest', 'tachycardia', 'angina pectoris', 'heartburn', 'cardiac failure', 'arrhythmia', 'myocardial infarction']",9
+What are the neurological risks of taking 5-fu?,organ_specific,5-fu,neurological,"['parkinsonism', 'dizziness', 'ataxia', 'headache', 'cerebellar ataxia', 'neuropathy peripheral']",6
+Find all psychiatric adverse events from 5-fu,organ_specific,5-fu,psychiatric,"['insomnia', 'confusional state']",2
+Find all ocular adverse events from 5-fu,organ_specific,5-fu,ocular,"['optic nerve disorder', 'chronic conjunctivitis', 'vision blurred', 'conjunctivitis']",4
+What are the gastrointestinal risks of taking 5-fu?,organ_specific,5-fu,gastrointestinal,"['vomiting', 'dyspepsia', 'gastrointestinal ulcer haemorrhage', 'gastrointestinal symptom nos', 'gastrointestinal disorder', 'nausea', 'gastrointestinal haemorrhage']",7
+List 5-fu's effects on the hematological system,organ_specific,5-fu,hematological,"['thrombocytopenia', 'leukopenia', 'pancytopenia', 'febrile neutropenia']",4
+Find all respiratory adverse events from 5-fu,organ_specific,5-fu,respiratory,"['upper respiratory tract infection', 'pneumonia', 'acute pulmonary oedema']",3
+List 5-fu's effects on the renal system,organ_specific,5-fu,renal,['urinary tract infection'],1
+List 5-fu's effects on the musculoskeletal system,organ_specific,5-fu,musculoskeletal,['myalgia'],1
+What are the hepatobiliary risks of taking 5-fu?,organ_specific,5-fu,hepatobiliary,['biliary fibrosis'],1
+Show gastrointestinal toxicity of v,organ_specific,v,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'abdominal discomfort', 'upper gastrointestinal haemorrhage', 'abdominal pain upper', 'gastritis', 'constipation', 'gastrointestinal symptom nos', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain', 'gastric ulcer']",14
+What dermatological side effects does v cause?,organ_specific,v,dermatological,"['dermatitis', 'eczema', 'pruritus', 'urticaria', 'skin cancer', 'skin ulcer', 'pustular psoriasis', 'unspecified disorder of skin and subcutaneous tissue', 'plaque psoriasis', 'rash', 'erythrodermic psoriasis', 'skin disorder', 'alopecia', 'dry skin', 'dermatitis bullous', 'skin infection', 'psoriasis']",17
+Show psychiatric toxicity of v,organ_specific,v,psychiatric,"['agitation', 'anxiety', 'depression', 'hallucination, visual', 'insomnia', 'confusional state']",6
+List v's effects on the cardiovascular system,organ_specific,v,cardiovascular,"['cardiovascular disorder', 'heart sounds abnormal', 'hypertension', 'thrombosis', 'benign intracranial hypertension', 'cardiac failure', 'arrhythmia', 'myocardial infarction']",8
+Show musculoskeletal toxicity of v,organ_specific,v,musculoskeletal,"['joint dislocation', 'fracture', 'rhabdomyolysis', 'muscle contractions involuntary', 'cramp muscle', 'contraction skeletal muscle', 'myalgia', 'tendon disorder', 'multiple fractures', 'muscle spasms', 'arthralgia']",11
+Show respiratory toxicity of v,organ_specific,v,respiratory,"['upper respiratory tract infection', 'bronchospasm', 'acute respiratory distress syndrome', 'cough', 'pneumonia']",5
+List v's effects on the neurological system,organ_specific,v,neurological,"['dizziness', 'headache', 'migraine', 'vertigo', 'polyneuropathy', 'autonomic neuropathy', 'cerebellar ataxia', 'tremor', 'neuropathy peripheral', 'neuropathy']",10
+List v's effects on the hepatobiliary system,organ_specific,v,hepatobiliary,"['hepatocellular injury', 'hepatitis', 'hepatic failure', 'traumatic liver injury', 'liver injury', 'hepatotoxicity', 'hepatobiliary disease', 'jaundice', 'cholestasis', 'hepatic function abnormal']",10
+Find all ocular adverse events from v,organ_specific,v,ocular,"['optic neuritis', 'cataract', 'vision blurred', 'abnormal vision', 'blindness cortical', 'conjunctivitis']",6
+Show otic toxicity of v,organ_specific,v,otic,"['deafness', 'hearing impaired', 'tinnitus']",3
+List v's effects on the endocrine system,organ_specific,v,endocrine,['diabetes mellitus'],1
+What are the hematological risks of taking v?,organ_specific,v,hematological,"['thrombocytopenia', 'gingival bleeding', 'leukopenia']",3
+List v's effects on the immunological system,organ_specific,v,immunological,"['hypersensitivity', 'anaphylactic shock', 'anaphylactoid reaction']",3
+What are the renal risks of taking v?,organ_specific,v,renal,"['function kidney decreased', 'nephrosis lower nephron', 'renal tubular necrosis', 'urinary tract disorder', 'polyomavirus-associated nephropathy', 'urinary incontinence', 'renal impairment', 'urinary tract infection', 'progressive renal failure', 'creatinine increased', 'serum creatinine increased', 'blood creatinine increased', 'renal abscess', 'nephropathy toxic', 'nephrotoxicity', 'renal failure', 'nephropathy', 'renal graft loss']",18
+Find all musculoskeletal adverse events from tibolone,organ_specific,tibolone,musculoskeletal,"['myalgia', 'arthralgia']",2
+Find all neurological adverse events from tibolone,organ_specific,tibolone,neurological,"['dizziness', 'headache', 'migraine']",3
+Show dermatological toxicity of tibolone,organ_specific,tibolone,dermatological,"['dermatitis', 'pruritus', 'pruritus genital', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin disorder']",6
+Find all hepatobiliary adverse events from tibolone,organ_specific,tibolone,hepatobiliary,['gallbladder disorder'],1
+Show gastrointestinal toxicity of tibolone,organ_specific,tibolone,gastrointestinal,"['abdominal pain lower', 'gastrointestinal disorder', 'abdominal discomfort', 'gastrointestinal tract irritation']",4
+What cardiovascular side effects does tibolone cause?,organ_specific,tibolone,cardiovascular,"['venous thromboembolism', 'pulmonary embolism', 'pelvic venous thrombosis', 'embolism venous', 'myocardial infarction']",5
+List tibolone's effects on the ocular system,organ_specific,tibolone,ocular,['vision blurred'],1
+What are the immunological risks of taking forteo?,organ_specific,forteo,immunological,"['hypersensitivity', 'anaphylactic shock', 'drug hypersensitivity']",3
+Find all cardiovascular adverse events from forteo,organ_specific,forteo,cardiovascular,"['cardiac disorder', 'hypotension', 'tachycardia', 'angina pectoris', 'hypertension', 'cardiac murmur', 'palpitations']",7
+What psychiatric side effects does forteo cause?,organ_specific,forteo,psychiatric,"['depression', 'anxiety', 'insomnia']",3
+Show musculoskeletal toxicity of forteo,organ_specific,forteo,musculoskeletal,"['bone disorder', 'bone neoplasm', 'cramp muscle', 'myalgia', 'muscle spasms', 'arthralgia']",6
+Find all gastrointestinal adverse events from forteo,organ_specific,forteo,gastrointestinal,"['vomiting', 'dyspepsia', 'gastritis', 'constipation', 'gastrointestinal disorder', 'nausea']",6
+Show neurological toxicity of forteo,organ_specific,forteo,neurological,"['dizziness', 'headache', 'vertigo']",3
+What dermatological side effects does forteo cause?,organ_specific,forteo,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'generalized urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin disorder']",7
+What are the respiratory risks of taking forteo?,organ_specific,forteo,respiratory,"['acute dyspnea', 'cough', 'pneumonia', 'cough increased']",4
+What are the renal risks of taking forteo?,organ_specific,forteo,renal,"['urinary tract disorder', 'urinary incontinence', 'calculus urinary', 'nephrolithiasis', 'renal failure']",5
+List melatonin's effects on the gastrointestinal system,organ_specific,melatonin,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'gastrointestinal sounds abnormal', 'abdominal discomfort', 'gastrointestinal tract irritation', 'abdominal pain upper', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'gastric disorder', 'abdominal pain']",12
+List melatonin's effects on the cardiovascular system,organ_specific,melatonin,cardiovascular,"['angina pectoris', 'cardiac disorder', 'hypertension', 'palpitations']",4
+List melatonin's effects on the psychiatric system,organ_specific,melatonin,psychiatric,"['insomnia', 'anxiety', 'terminal insomnia', 'agitation']",4
+Find all musculoskeletal adverse events from melatonin,organ_specific,melatonin,musculoskeletal,"['muscle spasms', 'arthralgia']",2
+What are the dermatological risks of taking melatonin?,organ_specific,melatonin,dermatological,"['dermatitis', 'eczema', 'pruritus', 'hand dermatitis', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin disorder', 'dry skin', 'rash generalised', 'pruritus generalised', 'psoriasis']",11
+What neurological side effects does melatonin cause?,organ_specific,melatonin,neurological,"['dizziness', 'headache', 'migraine', 'vertigo', 'vertigo positional']",5
+What immunological side effects does melatonin cause?,organ_specific,melatonin,immunological,['hypersensitivity'],1
+Show hematological toxicity of melatonin,organ_specific,melatonin,hematological,"['thrombocytopenia', 'leukopenia']",2
+Show renal toxicity of melatonin,organ_specific,melatonin,renal,"['proteinuria', 'urinary tract disorder']",2
+What hepatobiliary side effects does melatonin cause?,organ_specific,melatonin,hepatobiliary,"['liver function test abnormal', 'hepatic enzyme increased', 'hepatobiliary disease']",3
+What are the ocular risks of taking melatonin?,organ_specific,melatonin,ocular,['vision blurred'],1
+What are the gastrointestinal risks of taking perhexiline?,organ_specific,perhexiline,gastrointestinal,"['vomiting', 'nausea', 'abdominal pain', 'gastrointestinal pain']",4
+What neurological side effects does perhexiline cause?,organ_specific,perhexiline,neurological,"['dizziness', 'ataxia', 'headache', 'polyneuropathy', 'tremor', 'neuropathy peripheral']",6
+What ocular side effects does perhexiline cause?,organ_specific,perhexiline,ocular,"['diplopia', 'optic neuritis']",2
+What are the dermatological risks of taking perhexiline?,organ_specific,perhexiline,dermatological,"['dermatitis', 'urticaria', 'rash']",3
+What are the hepatobiliary risks of taking perhexiline?,organ_specific,perhexiline,hepatobiliary,"['hepatitis viral', 'hepatocellular injury', 'hepatitis', 'liver injury']",4
+Show psychiatric toxicity of perhexiline,organ_specific,perhexiline,psychiatric,['insomnia'],1
+Find all gastrointestinal adverse events from triptorelin,organ_specific,triptorelin,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain']",8
+What immunological side effects does triptorelin cause?,organ_specific,triptorelin,immunological,"['hypersensitivity', 'anaphylactic shock']",2
+What musculoskeletal side effects does triptorelin cause?,organ_specific,triptorelin,musculoskeletal,"['joint swelling', 'cramp muscle', 'bone cancer metastatic', 'myalgia', 'joint stiffness', 'bone pain', 'muscle spasms', 'arthralgia']",8
+List triptorelin's effects on the cardiovascular system,organ_specific,triptorelin,cardiovascular,"['hypotension', 'cardiovascular disorder', 'embolism', 'hypertension', 'palpitations', 'deep vein thrombosis', 'myocardial infarction']",7
+What ocular side effects does triptorelin cause?,organ_specific,triptorelin,ocular,"['vision blurred', 'conjunctivitis']",2
+Show respiratory toxicity of triptorelin,organ_specific,triptorelin,respiratory,['cough'],1
+Show psychiatric toxicity of triptorelin,organ_specific,triptorelin,psychiatric,"['depression', 'anxiety', 'insomnia', 'confusional state']",4
+Show endocrine toxicity of triptorelin,organ_specific,triptorelin,endocrine,"['diabetes mellitus', 'hormone-dependent prostate cancer', 'pituitary infarction', 'pituitary haemorrhage', 'pituitary tumour benign', 'pituitary adenoma', 'glucose increased', 'blood glucose increased', 'pituitary apoplexy']",9
+What are the neurological risks of taking triptorelin?,organ_specific,triptorelin,neurological,"['dizziness', 'headache', 'paralysis', 'iiird nerve paralysis', 'vertigo', 'neuropathy peripheral', 'neuropathy']",7
+Find all dermatological adverse events from triptorelin,organ_specific,triptorelin,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin disorder', 'alopecia', 'dermatitis bullous']",8
+What renal side effects does triptorelin cause?,organ_specific,triptorelin,renal,"['blood creatinine increased', 'urinary tract infection', 'urinary tract disorder', 'urinary retention']",4
+What hepatobiliary side effects does triptorelin cause?,organ_specific,triptorelin,hepatobiliary,['hepatic function abnormal'],1
+Show otic toxicity of triptorelin,organ_specific,triptorelin,otic,['tinnitus'],1
+What gastrointestinal side effects does telmisartan cause?,organ_specific,telmisartan,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'abdominal discomfort', 'gastritis', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain']",10
+What immunological side effects does telmisartan cause?,organ_specific,telmisartan,immunological,"['hypersensitivity', 'anaphylactic shock']",2
+Find all cardiovascular adverse events from telmisartan,organ_specific,telmisartan,cardiovascular,"['cardiac disorder', 'hypotension', 'cardiovascular disorder', 'hypertension worsened', 'tachycardia', 'angina pectoris', 'hypertension', 'orthostatic hypotension', 'bradycardia', 'palpitations', 'cardiac failure congestive', 'arrhythmia', 'myocardial infarction']",13
+What are the psychiatric risks of taking telmisartan?,organ_specific,telmisartan,psychiatric,"['depression', 'anxiety', 'insomnia', 'anxiety depression']",4
+Show musculoskeletal toxicity of telmisartan,organ_specific,telmisartan,musculoskeletal,"['tendonitis', 'bone disorder', 'tendon pain', 'rhabdomyolysis', 'cramp muscle', 'myalgia', 'muscle contractions involuntary', 'muscle spasms', 'arthralgia']",9
+Show respiratory toxicity of telmisartan,organ_specific,telmisartan,respiratory,"['upper respiratory tract infection', 'bronchospasm', 'asthma', 'cough', 'pneumonia']",5
+What are the ocular risks of taking telmisartan?,organ_specific,telmisartan,ocular,"['abnormal vision', 'conjunctivitis']",2
+Show renal toxicity of telmisartan,organ_specific,telmisartan,renal,"['urinary tract disorder', 'cystitis', 'renal impairment', 'urinary tract infection', 'blood creatinine increased', 'cystitis noninfective', 'renal failure acute', 'renal failure']",8
+List telmisartan's effects on the dermatological system,organ_specific,telmisartan,dermatological,"['dermatitis', 'eczema', 'pruritus', 'urticaria', 'skin ulcer', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin disorder', 'toxic skin eruption', 'dry skin']",10
+What are the neurological risks of taking telmisartan?,organ_specific,telmisartan,neurological,"['dizziness', 'migraine aggravated', 'headache', 'migraine', 'vertigo', 'autonomic neuropathy', 'neuropathy peripheral']",7
+What are the hepatobiliary risks of taking telmisartan?,organ_specific,telmisartan,hepatobiliary,"['hepatocellular injury', 'liver disorder', 'hepatic enzyme increased', 'hepatobiliary disease', 'foetor hepaticus', 'hepatic function abnormal']",6
+Find all hematological adverse events from telmisartan,organ_specific,telmisartan,hematological,['thrombocytopenia'],1
+What are the otic risks of taking telmisartan?,organ_specific,telmisartan,otic,['tinnitus'],1
+What endocrine side effects does telmisartan cause?,organ_specific,telmisartan,endocrine,['diabetes mellitus'],1
+Find all cardiovascular adverse events from nesiritide,organ_specific,nesiritide,cardiovascular,"['hypotension', 'ventricular arrhythmia', 'bradycardia', 'hypertension', 'hypotension symptomatic', 'hypotension asymptomatic', 'cardiac failure', 'arrhythmia']",8
+List nesiritide's effects on the endocrine system,organ_specific,nesiritide,endocrine,['diabetes mellitus'],1
+What neurological side effects does nesiritide cause?,organ_specific,nesiritide,neurological,"['dizziness', 'headache']",2
+What dermatological side effects does nesiritide cause?,organ_specific,nesiritide,dermatological,"['dermatitis', 'pruritus', 'rash']",3
+What are the immunological risks of taking nesiritide?,organ_specific,nesiritide,immunological,['hypersensitivity'],1
+What are the gastrointestinal risks of taking nesiritide?,organ_specific,nesiritide,gastrointestinal,"['vomiting', 'nausea']",2
+What renal side effects does nesiritide cause?,organ_specific,nesiritide,renal,"['blood creatinine increased', 'renal impairment', 'renal failure', 'creatinine increased']",4
+Find all gastrointestinal adverse events from amoxapine,organ_specific,amoxapine,gastrointestinal,"['vomiting', 'dyspepsia', 'epigastric distress', 'constipation', 'gastrointestinal pain', 'abdominal pain', 'nausea']",7
+Find all dermatological adverse events from amoxapine,organ_specific,amoxapine,dermatological,"['dermatitis', 'pruritus', 'tardive dyskinesia', 'urticaria', 'rash', 'alopecia']",6
+Show neurological toxicity of amoxapine,organ_specific,amoxapine,neurological,"['dizziness', 'ataxia', 'headache', 'tremor']",4
+List amoxapine's effects on the psychiatric system,organ_specific,amoxapine,psychiatric,"['agitation', 'hallucination', 'hypomania', 'insomnia', 'confusional state']",5
+What cardiovascular side effects does amoxapine cause?,organ_specific,amoxapine,cardiovascular,"['arrhythmia supraventricular', 'hypotension', 'tachycardia', 'hypertension', 'palpitations', 'atrial arrhythmia', 'block heart', 'myocardial infarction']",8
+Show hepatobiliary toxicity of amoxapine,organ_specific,amoxapine,hepatobiliary,"['hepatitis', 'jaundice']",2
+List amoxapine's effects on the endocrine system,organ_specific,amoxapine,endocrine,['inappropriate antidiuretic hormone secretion'],1
+What are the hematological risks of taking amoxapine?,organ_specific,amoxapine,hematological,"['thrombocytopenia', 'leukopenia']",2
+What are the otic risks of taking amoxapine?,organ_specific,amoxapine,otic,['tinnitus'],1
+List amoxapine's effects on the immunological system,organ_specific,amoxapine,immunological,['vasculitis'],1
+Show renal toxicity of amoxapine,organ_specific,amoxapine,renal,['urinary retention'],1
+Find all ocular adverse events from amoxapine,organ_specific,amoxapine,ocular,['vision blurred'],1
+What gastrointestinal side effects does cefotaxime cause?,organ_specific,cefotaxime,gastrointestinal,"['vomiting', 'colitis', 'pseudomembranous colitis', 'enterocolitis', 'gastrointestinal pain', 'abdominal pain', 'nausea']",7
+What immunological side effects does cefotaxime cause?,organ_specific,cefotaxime,immunological,"['hypersensitivity', 'anaphylactic shock']",2
+What cardiovascular side effects does cefotaxime cause?,organ_specific,cefotaxime,cardiovascular,['arrhythmia'],1
+Find all respiratory adverse events from cefotaxime,organ_specific,cefotaxime,respiratory,['bronchospasm'],1
+What hepatobiliary side effects does cefotaxime cause?,organ_specific,cefotaxime,hepatobiliary,"['hepatitis', 'traumatic liver injury', 'liver injury', 'jaundice', 'cholestasis', 'hepatic function abnormal']",6
+Find all dermatological adverse events from cefotaxime,organ_specific,cefotaxime,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'rash', 'dermatitis bullous']",5
+List cefotaxime's effects on the neurological system,organ_specific,cefotaxime,neurological,['headache'],1
+Show hematological toxicity of cefotaxime,organ_specific,cefotaxime,hematological,"['thrombocytopenia', 'neutropenia', 'leukopenia']",3
+What renal side effects does cefotaxime cause?,organ_specific,cefotaxime,renal,"['function kidney decreased', 'renal impairment', 'renal failure', 'nephropathy toxic']",4
+Find all psychiatric adverse events from griseofulvin,organ_specific,griseofulvin,psychiatric,"['insomnia', 'confusional state']",2
+Show neurological toxicity of griseofulvin,organ_specific,griseofulvin,neurological,"['neuropathy peripheral', 'dizziness', 'headache', 'neuropathy']",4
+What dermatological side effects does griseofulvin cause?,organ_specific,griseofulvin,dermatological,"['dermatitis', 'urticaria', 'rash']",3
+What are the gastrointestinal risks of taking griseofulvin?,organ_specific,griseofulvin,gastrointestinal,"['vomiting', 'dyspepsia', 'epigastric distress', 'nausea', 'gastrointestinal haemorrhage']",5
+Find all hepatobiliary adverse events from griseofulvin,organ_specific,griseofulvin,hepatobiliary,"['hepatitis', 'hepatic enzyme increased']",2
+Show immunological toxicity of griseofulvin,organ_specific,griseofulvin,immunological,"['hypersensitivity', 'systemic lupus erythematosus']",2
+Show hematological toxicity of griseofulvin,organ_specific,griseofulvin,hematological,['leukopenia'],1
+List griseofulvin's effects on the renal system,organ_specific,griseofulvin,renal,"['proteinuria', 'nephrosis', 'nephrotic syndrome']",3
+Find all gastrointestinal adverse events from pitavastatin,organ_specific,pitavastatin,gastrointestinal,"['dyspepsia', 'nausea', 'abdominal discomfort', 'constipation', 'gastrointestinal pain', 'abdominal pain']",6
+What are the musculoskeletal risks of taking pitavastatin?,organ_specific,pitavastatin,musculoskeletal,"['rhabdomyolysis', 'myalgia', 'muscle spasms', 'arthralgia']",4
+What are the psychiatric risks of taking pitavastatin?,organ_specific,pitavastatin,psychiatric,"['insomnia', 'confusional state']",2
+List pitavastatin's effects on the neurological system,organ_specific,pitavastatin,neurological,"['dizziness', 'headache']",2
+What are the dermatological risks of taking pitavastatin?,organ_specific,pitavastatin,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'rash']",4
+Find all hepatobiliary adverse events from pitavastatin,organ_specific,pitavastatin,hepatobiliary,"['hepatitis', 'hepatic failure', 'jaundice']",3
+Find all immunological adverse events from pitavastatin,organ_specific,pitavastatin,immunological,['hypersensitivity'],1
+What are the renal risks of taking pitavastatin?,organ_specific,pitavastatin,renal,['renal failure acute'],1
+What are the psychiatric risks of taking glucose?,organ_specific,glucose,psychiatric,"['agitation', 'confusional state']",2
+Find all neurological adverse events from glucose,organ_specific,glucose,neurological,"['dizziness', 'headache']",2
+Find all cardiovascular adverse events from glucose,organ_specific,glucose,cardiovascular,"['pulmonary embolism', 'venous thrombosis', 'tachycardia', 'hypertension', 'cardiac failure congestive']",5
+What respiratory side effects does glucose cause?,organ_specific,glucose,respiratory,['respiratory failure'],1
+Find all immunological adverse events from glucose,organ_specific,glucose,immunological,"['hypersensitivity', 'anaphylactic shock']",2
+What gastrointestinal side effects does nefazodone cause?,organ_specific,nefazodone,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'colitis', 'gastritis', 'proctocolitis', 'constipation', 'gastrointestinal pain', 'abdominal distension', 'colitis ulcerative', 'abdominal pain', 'gastrointestinal haemorrhage']",12
+What dermatological side effects does nefazodone cause?,organ_specific,nefazodone,dermatological,"['dermatitis', 'eczema', 'pruritus', 'urticaria', 'vesiculobullous rash', 'rash', 'alopecia', 'photosensitivity reaction', 'dry skin', 'rash pustular', 'rash maculo-papular', 'dermatitis bullous']",12
+What are the immunological risks of taking nefazodone?,organ_specific,nefazodone,immunological,"['hypersensitivity', 'anaphylactic shock']",2
+What cardiovascular side effects does nefazodone cause?,organ_specific,nefazodone,cardiovascular,"['hypotension', 'tachycardia', 'angina pectoris', 'hypertension', 'orthostatic hypotension', 'bradycardia', 'palpitations', 'sinus bradycardia', 'cardiac failure congestive']",9
+What are the psychiatric risks of taking nefazodone?,organ_specific,nefazodone,psychiatric,"['agitation', 'suicidal ideation', 'anxiety', 'hallucination', 'insomnia', 'confusional state']",6
+List nefazodone's effects on the musculoskeletal system,organ_specific,nefazodone,musculoskeletal,"['muscle twitching', 'rhabdomyolysis', 'muscle spasms', 'cramp muscle', 'muscle stiffness', 'myalgia', 'muscle relaxant therapy', 'arthralgia']",8
+What are the respiratory risks of taking nefazodone?,organ_specific,nefazodone,respiratory,"['pneumonia', 'cough', 'asthma', 'cough increased']",4
+List nefazodone's effects on the neurological system,organ_specific,nefazodone,neurological,"['dizziness', 'ataxia', 'headache', 'migraine', 'tonic-clonic seizures', 'vertigo', 'tremor']",7
+List nefazodone's effects on the ocular system,organ_specific,nefazodone,ocular,"['glaucoma', 'keratoconjunctivitis', 'vision blurred', 'abnormal vision', 'diplopia', 'night blindness', 'conjunctivitis', 'angle closure glaucoma']",8
+What renal side effects does nefazodone cause?,organ_specific,nefazodone,renal,"['cystitis', 'urinary retention', 'urinary incontinence', 'urinary tract infection', 'cystitis noninfective', 'nephrolithiasis', 'oliguria', 'calculus of kidney']",8
+Show otic toxicity of nefazodone,organ_specific,nefazodone,otic,"['deafness', 'tinnitus']",2
+Find all hepatobiliary adverse events from nefazodone,organ_specific,nefazodone,hepatobiliary,"['hepatic necrosis', 'hepatitis', 'hepatic failure', 'liver function test abnormal']",4
+List nefazodone's effects on the hematological system,organ_specific,nefazodone,hematological,"['thrombocytopenia', 'leukopenia']",2
+Find all gastrointestinal adverse events from nicorandil,organ_specific,nicorandil,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'large intestinal ulcer', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",8
+Show cardiovascular toxicity of nicorandil,organ_specific,nicorandil,cardiovascular,"['hypotension', 'tachycardia', 'angina pectoris', 'hypertension', 'orthostatic hypotension', 'palpitations', 'arrhythmia', 'myocardial infarction']",8
+Show hepatobiliary toxicity of nicorandil,organ_specific,nicorandil,hepatobiliary,"['hepatocellular injury', 'hepatitis', 'liver disorder', 'jaundice', 'foetor hepaticus', 'cholestasis']",6
+List nicorandil's effects on the ocular system,organ_specific,nicorandil,ocular,"['diplopia', 'conjunctivitis']",2
+Show neurological toxicity of nicorandil,organ_specific,nicorandil,neurological,"['dizziness', 'headache', 'vertigo']",3
+Find all dermatological adverse events from nicorandil,organ_specific,nicorandil,dermatological,"['dermatitis', 'pruritus', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin disorder']",5
+What hematological side effects does nicorandil cause?,organ_specific,nicorandil,hematological,['thrombocytopenia'],1
+List nicorandil's effects on the otic system,organ_specific,nicorandil,otic,['tinnitus'],1
+Show musculoskeletal toxicity of nicorandil,organ_specific,nicorandil,musculoskeletal,['myalgia'],1
+Find all respiratory adverse events from nicorandil,organ_specific,nicorandil,respiratory,"['cough', 'cough increased']",2
+Show psychiatric toxicity of nicorandil,organ_specific,nicorandil,psychiatric,['insomnia'],1
+Show gastrointestinal toxicity of testosterone,organ_specific,testosterone,gastrointestinal,"['vomiting', 'abdominal cramps', 'nausea', 'abdominal pain upper', 'gastrointestinal pain', 'gastrointestinal disorder', 'gastrointestinal hypomotility', 'abdominal pain', 'gastrointestinal haemorrhage', 'abdominal symptom']",10
+Show dermatological toxicity of testosterone,organ_specific,testosterone,dermatological,"['vesiculobullous rash', 'seborrhoeic dermatitis', 'dry skin', 'dermatitis', 'eczema', 'pruritus', 'urticaria', 'pruritus genital', 'allergic contact dermatitis', 'unspecified disorder of skin and subcutaneous tissue', 'application site pruritus', 'dermatitis acneiform', 'dermatitis bullous', 'skin irritation', 'dermatitis atopic', 'skin disorder', 'application site rash', 'rash papular', 'rash', 'dermatitis contact', 'alopecia', 'androgenetic alopecia', 'rash pustular']",23
+Find all immunological adverse events from testosterone,organ_specific,testosterone,immunological,"['hypersensitivity', 'anaphylactic shock', 'anaphylactoid reaction', 'systemic lupus erythematosus', 'leukocytoclastic vasculitis']",5
+Show cardiovascular toxicity of testosterone,organ_specific,testosterone,cardiovascular,"['thromboembolism', 'embolism venous', 'cardiac arrest', 'cardiac failure', 'thrombosis', 'cardiac disorder', 'embolism', 'pulmonary embolism', 'palpitations', 'myocardial infarction', 'pulmonary oil microembolism', 'hypertension worsened', 'tachycardia', 'hypertension', 'cardiovascular disorder', 'microembolism', 'angina pectoris', 'venous thromboembolism', 'deep vein thrombosis']",19
+What are the psychiatric risks of taking testosterone?,organ_specific,testosterone,psychiatric,"['agitation', 'anxiety', 'depression', 'depression suicidal', ""korsakoff's psychosis (non-alcoholic)"", 'insomnia', 'confusional state']",7
+Show musculoskeletal toxicity of testosterone,organ_specific,testosterone,musculoskeletal,"['osteoporosis', 'cramp muscle', 'muscle strain', 'myalgia', 'muscle spasms', 'arthralgia']",6
+Find all respiratory adverse events from testosterone,organ_specific,testosterone,respiratory,"['upper respiratory tract infection', 'respiratory distress', 'asthma', 'pulmonary microemboli', 'cough', 'pneumonia', 'chronic obstructive pulmonary disease']",7
+Find all otic adverse events from testosterone,organ_specific,testosterone,otic,"['sudden hearing loss', 'tinnitus']",2
+What are the endocrine risks of taking testosterone?,organ_specific,testosterone,endocrine,"['glucose tolerance impaired', 'blood glucose increased', 'diabetes mellitus', 'hyperparathyroidism']",4
+What are the ocular risks of taking testosterone?,organ_specific,testosterone,ocular,['diplopia'],1
+List testosterone's effects on the neurological system,organ_specific,testosterone,neurological,"['dizziness', 'headache', 'migraine', 'vertigo', 'tremor']",5
+List testosterone's effects on the hepatobiliary system,organ_specific,testosterone,hepatobiliary,"['hepatic cancer', 'hepatic neoplasm', 'jaundice cholestatic', 'peliosis hepatis', 'liver function test abnormal', 'hepatocellular carcinoma', 'hepatobiliary disease', 'jaundice', 'hepatic function abnormal']",9
+What renal side effects does testosterone cause?,organ_specific,testosterone,renal,"['urinary tract disorder', 'renal pain', 'urinary retention', 'urinary incontinence', 'renal impairment', 'urinary tract infection', 'renal colic', 'creatinine increased', 'blood creatinine increased', 'kidney function abnormal', 'poor urinary stream', 'nephrolithiasis', 'urinary hesitation', 'renal failure', 'nephropathy']",15
+Find all hematological adverse events from testosterone,organ_specific,testosterone,hematological,"['thrombocytopenia', 'leukopenia']",2
+Find all immunological adverse events from pioglitazone,organ_specific,pioglitazone,immunological,"['hypersensitivity', 'anaphylactic shock']",2
+List pioglitazone's effects on the cardiovascular system,organ_specific,pioglitazone,cardiovascular,"['cardiac disorder', 'myocardial ischaemia', 'angina pectoris', 'hypertension', 'cardiac failure congestive', 'cardiac failure', 'myocardial infarction']",7
+What are the musculoskeletal risks of taking pioglitazone?,organ_specific,pioglitazone,musculoskeletal,"['fracture', 'myalgia', 'multiple fractures', 'muscle spasms', 'arthralgia']",5
+What are the neurological risks of taking pioglitazone?,organ_specific,pioglitazone,neurological,"['dizziness', 'headache', 'vertigo']",3
+What are the gastrointestinal risks of taking pioglitazone?,organ_specific,pioglitazone,gastrointestinal,"['gastrointestinal disorder', 'abdominal pain upper']",2
+What are the hepatobiliary risks of taking pioglitazone?,organ_specific,pioglitazone,hepatobiliary,"['hepatic impairment', 'drug-induced liver injury', 'hepatitis', 'hepatic failure', 'liver disorder', 'hepatic enzyme decreased', 'liver function test abnormal', 'hepatic enzyme increased']",8
+Find all renal adverse events from pioglitazone,organ_specific,pioglitazone,renal,"['proteinuria', 'urinary tract infection', 'urinary tract disorder']",3
+What respiratory side effects does pioglitazone cause?,organ_specific,pioglitazone,respiratory,"['respiratory tract infection', 'upper respiratory tract infection', 'pulmonary oedema']",3
+What dermatological side effects does pioglitazone cause?,organ_specific,pioglitazone,dermatological,"['unspecified disorder of skin and subcutaneous tissue', 'urticaria', 'skin disorder']",3
+Find all endocrine adverse events from pioglitazone,organ_specific,pioglitazone,endocrine,"['diabetes mellitus exacerbated', 'diabetes mellitus', 'worsening of diabetes']",3
+What are the psychiatric risks of taking pioglitazone?,organ_specific,pioglitazone,psychiatric,['insomnia'],1
+Show ocular toxicity of pioglitazone,organ_specific,pioglitazone,ocular,['abnormal vision'],1
+What dermatological side effects does amorolfine cause?,organ_specific,amorolfine,dermatological,"['pruritus', 'dermatitis contact']",2
+What immunological side effects does amorolfine cause?,organ_specific,amorolfine,immunological,['type iv hypersensitivity reaction'],1
+Find all gastrointestinal adverse events from hepatitis,organ_specific,hepatitis,gastrointestinal,"['vomiting', 'nausea', 'gastrointestinal symptom nos', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",6
+Show dermatological toxicity of hepatitis,organ_specific,hepatitis,dermatological,"['dermatitis', 'eczema', 'pruritus', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin disorder', 'alopecia']",8
+What immunological side effects does hepatitis cause?,organ_specific,hepatitis,immunological,"['hypersensitivity', 'anaphylactic shock', 'anaphylactoid reaction', 'vasculitis', 'type iv hypersensitivity reaction']",5
+What are the musculoskeletal risks of taking hepatitis?,organ_specific,hepatitis,musculoskeletal,"['bone disorder', 'myalgia', 'arthralgia']",3
+Find all respiratory adverse events from hepatitis,organ_specific,hepatitis,respiratory,"['upper respiratory tract infection', 'bronchospasm', 'cough']",3
+Find all neurological adverse events from hepatitis,organ_specific,hepatitis,neurological,"['dizziness', 'headache', 'paralysis', 'vertigo', 'polyneuropathy', 'facial paralysis', 'viith nerve paralysis', 'neuropathy peripheral', 'neuropathy']",9
+List hepatitis's effects on the cardiovascular system,organ_specific,hepatitis,cardiovascular,['hypotension'],1
+What are the ocular risks of taking hepatitis?,organ_specific,hepatitis,ocular,['optic neuritis'],1
+What are the hematological risks of taking hepatitis?,organ_specific,hepatitis,hematological,['thrombocytopenia'],1
+What are the otic risks of taking hepatitis?,organ_specific,hepatitis,otic,['tinnitus'],1
+What are the hepatobiliary risks of taking hepatitis?,organ_specific,hepatitis,hepatobiliary,['liver function test abnormal'],1
+Find all gastrointestinal adverse events from oxybutynin,organ_specific,oxybutynin,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'abdominal discomfort', 'colitis', 'abdominal pain upper', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain']",11
+What immunological side effects does oxybutynin cause?,organ_specific,oxybutynin,immunological,"['hypersensitivity', 'cutaneous hypersensitivity', 'anaphylactic shock']",3
+Find all psychiatric adverse events from oxybutynin,organ_specific,oxybutynin,psychiatric,"['agitation', 'anxiety', 'hallucination', 'depression', 'insomnia', 'confusional state']",6
+Show cardiovascular toxicity of oxybutynin,organ_specific,oxybutynin,cardiovascular,"['cardiac disorder', 'hypotension', 'sinus arrhythmia', 'tachycardia', 'hypertension', 'palpitations', 'arrhythmia']",7
+Find all musculoskeletal adverse events from oxybutynin,organ_specific,oxybutynin,musculoskeletal,['arthralgia'],1
+What respiratory side effects does oxybutynin cause?,organ_specific,oxybutynin,respiratory,"['upper respiratory tract infection', 'cough', 'asthma', 'cough increased']",4
+Find all ocular adverse events from oxybutynin,organ_specific,oxybutynin,ocular,"['glaucoma', 'vision blurred', 'abnormal vision', 'keratoconjunctivitis sicca', 'conjunctivitis', 'angle closure glaucoma']",6
+List oxybutynin's effects on the renal system,organ_specific,oxybutynin,renal,"['urinary tract disorder', 'cystitis', 'urinary retention', 'urinary tract infection', 'creatinine increased', 'blood creatinine increased', 'cystitis noninfective', 'urinary hesitation']",8
+Find all dermatological adverse events from oxybutynin,organ_specific,oxybutynin,dermatological,"['dermatitis', 'pruritus', 'application site rash', 'urticaria', 'skin discolouration', 'dermatitis atopic', 'vesiculobullous rash', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'application site pruritus', 'skin disorder', 'dry skin', 'rash pustular', 'dermatitis bullous']",14
+List oxybutynin's effects on the neurological system,organ_specific,oxybutynin,neurological,"['dizziness', 'headache', 'migraine', 'sinus headache']",4
+What are the otic risks of taking oxybutynin?,organ_specific,oxybutynin,otic,['tinnitus'],1
+Show hepatobiliary toxicity of oxybutynin,organ_specific,oxybutynin,hepatobiliary,['liver function test abnormal'],1
+What endocrine side effects does oxybutynin cause?,organ_specific,oxybutynin,endocrine,['blood glucose increased'],1
+List diazepam's effects on the gastrointestinal system,organ_specific,diazepam,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",7
+Find all immunological adverse events from diazepam,organ_specific,diazepam,immunological,"['hypersensitivity', 'anaphylactic shock', 'type i hypersensitivity']",3
+Show cardiovascular toxicity of diazepam,organ_specific,diazepam,cardiovascular,"['heart rate irregular', 'cardiac disorder', 'hypotension', 'cardiac arrest', 'venous thrombosis', 'tachycardia', 'bradycardia', 'orthostatic hypotension', 'cardiovascular insufficiency', 'palpitations', 'cardiac failure', 'arrhythmia', 'myocardial infarction']",13
+List diazepam's effects on the musculoskeletal system,organ_specific,diazepam,musculoskeletal,"['muscle twitching', 'fracture', 'muscle relaxant therapy', 'cramp muscle', 'myalgia', 'multiple fractures', 'muscle spasms', 'arthralgia']",8
+List diazepam's effects on the respiratory system,organ_specific,diazepam,respiratory,"['cough increased', 'respiratory arrest', 'pulmonary function test decreased', 'asthma', 'hypoxia', 'respiratory failure', 'cough', 'pneumonia']",8
+What neurological side effects does diazepam cause?,organ_specific,diazepam,neurological,"['dizziness', 'ataxia', 'headache', 'vertigo']",4
+What are the psychiatric risks of taking diazepam?,organ_specific,diazepam,psychiatric,"['auditory and visual hallucinations', 'agitation', 'suicidal ideation', 'hallucination', 'respiratory depression', 'circulatory depression', 'hallucinations, mixed', 'depression', 'insomnia', 'confusional state']",10
+What ocular side effects does diazepam cause?,organ_specific,diazepam,ocular,"['diplopia', 'vision blurred', 'abnormal vision', 'conjunctivitis']",4
+Find all dermatological adverse events from diazepam,organ_specific,diazepam,dermatological,"['dermatitis', 'pruritus', 'dermatitis exfoliative', 'urticaria', 'skin discolouration', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'dyskinesia', 'skin disorder', 'photosensitivity', 'photosensitivity reaction']",11
+List diazepam's effects on the hepatobiliary system,organ_specific,diazepam,hepatobiliary,"['hepatobiliary disease', 'hepatic function abnormal', 'jaundice']",3
+What are the hematological risks of taking diazepam?,organ_specific,diazepam,hematological,"['thrombocytopenia', 'neutropenia', 'leukopenia']",3
+Find all renal adverse events from diazepam,organ_specific,diazepam,renal,"['urinary tract disorder', 'urinary retention', 'urinary incontinence', 'urinary tract infection', 'renal failure']",5
+Show immunological toxicity of methazolamide,organ_specific,methazolamide,immunological,['anaphylactic shock'],1
+List methazolamide's effects on the psychiatric system,organ_specific,methazolamide,psychiatric,"['bone marrow depression', 'confusional state']",2
+What are the dermatological risks of taking methazolamide?,organ_specific,methazolamide,dermatological,"['dermatitis', 'urticaria', 'rash', 'photosensitivity reaction', 'photosensitivity']",5
+Find all neurological adverse events from methazolamide,organ_specific,methazolamide,neurological,"['paralysis flaccid', 'headache', 'vertigo']",3
+Find all renal adverse events from methazolamide,organ_specific,methazolamide,renal,"['calculus of kidney', 'nephrolithiasis']",2
+What are the hematological risks of taking methazolamide?,organ_specific,methazolamide,hematological,"['leukopenia', 'pancytopenia']",2
+What are the gastrointestinal risks of taking methazolamide?,organ_specific,methazolamide,gastrointestinal,"['vomiting', 'gastrointestinal disorder', 'nausea', 'dyspepsia']",4
+What otic side effects does methazolamide cause?,organ_specific,methazolamide,otic,['tinnitus'],1
+Show hepatobiliary toxicity of methazolamide,organ_specific,methazolamide,hepatobiliary,"['hepatic insufficiency', 'hepatic necrosis', 'hepatic failure']",3
+Show gastrointestinal toxicity of lurasidone,organ_specific,lurasidone,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'abdominal discomfort', 'abdominal pain upper', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",9
+What are the cardiovascular risks of taking lurasidone?,organ_specific,lurasidone,cardiovascular,"['cardiac disorder', 'hypotension', 'cardiovascular disorder', 'pulmonary embolism', 'embolism venous', 'tachycardia', 'angina pectoris', 'hypertension', 'orthostatic hypotension', 'bradycardia', 'venous thromboembolism', 'arrhythmia', 'deep vein thrombosis']",13
+List lurasidone's effects on the psychiatric system,organ_specific,lurasidone,psychiatric,"['agitation', 'suicidal ideation', 'anxiety', 'suicidal behaviour', 'hypomania', 'insomnia']",6
+Show endocrine toxicity of lurasidone,organ_specific,lurasidone,endocrine,"['blood glucose increased', 'diabetes mellitus']",2
+What neurological side effects does lurasidone cause?,organ_specific,lurasidone,neurological,"['parkinsonism', 'dizziness', ""parkinson's disease"", 'vertigo', 'tremor']",5
+What dermatological side effects does lurasidone cause?,organ_specific,lurasidone,dermatological,"['dermatitis', 'pruritus', 'tardive dyskinesia', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'dyskinesia', 'skin disorder']",7
+Find all hematological adverse events from lurasidone,organ_specific,lurasidone,hematological,"['neutropenia', 'leukopenia']",2
+Find all musculoskeletal adverse events from lurasidone,organ_specific,lurasidone,musculoskeletal,"['rhabdomyolysis', 'myalgia', 'muscle rigidity', 'joint stiffness', 'muscle spasms']",5
+Find all renal adverse events from lurasidone,organ_specific,lurasidone,renal,"['urinary tract disorder', 'urinary tract infection', 'creatinine increased', 'serum creatinine increased', 'blood creatinine increased', 'renal failure']",6
+What are the hepatobiliary risks of taking lurasidone?,organ_specific,lurasidone,hepatobiliary,['hepatobiliary disease'],1
+Find all ocular adverse events from lurasidone,organ_specific,lurasidone,ocular,['vision blurred'],1
+Show musculoskeletal toxicity of mianserin,organ_specific,mianserin,musculoskeletal,"['myalgia', 'arthralgia']",2
+What are the psychiatric risks of taking mianserin?,organ_specific,mianserin,psychiatric,"['bone marrow depression', 'agitation', 'suicidal ideation', 'hypomania', 'confusional state']",5
+Show gastrointestinal toxicity of mianserin,organ_specific,mianserin,gastrointestinal,"['gastrointestinal disorder', 'constipation']",2
+Show ocular toxicity of mianserin,organ_specific,mianserin,ocular,['diplopia'],1
+What are the neurological risks of taking mianserin?,organ_specific,mianserin,neurological,"['dizziness', 'headache', 'vertigo', 'tremor']",4
+Show dermatological toxicity of mianserin,organ_specific,mianserin,dermatological,"['dermatitis', 'pruritus', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin disorder']",5
+What cardiovascular side effects does mianserin cause?,organ_specific,mianserin,cardiovascular,"['cardiac disorder', 'hypotension', 'cardiac arrest', 'tachycardia', 'hypertension', 'bradycardia', 'cardiac failure']",7
+Find all hepatobiliary adverse events from mianserin,organ_specific,mianserin,hepatobiliary,"['hepatitis', 'hepatic enzyme increased', 'hepatobiliary disease', 'jaundice', 'hepatic function abnormal']",5
+List mianserin's effects on the hematological system,organ_specific,mianserin,hematological,"['thrombocytopenia', 'neutropenia', 'leukopenia', 'pancytopenia']",4
+Show otic toxicity of mianserin,organ_specific,mianserin,otic,['tinnitus'],1
+Find all gastrointestinal adverse events from phendimetrazine,organ_specific,phendimetrazine,gastrointestinal,"['abdominal pain upper', 'nausea', 'constipation', 'abdominal pain']",4
+Show neurological toxicity of phendimetrazine,organ_specific,phendimetrazine,neurological,"['dizziness', 'headache', 'tremor']",3
+Show cardiovascular toxicity of phendimetrazine,organ_specific,phendimetrazine,cardiovascular,"['pulmonary arterial hypertension', 'tachycardia', 'primary pulmonary hypertension', 'cardiac valve disease', 'palpitations']",5
+Show psychiatric toxicity of phendimetrazine,organ_specific,phendimetrazine,psychiatric,"['insomnia', 'agitation']",2
+Find all ocular adverse events from phendimetrazine,organ_specific,phendimetrazine,ocular,['vision blurred'],1
+What are the gastrointestinal risks of taking trandolaprilat?,organ_specific,trandolaprilat,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'gastritis', 'constipation', 'gastrointestinal pain', 'abdominal distension', 'abdominal pain']",8
+List trandolaprilat's effects on the dermatological system,organ_specific,trandolaprilat,dermatological,"['dermatitis', 'rash', 'alopecia', 'pruritus']",4
+List trandolaprilat's effects on the cardiovascular system,organ_specific,trandolaprilat,cardiovascular,"['hypotension', 'myocardial ischaemia', 'tachycardia', 'angina pectoris', 'bradycardia', 'palpitations', 'ventricular tachycardia', 'cardiac failure', 'arrhythmia', 'myocardial infarction']",10
+Find all psychiatric adverse events from trandolaprilat,organ_specific,trandolaprilat,psychiatric,"['anxiety', 'hallucination', 'insomnia']",3
+Show respiratory toxicity of trandolaprilat,organ_specific,trandolaprilat,respiratory,"['upper respiratory tract infection', 'cough', 'pulmonary eosinophilia']",3
+Show neurological toxicity of trandolaprilat,organ_specific,trandolaprilat,neurological,"['dizziness', 'headache', 'vertigo']",3
+List trandolaprilat's effects on the hepatobiliary system,organ_specific,trandolaprilat,hepatobiliary,"['hepatitis', 'hepatic enzyme increased', 'jaundice']",3
+List trandolaprilat's effects on the musculoskeletal system,organ_specific,trandolaprilat,musculoskeletal,"['myalgia', 'cramp muscle', 'muscle spasms']",3
+Find all hematological adverse events from trandolaprilat,organ_specific,trandolaprilat,hematological,"['thrombocytopenia', 'pancytopenia']",2
+List trandolaprilat's effects on the renal system,organ_specific,trandolaprilat,renal,"['renal artery stenosis', 'renal impairment', 'creatinine increased', 'blood creatinine increased', 'renal failure']",5
+Find all gastrointestinal adverse events from doxazosin,organ_specific,doxazosin,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'abdominal discomfort', 'gastrointestinal tract irritation', 'constipation', 'gastrointestinal pain', 'abdominal distension', 'abdominal pain', 'gastrointestinal haemorrhage', 'gastric ulcer']",11
+List doxazosin's effects on the dermatological system,organ_specific,doxazosin,dermatological,"['dermatitis', 'eczema', 'pruritus', 'urticaria', 'pruritus genital', 'rash erythematous', 'rash', 'dyskinesia', 'skin hypertrophy', 'skin disorder', 'alopecia', 'seborrhoeic dermatitis', 'dry skin', 'photosensitivity reaction', 'psoriasis flare-up', 'rash maculo-papular', 'psoriasis']",17
+Find all cardiovascular adverse events from doxazosin,organ_specific,doxazosin,cardiovascular,"['hypotension', 'myocardial ischaemia', 'hypertension worsened', 'tachycardia', 'angina pectoris', 'hypertension', 'orthostatic hypotension', 'bradycardia', 'palpitations', 'essential hypertension', 'cardiac failure', 'arrhythmia', 'myocardial infarction']",13
+What psychiatric side effects does doxazosin cause?,organ_specific,doxazosin,psychiatric,"['agitation', 'anxiety', 'depression', 'insomnia', 'confusional state']",5
+Find all musculoskeletal adverse events from doxazosin,organ_specific,doxazosin,musculoskeletal,"['muscle twitching', 'polymyalgia rheumatica', 'cramp muscle', 'myalgia', 'tendon disorder', 'muscle spasms', 'arthralgia']",7
+Show neurological toxicity of doxazosin,organ_specific,doxazosin,neurological,"['dizziness', 'ataxia', 'headache', 'migraine', 'tonic-clonic seizures', 'vertigo', 'dizziness postural', 'tremor']",8
+What are the respiratory risks of taking doxazosin?,organ_specific,doxazosin,respiratory,"['upper respiratory tract infection', 'bronchospasm', 'respiratory tract infection', 'bronchospasm aggravated', 'cough', 'pneumonia']",6
+What are the hepatobiliary risks of taking doxazosin?,organ_specific,doxazosin,hepatobiliary,"['hepatitis', 'hepatitis cholestatic', 'liver function test abnormal', 'jaundice', 'cholestasis']",5
+Find all ocular adverse events from doxazosin,organ_specific,doxazosin,ocular,"['cataract', 'vision blurred', 'abnormal vision', 'diplopia', 'conjunctivitis']",5
+List doxazosin's effects on the renal system,organ_specific,doxazosin,renal,"['cystitis', 'urinary retention', 'renal pain', 'urinary incontinence', 'urinary tract infection', 'cystitis noninfective', 'nephrolithiasis', 'oliguria', 'calculus of kidney', 'renal failure chronic']",10
+What are the otic risks of taking doxazosin?,organ_specific,doxazosin,otic,"['deafness', 'tinnitus']",2
+What are the immunological risks of taking doxazosin?,organ_specific,doxazosin,immunological,['hypersensitivity'],1
+What hematological side effects does doxazosin cause?,organ_specific,doxazosin,hematological,"['thrombocytopenia', 'neutropenia', 'leukopenia']",3
+What psychiatric side effects does amobarbital cause?,organ_specific,amobarbital,psychiatric,"['agitation', 'anxiety', 'hallucination', 'cns depression nos', 'confusional state']",5
+Show neurological toxicity of amobarbital,organ_specific,amobarbital,neurological,"['dizziness', 'ataxia', 'headache']",3
+What are the gastrointestinal risks of taking amobarbital?,organ_specific,amobarbital,gastrointestinal,"['vomiting', 'nausea', 'constipation']",3
+What dermatological side effects does amobarbital cause?,organ_specific,amobarbital,dermatological,"['dermatitis', 'dermatitis exfoliative', 'rash']",3
+Show immunological toxicity of amobarbital,organ_specific,amobarbital,immunological,['hypersensitivity'],1
+List amobarbital's effects on the cardiovascular system,organ_specific,amobarbital,cardiovascular,"['hypotension', 'bradycardia']",2
+What hepatobiliary side effects does amobarbital cause?,organ_specific,amobarbital,hepatobiliary,"['hepatocellular injury', 'liver injury']",2
+Find all respiratory adverse events from amobarbital,organ_specific,amobarbital,respiratory,"['respiratory failure', 'hypoxia']",2
+List ethacrynic's effects on the psychiatric system,organ_specific,ethacrynic,psychiatric,"['anxiety', 'confusional state']",2
+What are the otic risks of taking ethacrynic?,organ_specific,ethacrynic,otic,"['deafness', 'tinnitus']",2
+What are the dermatological risks of taking ethacrynic?,organ_specific,ethacrynic,dermatological,"['dermatitis', 'rash']",2
+Find all gastrointestinal adverse events from ethacrynic,organ_specific,ethacrynic,gastrointestinal,"['vomiting', 'abdominal discomfort', 'nausea', 'gastrointestinal haemorrhage']",4
+List ethacrynic's effects on the neurological system,organ_specific,ethacrynic,neurological,"['headache', 'vertigo']",2
+Show hepatobiliary toxicity of ethacrynic,organ_specific,ethacrynic,hepatobiliary,"['liver function test abnormal', 'jaundice']",2
+What are the hematological risks of taking ethacrynic?,organ_specific,ethacrynic,hematological,"['neutropenia', 'thrombocytopenia']",2
+Find all ocular adverse events from ethacrynic,organ_specific,ethacrynic,ocular,['vision blurred'],1
+Show immunological toxicity of refludan,organ_specific,refludan,immunological,"['hypersensitivity', 'anaphylactic shock']",2
+What respiratory side effects does refludan cause?,organ_specific,refludan,respiratory,"['pneumonia', 'bronchospasm', 'cough', 'pulmonary haemorrhage']",4
+Show psychiatric toxicity of refludan,organ_specific,refludan,psychiatric,"['agitation', 'insomnia', 'confusional state']",3
+List refludan's effects on the cardiovascular system,organ_specific,refludan,cardiovascular,"['hypotension', 'pulmonary embolism', 'cardiac arrest', 'arterial thrombosis', 'bradycardia', 'cardiac failure', 'acute myocardial infarction', 'ventricular tachycardia', 'coronary artery thrombosis']",9
+List refludan's effects on the gastrointestinal system,organ_specific,refludan,gastrointestinal,"['vomiting', 'dyspepsia', 'gastritis', 'gastritis haemorrhagic', 'nausea', 'gastrointestinal haemorrhage']",6
+What dermatological side effects does refludan cause?,organ_specific,refludan,dermatological,"['dermatitis', 'eczema', 'pruritus', 'urticaria', 'skin necrosis', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin exfoliation', 'skin haemorrhage', 'skin disorder']",10
+Find all hematological adverse events from refludan,organ_specific,refludan,hematological,['gingival bleeding'],1
+List refludan's effects on the neurological system,organ_specific,refludan,neurological,['headache'],1
+What are the hepatobiliary risks of taking refludan?,organ_specific,refludan,hepatobiliary,"['liver function test abnormal', 'hepatic function abnormal']",2
+Show renal toxicity of refludan,organ_specific,refludan,renal,"['blood creatinine increased', 'renal impairment', 'kidney function abnormal', 'serum creatinine increased']",4
+Show gastrointestinal toxicity of gonadorelin,organ_specific,gonadorelin,gastrointestinal,"['vomiting', 'nausea', 'abdominal discomfort', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",7
+What are the immunological risks of taking gonadorelin?,organ_specific,gonadorelin,immunological,"['hypersensitivity', 'anaphylactic shock']",2
+What are the neurological risks of taking gonadorelin?,organ_specific,gonadorelin,neurological,['headache'],1
+Find all dermatological adverse events from gonadorelin,organ_specific,gonadorelin,dermatological,['pruritus'],1
+Find all cardiovascular adverse events from gonadorelin,organ_specific,gonadorelin,cardiovascular,"['embolism', 'embolism venous', 'thromboembolism']",3
+Show respiratory toxicity of gonadorelin,organ_specific,gonadorelin,respiratory,['upper respiratory tract infection'],1
+Show cardiovascular toxicity of enflurane,organ_specific,enflurane,cardiovascular,"['hypotension', 'arrhythmia']",2
+Find all gastrointestinal adverse events from enflurane,organ_specific,enflurane,gastrointestinal,"['vomiting', 'nausea']",2
+List enflurane's effects on the hepatobiliary system,organ_specific,enflurane,hepatobiliary,"['hepatic failure', 'hepatic necrosis', 'traumatic liver injury', 'liver injury', 'hepatotoxicity']",5
+What psychiatric side effects does enflurane cause?,organ_specific,enflurane,psychiatric,['respiratory depression'],1
+What respiratory side effects does enflurane cause?,organ_specific,enflurane,respiratory,['pulmonary function test decreased'],1
+Find all gastrointestinal adverse events from entacapone,organ_specific,entacapone,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'colitis', 'gastritis', 'constipation', 'gastrointestinal symptom nos', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",10
+Find all cardiovascular adverse events from entacapone,organ_specific,entacapone,cardiovascular,"['cardiac disorder', 'hypotension', 'myocardial ischaemia', 'cardiovascular disorder', 'bradycardia', 'angina pectoris', 'hypertension', 'orthostatic hypotension', 'cardiac valve disease', 'myocardial infarction']",10
+What are the psychiatric risks of taking entacapone?,organ_specific,entacapone,psychiatric,"['agitation', 'anxiety', 'hallucination', 'depression', 'insomnia', 'confusional state']",6
+Show neurological toxicity of entacapone,organ_specific,entacapone,neurological,"['parkinsonism', 'dizziness', 'ataxia', 'headache', 'vertigo', 'parkinsonism aggravated', 'tremor', 'neuropathy peripheral']",8
+Show renal toxicity of entacapone,organ_specific,entacapone,renal,"['urinary incontinence', 'urinary tract disorder', 'renal pain', 'cholecystitis']",4
+List entacapone's effects on the ocular system,organ_specific,entacapone,ocular,"['diplopia', 'conjunctivitis', 'cataract']",3
+Find all dermatological adverse events from entacapone,organ_specific,entacapone,dermatological,"['dermatitis', 'fungal skin infection', 'eczema', 'pruritus', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'dyskinesia', 'skin cold clammy', 'skin disorder', 'rash maculo-papular']",11
+Show hepatobiliary toxicity of entacapone,organ_specific,entacapone,hepatobiliary,"['hepatocellular injury', 'liver disorder', 'hepatitis', 'hepatic failure', 'hepatic enzyme increased', 'hepatobiliary disease', 'foetor hepaticus', 'hepatic function abnormal']",8
+Show immunological toxicity of entacapone,organ_specific,entacapone,immunological,['hypersensitivity'],1
+Find all endocrine adverse events from entacapone,organ_specific,entacapone,endocrine,['hyperthyroidism'],1
+Find all musculoskeletal adverse events from entacapone,organ_specific,entacapone,musculoskeletal,"['tendonitis', 'rhabdomyolysis', 'muscle spasms', 'muscle stiffness', 'myalgia', 'muscle relaxant therapy', 'muscle contractions involuntary']",7
+List entacapone's effects on the hematological system,organ_specific,entacapone,hematological,"['thrombocytopenia', 'leukopenia']",2
+What are the respiratory risks of taking entacapone?,organ_specific,entacapone,respiratory,['pneumonia'],1
+What are the gastrointestinal risks of taking nortriptyline?,organ_specific,nortriptyline,gastrointestinal,"['vomiting', 'abdominal cramps', 'nausea', 'dyspepsia', 'epigastric distress', 'constipation', 'abdominal pain']",7
+List nortriptyline's effects on the dermatological system,organ_specific,nortriptyline,dermatological,"['dermatitis', 'pruritus', 'yellow skin', 'urticaria', 'dermatitis atopic', 'rash', 'alopecia']",7
+List nortriptyline's effects on the psychiatric system,organ_specific,nortriptyline,psychiatric,"['delirium', 'bone marrow depression', 'agitation', 'suicidal ideation', 'hallucination', 'anxiety', 'mania', 'hypomania', 'insomnia', 'confusional state']",10
+List nortriptyline's effects on the cardiovascular system,organ_specific,nortriptyline,cardiovascular,"['heart rate irregular', 'hypotension', 'tachycardia', 'hypertension', 'orthostatic hypotension', 'palpitations', 'ventricular tachycardia', 'arrhythmia', 'block heart', 'myocardial infarction']",10
+What neurological side effects does nortriptyline cause?,organ_specific,nortriptyline,neurological,"['dizziness', 'ataxia', 'headache', 'tremor', 'neuropathy peripheral']",5
+Find all hepatobiliary adverse events from nortriptyline,organ_specific,nortriptyline,hepatobiliary,"['hepatitis', 'hepatic necrosis', 'jaundice', 'cholestasis', 'hepatic function abnormal']",5
+Show ocular toxicity of nortriptyline,organ_specific,nortriptyline,ocular,"['vision blurred', 'angle closure glaucoma']",2
+List nortriptyline's effects on the immunological system,organ_specific,nortriptyline,immunological,"['hypersensitivity', 'cutaneous hypersensitivity']",2
+Show endocrine toxicity of nortriptyline,organ_specific,nortriptyline,endocrine,['inappropriate antidiuretic hormone secretion'],1
+Show hematological toxicity of nortriptyline,organ_specific,nortriptyline,hematological,"['thrombocytopenia', 'leukopenia', 'pancytopenia']",3
+List nortriptyline's effects on the otic system,organ_specific,nortriptyline,otic,['tinnitus'],1
+What renal side effects does nortriptyline cause?,organ_specific,nortriptyline,renal,['urinary retention'],1
+What are the cardiovascular risks of taking nitrous?,organ_specific,nitrous,cardiovascular,"['hypotension', 'arrhythmia']",2
+List nitrous's effects on the psychiatric system,organ_specific,nitrous,psychiatric,"['bone marrow depression', 'confusional state']",2
+Show neurological toxicity of nitrous,organ_specific,nitrous,neurological,"['neuropathy peripheral', 'dizziness', 'headache', 'neuropathy']",4
+Show hematological toxicity of nitrous,organ_specific,nitrous,hematological,"['thrombocytopenia', 'leukopenia', 'pancytopenia']",3
+What gastrointestinal side effects does nitrous cause?,organ_specific,nitrous,gastrointestinal,"['vomiting', 'nausea']",2
+Show respiratory toxicity of nitrous,organ_specific,nitrous,respiratory,"['vascular resistance pulmonary increased', 'hypoxia']",2
+Find all cardiovascular adverse events from abiraterone,organ_specific,abiraterone,cardiovascular,"['cardiac disorder', 'myocardial ischaemia', 'hypertension', 'cardiac failure', 'arrhythmia', 'myocardial infarction']",6
+Show gastrointestinal toxicity of abiraterone,organ_specific,abiraterone,gastrointestinal,"['gastrointestinal disorder', 'dyspepsia', 'vomiting', 'constipation']",4
+List abiraterone's effects on the respiratory system,organ_specific,abiraterone,respiratory,"['upper respiratory tract infection', 'cough', 'pneumonia', 'cardio-respiratory arrest']",4
+List abiraterone's effects on the dermatological system,organ_specific,abiraterone,dermatological,"['dermatitis', 'unspecified disorder of skin and subcutaneous tissue', 'skin disorder', 'rash']",4
+What are the musculoskeletal risks of taking abiraterone?,organ_specific,abiraterone,musculoskeletal,"['joint swelling', 'fracture', 'multiple fractures', 'myalgia']",4
+Show renal toxicity of abiraterone,organ_specific,abiraterone,renal,"['urinary tract infection', 'urinary tract disorder']",2
+Show hepatobiliary toxicity of abiraterone,organ_specific,abiraterone,hepatobiliary,['hepatotoxicity'],1
+What are the psychiatric risks of taking abiraterone?,organ_specific,abiraterone,psychiatric,['insomnia'],1
+What dermatological side effects does danazol cause?,organ_specific,danazol,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'rash', 'pigmentation skin', 'seborrhoeic dermatitis', 'alopecia', 'photosensitivity', 'photosensitivity reaction']",9
+What are the psychiatric risks of taking danazol?,organ_specific,danazol,psychiatric,['anxiety'],1
+What musculoskeletal side effects does danazol cause?,organ_specific,danazol,musculoskeletal,"['joint swelling', 'cramp muscle', 'joint lock', 'muscle spasms', 'arthralgia']",5
+Show gastrointestinal toxicity of danazol,organ_specific,danazol,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal pain upper', 'epigastric pain', 'constipation', 'nausea']",6
+What are the neurological risks of taking danazol?,organ_specific,danazol,neurological,"['dizziness', 'headache', 'migraine', 'vertigo', 'tremor', 'tremor muscle']",6
+Show hematological toxicity of danazol,organ_specific,danazol,hematological,"['thrombocytopenia', 'gingival bleeding', 'leukopenia']",3
+What endocrine side effects does danazol cause?,organ_specific,danazol,endocrine,"['blood insulin increased', 'hyperinsulinism']",2
+Find all cardiovascular adverse events from danazol,organ_specific,danazol,cardiovascular,"['arterial thrombosis', 'tachycardia', 'hypertension', 'palpitations', 'benign intracranial hypertension', 'thrombosis', 'myocardial infarction']",7
+What are the hepatobiliary risks of taking danazol?,organ_specific,danazol,hepatobiliary,"['hepatic neoplasm', 'jaundice cholestatic', 'peliosis hepatis', 'hepatic adenoma', 'jaundice', 'hepatic function abnormal']",6
+Show ocular toxicity of danazol,organ_specific,danazol,ocular,"['vision blurred', 'cataract']",2
+What are the respiratory risks of taking danazol?,organ_specific,danazol,respiratory,['interstitial pneumonia'],1
+Show gastrointestinal toxicity of nabilone,organ_specific,nabilone,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'gastritis', 'constipation', 'gastrointestinal pain', 'abdominal pain']",7
+Show psychiatric toxicity of nabilone,organ_specific,nabilone,psychiatric,"['agitation', 'anxiety', 'hallucination', 'respiratory depression', 'depression', 'cns depression nos', 'insomnia', 'confusional state']",8
+What are the cardiovascular risks of taking nabilone?,organ_specific,nabilone,cardiovascular,"['hypotension', 'tachycardia', 'hypertension', 'orthostatic hypotension', 'palpitations', 'arrhythmia']",6
+What musculoskeletal side effects does nabilone cause?,organ_specific,nabilone,musculoskeletal,"['muscle twitching', 'myalgia', 'muscle relaxant therapy', 'arthralgia']",4
+Show neurological toxicity of nabilone,organ_specific,nabilone,neurological,"['dizziness', 'ataxia', 'headache', 'sinus headache', 'vertigo', 'dizziness postural', 'tremor']",7
+Find all respiratory adverse events from nabilone,organ_specific,nabilone,respiratory,"['pulmonary function test decreased', 'cough']",2
+Find all dermatological adverse events from nabilone,organ_specific,nabilone,dermatological,"['dermatitis', 'pruritus', 'rash', 'photosensitivity reaction', 'photosensitivity']",5
+List nabilone's effects on the immunological system,organ_specific,nabilone,immunological,['hypersensitivity'],1
+Show hematological toxicity of nabilone,organ_specific,nabilone,hematological,['leukopenia'],1
+Find all otic adverse events from nabilone,organ_specific,nabilone,otic,['tinnitus'],1
+What are the renal risks of taking nabilone?,organ_specific,nabilone,renal,['urinary retention'],1
+What are the ocular risks of taking nabilone?,organ_specific,nabilone,ocular,['vision blurred'],1
+Find all gastrointestinal adverse events from asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2,organ_specific,asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2,gastrointestinal,"['vomiting', 'abdominal cramps', 'nausea', 'abdominal discomfort', 'delayed gastric emptying', 'abdominal pain upper', 'abdominal pain', 'impaired gastric emptying']",8
+What are the neurological risks of taking asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2?,organ_specific,asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2,neurological,"['dizziness', 'headache']",2
+Find all dermatological adverse events from asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2,organ_specific,asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2,dermatological,"['dermatitis', 'rash']",2
+Show immunological toxicity of asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2,organ_specific,asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2,immunological,['hypersensitivity'],1
+List asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2's effects on the cardiovascular system,organ_specific,asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2,cardiovascular,"['hypertension', 'hypotension']",2
+Find all musculoskeletal adverse events from asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2,organ_specific,asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2,musculoskeletal,"['cramp muscle', 'muscle spasms']",2
+List etomidate's effects on the cardiovascular system,organ_specific,etomidate,cardiovascular,"['hypotension', 'bradycardia', 'hypertension', 'tachycardia', 'arrhythmia']",5
+What are the gastrointestinal risks of taking etomidate?,organ_specific,etomidate,gastrointestinal,"['vomiting', 'nausea postoperative', 'procedural nausea']",3
+Find all respiratory adverse events from etomidate,organ_specific,etomidate,respiratory,"['respiratory failure', 'hypoxia']",2
+Show gastrointestinal toxicity of vigabatrin,organ_specific,vigabatrin,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'abdominal discomfort', 'abdominal pain upper', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain', 'gastrointestinal haemorrhage']",11
+What psychiatric side effects does vigabatrin cause?,organ_specific,vigabatrin,psychiatric,"['delirium', 'agitation', 'acute psychosis', 'hallucination', 'anxiety', 'depression', 'suicidal behaviour', 'mania', 'hypomania', 'insomnia', 'confusional state']",11
+Find all musculoskeletal adverse events from vigabatrin,organ_specific,vigabatrin,musculoskeletal,"['muscle spasticity', 'muscle twitching', 'muscle relaxant therapy', 'muscle strain', 'joint sprain', 'myalgia', 'muscle spasms', 'arthralgia']",8
+What neurological side effects does vigabatrin cause?,organ_specific,vigabatrin,neurological,"['dizziness', 'ataxia', 'headache', 'sinus headache', 'vertigo', 'tremor', 'neuropathy peripheral']",7
+List vigabatrin's effects on the hepatobiliary system,organ_specific,vigabatrin,hepatobiliary,"['cholestasis', 'hepatobiliary disease']",2
+Show ocular toxicity of vigabatrin,organ_specific,vigabatrin,ocular,"['optic neuritis', 'vision blurred', 'abnormal vision', 'diplopia', 'optic atrophy', 'conjunctivitis']",6
+Find all respiratory adverse events from vigabatrin,organ_specific,vigabatrin,respiratory,"['upper respiratory tract infection', 'respiratory tract congestion', 'respiratory failure', 'cough', 'pneumonia', 'pulmonary congestion']",6
+Show otic toxicity of vigabatrin,organ_specific,vigabatrin,otic,"['deafness', 'tinnitus']",2
+Find all dermatological adverse events from vigabatrin,organ_specific,vigabatrin,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'dyskinesia', 'skin disorder', 'rash maculo-papular']",8
+Show immunological toxicity of vigabatrin,organ_specific,vigabatrin,immunological,['hypersensitivity'],1
+What cardiovascular side effects does vigabatrin cause?,organ_specific,vigabatrin,cardiovascular,['pulmonary embolism'],1
+Show renal toxicity of vigabatrin,organ_specific,vigabatrin,renal,"['urinary tract infection', 'renal aplasia', 'congenital hydronephrosis']",3
+Find all psychiatric adverse events from chloroprocaine,organ_specific,chloroprocaine,psychiatric,"['anxiety', 'agitation']",2
+What are the neurological risks of taking chloroprocaine?,organ_specific,chloroprocaine,neurological,"['dizziness', 'headache', 'tremor']",3
+Find all cardiovascular adverse events from chloroprocaine,organ_specific,chloroprocaine,cardiovascular,"['hypotension', 'ventricular arrhythmia', 'cardiac arrest', 'bradycardia', 'tachycardia']",5
+Show gastrointestinal toxicity of chloroprocaine,organ_specific,chloroprocaine,gastrointestinal,"['vomiting', 'nausea']",2
+What are the dermatological risks of taking chloroprocaine?,organ_specific,chloroprocaine,dermatological,"['pruritus', 'urticaria']",2
+Show otic toxicity of chloroprocaine,organ_specific,chloroprocaine,otic,['tinnitus'],1
+Show respiratory toxicity of chloroprocaine,organ_specific,chloroprocaine,respiratory,['respiratory arrest'],1
+Show ocular toxicity of chloroprocaine,organ_specific,chloroprocaine,ocular,['vision blurred'],1
+List phentolamine's effects on the gastrointestinal system,organ_specific,phentolamine,gastrointestinal,"['vomiting', 'nausea', 'abdominal pain upper', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",6
+What cardiovascular side effects does phentolamine cause?,organ_specific,phentolamine,cardiovascular,"['cardiac disorder', 'hypotension', 'tachycardia', 'angina pectoris', 'hypertension', 'orthostatic hypotension', 'bradycardia', 'arrhythmia', 'myocardial infarction']",9
+List phentolamine's effects on the neurological system,organ_specific,phentolamine,neurological,"['dizziness', 'headache']",2
+Find all dermatological adverse events from phentolamine,organ_specific,phentolamine,dermatological,['pruritus'],1
+List moxonidine's effects on the gastrointestinal system,organ_specific,moxonidine,gastrointestinal,"['nausea', 'abdominal pain', 'gastrointestinal pain']",3
+What psychiatric side effects does moxonidine cause?,organ_specific,moxonidine,psychiatric,"['anxiety', 'insomnia']",2
+Find all neurological adverse events from moxonidine,organ_specific,moxonidine,neurological,"['dizziness', 'headache', 'vertigo']",3
+Show dermatological toxicity of moxonidine,organ_specific,moxonidine,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'rash']",4
+What cardiovascular side effects does moxonidine cause?,organ_specific,moxonidine,cardiovascular,"['orthostatic hypotension', 'hypotension']",2
+List amitriptyline's effects on the dermatological system,organ_specific,amitriptyline,dermatological,"['dermatitis', 'pruritus', 'tardive dyskinesia', 'urticaria', 'rash', 'dyskinesia', 'alopecia']",7
+What psychiatric side effects does amitriptyline cause?,organ_specific,amitriptyline,psychiatric,"['bone marrow depression', 'agitation', 'anxiety', 'hallucination', 'mania', 'hypomania', 'insomnia', 'confusional state']",8
+Find all cardiovascular adverse events from amitriptyline,organ_specific,amitriptyline,cardiovascular,"['hypotension', 'tachycardia', 'hypertension', 'orthostatic hypotension', 'palpitations', 'ventricular tachycardia', 'arrhythmia', 'block heart', 'myocardial infarction']",9
+Find all neurological adverse events from amitriptyline,organ_specific,amitriptyline,neurological,"['dizziness', 'ataxia', 'headache', 'tremor', 'neuropathy peripheral']",5
+Find all gastrointestinal adverse events from amitriptyline,organ_specific,amitriptyline,gastrointestinal,"['vomiting', 'nausea', 'dyspepsia', 'constipation', 'epigastric distress']",5
+What are the hepatobiliary risks of taking amitriptyline?,organ_specific,amitriptyline,hepatobiliary,"['hepatitis', 'hepatic failure', 'jaundice']",3
+What are the endocrine risks of taking amitriptyline?,organ_specific,amitriptyline,endocrine,['inappropriate antidiuretic hormone secretion'],1
+Find all hematological adverse events from amitriptyline,organ_specific,amitriptyline,hematological,"['thrombocytopenia', 'leukopenia', 'pancytopenia']",3
+What are the musculoskeletal risks of taking amitriptyline?,organ_specific,amitriptyline,musculoskeletal,['muscle rigidity'],1
+List amitriptyline's effects on the otic system,organ_specific,amitriptyline,otic,['tinnitus'],1
+List amitriptyline's effects on the renal system,organ_specific,amitriptyline,renal,['urinary retention'],1
+Show ocular toxicity of amitriptyline,organ_specific,amitriptyline,ocular,['vision blurred'],1
+Find all immunological adverse events from amitriptyline,organ_specific,amitriptyline,immunological,['lupus-like syndrome'],1
+What are the gastrointestinal risks of taking bethanechol?,organ_specific,bethanechol,gastrointestinal,"['gastrointestinal sounds abnormal', 'abdominal cramps', 'nausea', 'abdominal colic', 'abdominal pain']",5
+What respiratory side effects does bethanechol cause?,organ_specific,bethanechol,respiratory,"['bronchoconstriction', 'bronchospasm', 'asthma']",3
+What neurological side effects does bethanechol cause?,organ_specific,bethanechol,neurological,['headache'],1
+Find all cardiovascular adverse events from bethanechol,organ_specific,bethanechol,cardiovascular,"['reflex tachycardia', 'hypotension', 'tachycardia']",3
+Find all cardiovascular adverse events from tmc207,organ_specific,tmc207,cardiovascular,"['cardiac disorder', 'arrhythmia']",2
+What musculoskeletal side effects does tmc207 cause?,organ_specific,tmc207,musculoskeletal,"['myalgia', 'arthralgia']",2
+What neurological side effects does tmc207 cause?,organ_specific,tmc207,neurological,"['dizziness', 'headache']",2
+What dermatological side effects does tmc207 cause?,organ_specific,tmc207,dermatological,"['dermatitis', 'rash']",2
+Show gastrointestinal toxicity of tmc207,organ_specific,tmc207,gastrointestinal,"['vomiting', 'gastrointestinal disorder', 'nausea']",3
+List tmc207's effects on the hepatobiliary system,organ_specific,tmc207,hepatobiliary,"['hepatitis', 'hepatic cirrhosis', 'hepatic enzyme increased', 'hepatobiliary disease', 'hepatic function abnormal']",5
+What are the gastrointestinal risks of taking montelukast?,organ_specific,montelukast,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal injury', 'abdominal pain']",7
+What immunological side effects does montelukast cause?,organ_specific,montelukast,immunological,"['hypersensitivity', 'anaphylactic shock', 'allergic granulomatous angiitis', 'vasculitis', 'leukocytoclastic vasculitis']",5
+List montelukast's effects on the psychiatric system,organ_specific,montelukast,psychiatric,"['agitation', 'anxiety', 'hallucination', 'hallucination, visual', 'suicidal behaviour', 'insomnia']",6
+Show musculoskeletal toxicity of montelukast,organ_specific,montelukast,musculoskeletal,"['bone disorder', 'cramp muscle', 'myalgia', 'muscle spasms', 'arthralgia']",5
+Find all respiratory adverse events from montelukast,organ_specific,montelukast,respiratory,"['upper respiratory tract infection', 'asthma', 'pulmonary eosinophilia', 'cough', 'pneumonia']",5
+List montelukast's effects on the ocular system,organ_specific,montelukast,ocular,['conjunctivitis'],1
+Find all dermatological adverse events from montelukast,organ_specific,montelukast,dermatological,"['dermatitis', 'eczema', 'pruritus', 'urticaria', 'vasculitic rash', 'dermatitis atopic', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin disorder', 'skin infection']",10
+What neurological side effects does montelukast cause?,organ_specific,montelukast,neurological,"['dizziness', 'headache', 'sinus headache', 'tremor', 'neuropathy peripheral', 'neuropathy']",6
+Show cardiovascular toxicity of montelukast,organ_specific,montelukast,cardiovascular,"['cardiac disorder', 'palpitations']",2
+List montelukast's effects on the hepatobiliary system,organ_specific,montelukast,hepatobiliary,"['hepatic infiltration eosinophilic', 'hepatocellular injury', 'liver disorder', 'hepatitis', 'hepatitis cholestatic', 'traumatic liver injury', 'liver injury', 'hepatobiliary disease', 'jaundice', 'foetor hepaticus']",10
+Find all hematological adverse events from montelukast,organ_specific,montelukast,hematological,"['thrombocytopenia', 'bleeding tendency']",2
+Show renal toxicity of montelukast,organ_specific,montelukast,renal,['urinary tract disorder'],1
+What are the gastrointestinal risks of taking colesevelam?,organ_specific,colesevelam,gastrointestinal,"['vomiting', 'dyspepsia', 'intestinal obstruction', 'nausea', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain']",9
+What dermatological side effects does colesevelam cause?,organ_specific,colesevelam,dermatological,"['dermatitis', 'rash', 'dermatitis bullous']",3
+Show neurological toxicity of colesevelam,organ_specific,colesevelam,neurological,['headache'],1
+List colesevelam's effects on the immunological system,organ_specific,colesevelam,immunological,['hypersensitivity'],1
+What cardiovascular side effects does colesevelam cause?,organ_specific,colesevelam,cardiovascular,"['hypertension', 'bradycardia', 'myocardial infarction']",3
+What respiratory side effects does colesevelam cause?,organ_specific,colesevelam,respiratory,"['upper respiratory tract infection', 'cough', 'cough increased']",3
+List colesevelam's effects on the musculoskeletal system,organ_specific,colesevelam,musculoskeletal,['myalgia'],1
+Show endocrine toxicity of colesevelam,organ_specific,colesevelam,endocrine,['diabetes mellitus'],1
+What gastrointestinal side effects does memantine cause?,organ_specific,memantine,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'colitis', 'benign gastrointestinal neoplasm', 'gastritis', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'diverticulum intestinal', 'abdominal pain', 'gastrointestinal haemorrhage', 'gastric ulcer']",13
+List memantine's effects on the dermatological system,organ_specific,memantine,dermatological,"['dermatitis', 'eczema', 'pruritus', 'urticaria', 'tardive dyskinesia', 'skin ulcer', 'rash erythematous', 'rash', 'dyskinesia', 'skin exfoliation', 'skin disorder', 'alopecia', 'dry skin', 'dermatitis bullous']",14
+Show cardiovascular toxicity of memantine,organ_specific,memantine,cardiovascular,"['arrhythmia supraventricular', 'hypotension', 'thromboembolism', 'cardiac arrest', 'cardiac failure', 'cardiac disorder', 'embolism', 'pulmonary embolism', 'ventricular arrhythmia', 'supraventricular tachycardia', 'palpitations', 'atrial arrhythmia', 'myocardial infarction', 'hypertension worsened', 'tachycardia', 'cardiac murmur', 'hypertension', 'orthostatic hypotension', 'bradycardia', 'cardiac valve disease', 'block heart', 'cardiovascular disorder', 'venous thrombosis', 'angina pectoris', 'cardiac failure congestive', 'embolism venous', 'arrhythmia', 'deep vein thrombosis']",28
+Show psychiatric toxicity of memantine,organ_specific,memantine,psychiatric,"['delirium', 'agitation', 'suicidal ideation', 'hallucination', 'anxiety', 'depression', 'mania', 'insomnia', 'confusional state']",9
+What are the musculoskeletal risks of taking memantine?,organ_specific,memantine,musculoskeletal,"['bone disorder', 'fracture', 'osteoporosis', 'muscle contractions involuntary', 'myalgia', 'bone pain', 'multiple fractures', 'arthralgia']",8
+What respiratory side effects does memantine cause?,organ_specific,memantine,respiratory,"['upper respiratory tract infection', 'bronchospasm', 'pneumonia aspiration', 'asthma', 'respiratory insufficiency', 'respiratory failure', 'cough', 'pneumonia', 'pulmonary oedema', 'chronic obstructive pulmonary disease']",10
+Show neurological toxicity of memantine,organ_specific,memantine,neurological,"['parkinsonism', 'dizziness', 'ataxia', 'headache', 'paralysis', 'vertigo', 'tremor', 'neuropathy peripheral', 'neuropathy']",9
+Show ocular toxicity of memantine,organ_specific,memantine,ocular,"['glaucoma', 'cataract', 'vision blurred', 'abnormal vision', 'diplopia', 'conjunctivitis']",6
+List memantine's effects on the renal system,organ_specific,memantine,renal,"['renal failure', 'urinary tract disorder', 'cystitis', 'urinary retention', 'renal cyst', 'urinary incontinence', 'renal impairment', 'urinary tract infection', 'creatinine increased', 'blood creatinine increased', 'cystitis noninfective', 'kidney function abnormal', 'nephrolithiasis', 'renal failure acute', 'renal function test abnormal', 'calculus of kidney']",16
+List memantine's effects on the endocrine system,organ_specific,memantine,endocrine,"['blood thyroid stimulating hormone increased', 'diabetes mellitus', 'antidiuretic hormone abnormality', 'inappropriate antidiuretic hormone secretion', 'diabetes mellitus exacerbated', 'blood antidiuretic hormone abnormal', 'hypothyroidism', 'hyperthyroidism']",8
+Show immunological toxicity of memantine,organ_specific,memantine,immunological,"['hypersensitivity', 'drug hypersensitivity']",2
+What are the otic risks of taking memantine?,organ_specific,memantine,otic,"['tinnitus', 'partial hearing loss', 'deafness', 'hearing impaired']",4
+Show hepatobiliary toxicity of memantine,organ_specific,memantine,hepatobiliary,"['hepatitis', 'hepatic failure', 'hepatitis cholestatic', 'liver function test abnormal', 'hepatic enzyme increased', 'hepatobiliary disease', 'hepatic function abnormal', 'raised liver function tests']",8
+What are the hematological risks of taking memantine?,organ_specific,memantine,hematological,"['thrombocytopenia', 'neutropenia', 'leukopenia', 'pancytopenia']",4
+What gastrointestinal side effects does maraviroc cause?,organ_specific,maraviroc,gastrointestinal,"['vomiting', 'nausea', 'abdominal bloating', 'colitis', 'clostridium difficile colitis', 'abdominal pain upper', 'constipation', 'small intestinal obstruction', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal neoplasm', 'abdominal distension', 'gastrointestinal signs and symptoms nec', 'abdominal pain']",14
+Show immunological toxicity of maraviroc,organ_specific,maraviroc,immunological,"['hypersensitivity', 'vasculitis', 'autoimmune disorder', 'type iv hypersensitivity reaction']",4
+What are the dermatological risks of taking maraviroc?,organ_specific,maraviroc,dermatological,"['dermatitis', 'eczema', 'dermatitis exfoliative', 'pruritus', 'unspecified disorder of skin and subcutaneous tissue', 'benign neoplasm of skin', 'squamous cell carcinoma of skin', 'rash', 'skin disorder', 'alopecia', 'rash generalised']",11
+What are the cardiovascular risks of taking maraviroc?,organ_specific,maraviroc,cardiovascular,"['angina unstable', 'cardiac disorder', 'myocardial ischaemia', 'venous thrombosis', 'peripheral embolism', 'angina pectoris', 'orthostatic hypotension', 'cardiac failure acute', 'portal vein thrombosis', 'myocardial infarction']",10
+List maraviroc's effects on the respiratory system,organ_specific,maraviroc,respiratory,"['upper respiratory tract infection', 'lobar pneumonia', 'bronchospasm', 'bronchopneumonia', 'respiratory tract infection', 'respiratory distress', 'pneumonia bacterial', 'respiratory failure', 'respiratory disorder', 'cough', 'pneumonia', 'respiratory tract infection viral']",12
+What are the ocular risks of taking maraviroc?,organ_specific,maraviroc,ocular,"['glaucoma', 'conjunctivitis', 'cataract']",3
+What are the otic risks of taking maraviroc?,organ_specific,maraviroc,otic,['deafness'],1
+What are the psychiatric risks of taking maraviroc?,organ_specific,maraviroc,psychiatric,"['bone marrow depression', 'hallucination, auditory', 'suicidal ideation', 'hallucination', 'anxiety', 'anxiety symptoms nos', 'depression', 'insomnia']",8
+Find all endocrine adverse events from maraviroc,organ_specific,maraviroc,endocrine,['diabetes mellitus'],1
+What are the neurological risks of taking maraviroc?,organ_specific,maraviroc,neurological,"['parkinsonism', 'dizziness', 'headache', 'polyneuropathy', 'dizziness postural', 'facial paralysis', 'viith nerve paralysis', 'tremor', 'neuropathy peripheral']",9
+List maraviroc's effects on the hepatobiliary system,organ_specific,maraviroc,hepatobiliary,"['hepatic cancer metastatic', 'hepatic cirrhosis', 'hepatic failure', 'jaundice cholestatic', 'hepatitis toxic', 'hepatotoxicity', 'jaundice', 'hepatobiliary disease', 'metastases to liver']",9
+What are the renal risks of taking maraviroc?,organ_specific,maraviroc,renal,"['proteinuria', 'urinary tract disorder', 'urinary tract signs and symptoms', 'renal failure acute', 'urinary abnormalities', 'oliguria', 'renal failure']",7
+What are the hematological risks of taking maraviroc?,organ_specific,maraviroc,hematological,"['neutropenia', 'leukopenia', 'pancytopenia']",3
+What are the musculoskeletal risks of taking maraviroc?,organ_specific,maraviroc,musculoskeletal,"['joint related signs and symptoms', 'rhabdomyolysis', 'bone cancer metastatic', 'myalgia', 'muscle atrophy']",5
+List omeprazole's effects on the gastrointestinal system,organ_specific,omeprazole,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'constipation aggravated', 'functional gastrointestinal disorder', 'epigastric pain', 'abdominal pain upper', 'gastritis', 'constipation', 'gastric polyps', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'gastrointestinal candidiasis', 'colitis microscopic', 'abdominal pain', 'gastrointestinal haemorrhage']",17
+What dermatological side effects does omeprazole cause?,organ_specific,omeprazole,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'pruritus genital', 'rash erythematous', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin disorder', 'alopecia', 'pain of skin', 'dry skin', 'photosensitivity', 'photosensitivity reaction', 'anal pruritus', 'rash maculo-papular']",15
+List omeprazole's effects on the immunological system,organ_specific,omeprazole,immunological,"['hypersensitivity', 'allergic cutaneous angiitis', 'anaphylactic shock', 'leukocytoclastic vasculitis']",4
+What are the cardiovascular risks of taking omeprazole?,organ_specific,omeprazole,cardiovascular,"['bradycardia', 'angina pectoris', 'hypertension', 'tachycardia', 'palpitations']",5
+What are the psychiatric risks of taking omeprazole?,organ_specific,omeprazole,psychiatric,"['agitation', 'anxiety', 'hallucination', 'depression aggravated', 'depression', 'insomnia', 'confusional state']",7
+List omeprazole's effects on the musculoskeletal system,organ_specific,omeprazole,musculoskeletal,"['fibromyalgia', 'bone disorder', 'polymyalgia rheumatica', 'fracture', 'cramp muscle', 'myalgia', 'multiple fractures', 'muscle spasms', 'arthralgia']",9
+What respiratory side effects does omeprazole cause?,organ_specific,omeprazole,respiratory,"['upper respiratory tract infection', 'bronchospasm', 'asthma', 'asthma aggravated', 'cough']",5
+Find all ocular adverse events from omeprazole,organ_specific,omeprazole,ocular,"['optic neuritis', 'vision blurred', 'abnormal vision', 'diplopia', 'optic atrophy', 'conjunctivitis']",6
+Find all neurological adverse events from omeprazole,organ_specific,omeprazole,neurological,"['dizziness', 'migraine aggravated', 'headache', 'migraine', 'vertigo', 'anterior ischemic optic neuropathy', 'tremor', 'optic ischaemic neuropathy']",8
+Find all hepatobiliary adverse events from omeprazole,organ_specific,omeprazole,hepatobiliary,"['hepatocellular injury', 'liver disorder', 'hepatitis', 'hepatic failure', 'hepatic necrosis', 'elevated liver enzyme levels', 'hepatic enzyme increased', 'hepatobiliary disease', 'jaundice', 'foetor hepaticus', 'hepatic function abnormal', 'hepatic encephalopathy']",12
+List omeprazole's effects on the hematological system,organ_specific,omeprazole,hematological,"['thrombocytopenia', 'neutropenia', 'leukopenia', 'pancytopenia']",4
+What renal side effects does omeprazole cause?,organ_specific,omeprazole,renal,"['proteinuria', 'urinary tract disorder', 'cystitis', 'renal impairment', 'urinary tract infection', 'nephrosis', 'creatinine increased', 'blood creatinine increased', 'cystitis noninfective', 'renal failure', 'nephrotic syndrome']",11
+Find all otic adverse events from omeprazole,organ_specific,omeprazole,otic,['tinnitus'],1
+Show gastrointestinal toxicity of thalidomide,organ_specific,thalidomide,gastrointestinal,"['vomiting', 'dyspepsia', 'intestinal obstruction', 'nausea', 'colitis', 'gastrointestinal perforation', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'intestinal perforation', 'abdominal pain', 'gastrointestinal haemorrhage', 'gastric ulcer']",14
+Find all immunological adverse events from thalidomide,organ_specific,thalidomide,immunological,"['hypersensitivity', 'autoimmune disorder']",2
+What are the dermatological risks of taking thalidomide?,organ_specific,thalidomide,dermatological,"['skin ulcer', 'vesiculobullous rash', 'seborrhoeic dermatitis', 'photosensitivity reaction', 'dry skin', 'dermatitis', 'eczema', 'pruritus', 'urticaria', 'skin necrosis', 'unspecified disorder of skin and subcutaneous tissue', 'dyskinesia', 'dermatitis bullous', 'skin discolouration', 'benign neoplasm of skin', 'skin exfoliation', 'skin disorder', 'photosensitivity', 'fungal skin infection', 'dermatitis exfoliative', 'rash', 'toxic skin eruption', 'alopecia', 'rash maculo-papular', 'rash pustular', 'psoriasis']",26
+What cardiovascular side effects does thalidomide cause?,organ_specific,thalidomide,cardiovascular,"['hypotension', 'thromboembolism', 'myocardial ischaemia', 'cardiac arrest', 'cardiac failure', 'thrombosis', 'arterial thromboembolism', 'cardiac disorder', 'embolism', 'pulmonary embolism', 'palpitations', 'sinus bradycardia', 'myocardial infarction', 'embolism arterial', 'tachycardia', 'hypertension', 'bradycardia', 'orthostatic hypotension', 'arterial thrombosis', 'venous thrombosis', 'angina pectoris', 'cardiac failure congestive', 'embolism venous', 'arrhythmia', 'deep vein thrombosis']",25
+List thalidomide's effects on the psychiatric system,organ_specific,thalidomide,psychiatric,"['agitation', 'anxiety', 'anxiety depression', 'depression', 'insomnia', 'confusional state']",6
+What musculoskeletal side effects does thalidomide cause?,organ_specific,thalidomide,musculoskeletal,"['bone disorder', 'cramp muscle', 'bone tenderness', 'myalgia', 'bone pain', 'muscle spasms', 'arthralgia']",7
+What neurological side effects does thalidomide cause?,organ_specific,thalidomide,neurological,"['parkinsonism', 'dizziness', 'ataxia', 'headache', 'migraine', ""parkinson's disease"", 'vertigo', 'polyneuropathy', 'peripheral sensory neuropathy', 'tremor', 'neuropathy peripheral', 'neuropathy']",12
+What respiratory side effects does thalidomide cause?,organ_specific,thalidomide,respiratory,"['upper respiratory tract infection', 'bronchospasm', 'bronchopneumonia', 'bronchopneumopathy', 'pleural effusion', 'pneumocystis jirovecii pneumonia', 'cough', 'pneumonia', 'pulmonary oedema']",9
+What hepatobiliary side effects does thalidomide cause?,organ_specific,thalidomide,hepatobiliary,"['liver disorder', 'hepatitis', 'hepatocellular injury', 'hepatomegaly', 'jaundice cholestatic', 'liver function test abnormal', 'foetor hepaticus', 'cholestasis', 'raised liver function tests']",9
+Find all ocular adverse events from thalidomide,organ_specific,thalidomide,ocular,"['diplopia', 'vision blurred', 'conjunctivitis']",3
+What are the otic risks of taking thalidomide?,organ_specific,thalidomide,otic,"['deafness', 'hearing impaired', 'tinnitus']",3
+Find all endocrine adverse events from thalidomide,organ_specific,thalidomide,endocrine,"['hypothyroidism', 'hormone level abnormal', 'diabetes mellitus', 'inappropriate antidiuretic hormone secretion']",4
+What are the renal risks of taking thalidomide?,organ_specific,thalidomide,renal,"['proteinuria', 'urinary tract disorder', 'creatinine low', 'blood creatinine decreased', 'creatinine increased', 'serum creatinine increased', 'blood creatinine increased', 'renal failure acute', 'oliguria', 'renal failure']",10
+List thalidomide's effects on the hematological system,organ_specific,thalidomide,hematological,"['febrile neutropenia', 'neutropenia', 'thrombocytopenia', 'leukopenia', 'pancytopenia']",5
+Find all gastrointestinal adverse events from estrofem,organ_specific,estrofem,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'abdominal bloating', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain']",8
+List estrofem's effects on the dermatological system,organ_specific,estrofem,dermatological,"['dermatitis', 'pruritus', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin disorder', 'alopecia']",7
+What are the immunological risks of taking estrofem?,organ_specific,estrofem,immunological,"['hypersensitivity', 'anaphylactic shock']",2
+What are the respiratory risks of taking estrofem?,organ_specific,estrofem,respiratory,['asthma'],1
+What psychiatric side effects does estrofem cause?,organ_specific,estrofem,psychiatric,"['depression', 'insomnia']",2
+What neurological side effects does estrofem cause?,organ_specific,estrofem,neurological,"['dizziness', 'headache', 'migraine']",3
+What are the hepatobiliary risks of taking estrofem?,organ_specific,estrofem,hepatobiliary,"['gallbladder disorder', 'hepatobiliary disease']",2
+What cardiovascular side effects does estrofem cause?,organ_specific,estrofem,cardiovascular,"['venous thromboembolism', 'myocardial infarction', 'pulmonary embolism', 'pelvic venous thrombosis', 'cardiac failure congestive', 'embolism venous', 'deep vein thrombosis']",7
+Find all musculoskeletal adverse events from estrofem,organ_specific,estrofem,musculoskeletal,['muscle spasms'],1
+Find all ocular adverse events from estrofem,organ_specific,estrofem,ocular,['abnormal vision'],1
+Show gastrointestinal toxicity of fenofibrate,organ_specific,fenofibrate,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'colitis', 'epigastric distress', 'gastritis', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",10
+Find all dermatological adverse events from fenofibrate,organ_specific,fenofibrate,dermatological,"['dermatitis', 'eczema', 'fungal skin infection', 'pruritus', 'urticaria', 'skin ulcer', 'dermatitis atopic', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'skin disorder', 'dermatitis contact', 'alopecia', 'photosensitivity reaction', 'photosensitivity', 'rash maculo-papular', 'dermatitis bullous']",16
+What cardiovascular side effects does fenofibrate cause?,organ_specific,fenofibrate,cardiovascular,"['cardiac disorder', 'hypotension', 'thromboembolism', 'cardiovascular disorder', 'venous thromboembolism', 'embolism', 'pulmonary embolism', 'tachycardia', 'angina pectoris', 'hypertension', 'palpitations', 'deep vein thrombosis', 'embolism venous', 'arrhythmia', 'myocardial infarction']",15
+Show psychiatric toxicity of fenofibrate,organ_specific,fenofibrate,psychiatric,"['anxiety', 'insomnia']",2
+List fenofibrate's effects on the musculoskeletal system,organ_specific,fenofibrate,musculoskeletal,"['bone disorder', 'rhabdomyolysis', 'cramp muscle', 'myalgia', 'muscle spasms', 'arthralgia']",6
+List fenofibrate's effects on the respiratory system,organ_specific,fenofibrate,respiratory,"['upper respiratory tract infection', 'cough increased', 'asthma', 'pulmonary alveolitis', 'cough', 'pneumonia']",6
+What renal side effects does fenofibrate cause?,organ_specific,fenofibrate,renal,"['cystitis', 'cholecystitis', 'renal impairment', 'urinary tract infection', 'creatinine increased', 'serum creatinine increased', 'blood creatinine increased', 'cystitis noninfective', 'kidney function abnormal', 'renal failure acute', 'calculus urinary', 'plasma creatinine increased', 'renal failure']",13
+List fenofibrate's effects on the ocular system,organ_specific,fenofibrate,ocular,"['abnormal vision', 'cataract specified', 'conjunctivitis', 'cataract']",4
+Find all neurological adverse events from fenofibrate,organ_specific,fenofibrate,neurological,"['dizziness', 'headache', 'migraine', 'vertigo']",4
+List fenofibrate's effects on the hepatobiliary system,organ_specific,fenofibrate,hepatobiliary,"['liver fatty deposition', 'hepatitis', 'liver function test abnormal', 'hepatic steatosis', 'hepatic enzyme increased', 'hepatobiliary disease', 'jaundice', 'raised liver function tests']",8
+What are the immunological risks of taking fenofibrate?,organ_specific,fenofibrate,immunological,"['hypersensitivity', 'cutaneous hypersensitivity']",2
+Show hematological toxicity of fenofibrate,organ_specific,fenofibrate,hematological,"['thrombocytopenia', 'leukopenia']",2
+List nedocromil's effects on the gastrointestinal system,organ_specific,nedocromil,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'upper gastrointestinal symptoms', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",7
+Find all immunological adverse events from nedocromil,organ_specific,nedocromil,immunological,"['hypersensitivity', 'anaphylactic shock']",2
+Find all ocular adverse events from nedocromil,organ_specific,nedocromil,ocular,['conjunctivitis'],1
+List nedocromil's effects on the respiratory system,organ_specific,nedocromil,respiratory,"['upper respiratory tract infection', 'pneumonia', 'pulmonary eosinophilia', 'cough', 'cough increased']",5
+What are the neurological risks of taking nedocromil?,organ_specific,nedocromil,neurological,"['dizziness', 'headache', 'tremor']",3
+What are the dermatological risks of taking nedocromil?,organ_specific,nedocromil,dermatological,"['dermatitis', 'eczema', 'urticaria', 'rash erythematous', 'rash']",5
+What are the hematological risks of taking nedocromil?,organ_specific,nedocromil,hematological,['leukopenia'],1
+Show immunological toxicity of hmdp,organ_specific,hmdp,immunological,['hypersensitivity'],1
+List hmdp's effects on the gastrointestinal system,organ_specific,hmdp,gastrointestinal,"['vomiting', 'nausea']",2
+What respiratory side effects does penbutolol cause?,organ_specific,penbutolol,respiratory,"['upper respiratory tract infection', 'cough', 'respiratory distress']",3
+Find all psychiatric adverse events from penbutolol,organ_specific,penbutolol,psychiatric,"['depression', 'insomnia']",2
+What are the neurological risks of taking penbutolol?,organ_specific,penbutolol,neurological,"['dizziness', 'headache']",2
+What gastrointestinal side effects does penbutolol cause?,organ_specific,penbutolol,gastrointestinal,"['dyspepsia', 'colitis ischaemic', 'nausea']",3
+List penbutolol's effects on the cardiovascular system,organ_specific,penbutolol,cardiovascular,"['arterial thrombosis', 'bradycardia']",2
+List penbutolol's effects on the dermatological system,organ_specific,penbutolol,dermatological,"['alopecia reversible', 'alopecia', 'rash erythematous']",3
+What gastrointestinal side effects does nitazoxanide cause?,organ_specific,nitazoxanide,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'constipation', 'gastrointestinal pain', 'abdominal pain']",6
+Find all neurological adverse events from nitazoxanide,organ_specific,nitazoxanide,neurological,"['dizziness', 'headache', 'tremor']",3
+What dermatological side effects does nitazoxanide cause?,organ_specific,nitazoxanide,dermatological,"['dermatitis', 'pruritus', 'rash']",3
+Find all immunological adverse events from nitazoxanide,organ_specific,nitazoxanide,immunological,['hypersensitivity'],1
+Find all cardiovascular adverse events from nitazoxanide,organ_specific,nitazoxanide,cardiovascular,"['hypertension', 'tachycardia']",2
+What musculoskeletal side effects does nitazoxanide cause?,organ_specific,nitazoxanide,musculoskeletal,"['myalgia', 'muscle spasms']",2
+Show renal toxicity of nitazoxanide,organ_specific,nitazoxanide,renal,"['blood creatinine increased', 'renal pain', 'creatinine increased']",3
+List nitazoxanide's effects on the psychiatric system,organ_specific,nitazoxanide,psychiatric,['insomnia'],1
+What are the gastrointestinal risks of taking bupropion?,organ_specific,bupropion,gastrointestinal,"['vomiting', 'abdominal pain upper', 'gastrointestinal discomfort', 'constipation', 'gastrointestinal haemorrhage', 'epigastric discomfort', 'gastric ulcer', 'gastric ph decreased', 'colitis', 'gastric irritation', 'gastritis', 'nausea', 'intestinal perforation', 'gastritis viral', 'abdominal pain lower', 'dyspepsia', 'gastrointestinal disorder', 'abdominal distension', 'abdominal discomfort', 'gastrointestinal pain', 'abdominal pain']",21
+What are the dermatological risks of taking bupropion?,organ_specific,bupropion,dermatological,"['genital rash', 'photosensitivity reaction', 'dry skin', 'skin odour abnormal', 'dermatitis', 'eczema', 'pruritus', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'dyskinesia', 'skin laceration', 'skin irritation', 'rash erythematous', 'dermatitis atopic', 'skin disorder', 'photosensitivity', 'tardive dyskinesia', 'dermatitis exfoliative', 'rash', 'alopecia', 'rash maculo-papular', 'pruritus generalised']",22
+Find all immunological adverse events from bupropion,organ_specific,bupropion,immunological,"['hypersensitivity', 'anaphylactic shock', 'drug hypersensitivity', 'type iv hypersensitivity reaction']",4
+Find all psychiatric adverse events from bupropion,organ_specific,bupropion,psychiatric,"['terminal insomnia', 'delirium', 'bipolar disorder', 'agitation', 'manic psychosis', 'hallucination, auditory', 'suicidal ideation', 'anxiety', 'hallucination', 'initial insomnia', 'middle insomnia', 'bipolar i disorder', 'mania', 'trichotillomania', 'hypomania', 'insomnia', 'confusional state']",17
+What cardiovascular side effects does bupropion cause?,organ_specific,bupropion,cardiovascular,"['heart rate irregular', 'cardiac disorder', 'hypotension', 'cardiovascular disorder', 'pulmonary embolism', 'tachycardia', 'hypertension', 'supraventricular tachycardia', 'orthostatic hypotension', 'palpitations', 'cardiac flutter', 'arrhythmia', 'myocardial infarction']",13
+What musculoskeletal side effects does bupropion cause?,organ_specific,bupropion,musculoskeletal,"['joint swelling', 'muscle strain', 'cramp muscle', 'wrist fracture', 'tendonitis', 'muscle spasms', 'muscle relaxant therapy', 'rhabdomyolysis', 'tendon disorder', 'muscle tightness', 'arthralgia', 'joint injury', 'joint sprain', 'injection site joint pain', 'muscle rigidity', 'muscle contractions involuntary', 'muscle twitching', 'facial bones fracture', 'lower limb fracture', 'osteoporosis', 'myalgia', 'joint stiffness']",22
+List bupropion's effects on the respiratory system,organ_specific,bupropion,respiratory,"['upper respiratory tract infection', 'respiratory tract congestion', 'bronchospasm', 'cough increased', 'respiratory tract infection', 'asthma', 'viral upper respiratory tract infection', 'respiratory sighs', 'cough', 'pneumonia', 'pulmonary congestion']",11
+What are the neurological risks of taking bupropion?,organ_specific,bupropion,neurological,"['parkinsonism', 'dizziness', 'ataxia', 'headache', 'migraine', 'neuropathy peripheral', 'pseudoparkinsonism', 'sinus headache', 'vertigo', 'neurological examination abnormal', 'tremor', 'tension headache', 'neuropathy']",13
+What ocular side effects does bupropion cause?,organ_specific,bupropion,ocular,"['conjunctivitis infective', 'vision blurred', 'keratoconjunctivitis sicca', 'diplopia', 'conjunctivitis', 'angle closure glaucoma']",6
+What are the renal risks of taking bupropion?,organ_specific,bupropion,renal,"['urinary tract disorder', 'cystitis', 'urinary retention', 'renal pain', 'urinary incontinence', 'urinary tract infection', 'cystitis noninfective']",7
+What otic side effects does bupropion cause?,organ_specific,bupropion,otic,"['deafness', 'hearing impaired', 'tinnitus']",3
+Find all hematological adverse events from bupropion,organ_specific,bupropion,hematological,"['thrombocytopenia', 'gingival bleeding', 'leukopenia', 'pancytopenia']",4
+Find all hepatobiliary adverse events from bupropion,organ_specific,bupropion,hepatobiliary,"['hepatocellular injury', 'hepatitis', 'hepatic enzyme increased', 'liver injury', 'hepatotoxicity', 'hepatitis c', 'jaundice', 'hepatic function abnormal']",8
+What are the endocrine risks of taking bupropion?,organ_specific,bupropion,endocrine,['inappropriate antidiuretic hormone secretion'],1
+What are the gastrointestinal risks of taking cancidas?,organ_specific,cancidas,gastrointestinal,"['vomiting', 'dyspepsia', 'nausea', 'abdominal discomfort', 'abdominal pain upper', 'gastritis', 'constipation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain']",11
+List cancidas's effects on the immunological system,organ_specific,cancidas,immunological,"['hypersensitivity', 'vasculitis', 'anaphylactic shock', 'autoimmune disorder']",4
+Show psychiatric toxicity of cancidas,organ_specific,cancidas,psychiatric,"['anxiety', 'insomnia', 'confusional state']",3
+What are the cardiovascular risks of taking cancidas?,organ_specific,cancidas,cardiovascular,"['cardiac disorder', 'hypotension', 'cardiac arrest', 'tachycardia', 'hypertension', 'bradycardia', 'palpitations', 'cardiac failure congestive', 'arrhythmia', 'myocardial infarction']",10
+What are the musculoskeletal risks of taking cancidas?,organ_specific,cancidas,musculoskeletal,"['bone disorder', 'myalgia', 'bone pain', 'arthralgia']",4
+What are the respiratory risks of taking cancidas?,organ_specific,cancidas,respiratory,"['bronchospasm', 'acute respiratory distress syndrome', 'respiratory distress', 'pleural effusion', 'respiratory failure', 'cough', 'pneumonia', 'pulmonary oedema']",8
+Show hepatobiliary toxicity of cancidas,organ_specific,cancidas,hepatobiliary,"['liver disorder', 'hepatitis', 'hepatocellular injury', 'hepatic failure', 'hepatic necrosis', 'elevated liver enzyme levels', 'hepatomegaly', 'hepatic enzyme increased', 'hepatotoxicity', 'hepatobiliary disease', 'jaundice', 'foetor hepaticus', 'cholestasis', 'hepatic function abnormal']",14
+List cancidas's effects on the dermatological system,organ_specific,cancidas,dermatological,"['dermatitis', 'pruritus', 'infusion site urticaria', 'skin lesion', 'urticaria', 'rash erythematous', 'dermatitis atopic', 'infusion site pruritus', 'unspecified disorder of skin and subcutaneous tissue', 'rash', 'rash macular', 'rash morbilliform', 'skin exfoliation', 'infusion site rash', 'skin disorder', 'rash maculo-papular', 'rash generalised', 'pruritus generalised']",18
+What are the neurological risks of taking cancidas?,organ_specific,cancidas,neurological,"['dizziness', 'headache', 'tremor']",3
+What renal side effects does cancidas cause?,organ_specific,cancidas,renal,"['urinary tract disorder', 'renal impairment', 'urinary tract infection', 'urinary protein increased', 'serum creatinine increased', 'blood creatinine increased', 'renal failure acute', 'nephropathy toxic', 'renal failure', 'nephrotoxicity']",10
+What hematological side effects does cancidas cause?,organ_specific,cancidas,hematological,"['febrile neutropenia', 'neutropenia', 'thrombocytopenia']",3
+Find all ocular adverse events from cancidas,organ_specific,cancidas,ocular,['vision blurred'],1
+Find all endocrine adverse events from cancidas,organ_specific,cancidas,endocrine,"['blood glucose increased', 'glucose increased']",2

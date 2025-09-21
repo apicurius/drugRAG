@@ -1,0 +1,9 @@
+SIDER Dataset Processing Statistics
+========================================
+total_evaluation_pairs: 19520
+unique_drugs: 976
+unique_side_effects: 3860
+positive_pairs: 9760
+negative_pairs: 9760
+format_a_entries: 976
+format_b_entries: 122601

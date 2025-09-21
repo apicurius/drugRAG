@@ -1,0 +1,14 @@
+{
+  "enhanced_format_b_qwen_organ_specific": {
+    "architecture": "enhanced_format_b_qwen",
+    "query_type": "organ_specific",
+    "total_queries": 5,
+    "total_time": 2.157043218612671,
+    "throughput_qps": 2.317987862670555,
+    "avg_precision": 0.0,
+    "avg_recall": 0.0,
+    "avg_f1": 0.0,
+    "std_f1": 0.0,
+    "avg_confidence": 0.3
+  }
+}

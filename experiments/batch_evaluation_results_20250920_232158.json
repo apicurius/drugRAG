@@ -1,0 +1,26 @@
+{
+  "timestamp": "20250920_232158",
+  "config": {
+    "batch_size": 100,
+    "max_workers": 8,
+    "gpu_count": 4,
+    "tensor_parallel_size": 4
+  },
+  "results": {
+    "enhanced_format_b_qwen": {
+      "organ_specific": {
+        "total_queries": 25,
+        "avg_precision": 0.0,
+        "avg_recall": 0.0,
+        "avg_f1_score": 0.0,
+        "std_f1_score": 0.0,
+        "query_success_rate": 0.0,
+        "avg_elapsed_time": 2.639731845855713,
+        "total_time": 65.99329614639282,
+        "throughput_qps": 0.3788263575218692,
+        "avg_confidence": 0.32400000000000007,
+        "speedup": 1.0
+      }
+    }
+  }
+}

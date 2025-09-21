@@ -1,0 +1,454 @@
+query,query_type,drug,severity_filter,organ_filter,ground_truth,num_results
+What severe musculoskeletal side effects does ziconotide cause?,combination,ziconotide,severe,musculoskeletal,['rhabdomyolysis'],1
+List moderate adverse events of ziconotide affecting the gastrointestinal system,combination,ziconotide,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal pain upper', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",6
+List moderate adverse events of ziconotide affecting the psychiatric system,combination,ziconotide,moderate,psychiatric,"['confusion aggravated', 'delirium', 'anxiety aggravated', 'hallucination, auditory', 'agitation', 'suicidal ideation', 'hallucination', 'anxiety', 'depression aggravated', 'depression', 'hallucination, visual', 'confusional state']",12
+Show musculoskeletal toxicities of ziconotide with moderate severity,combination,ziconotide,moderate,musculoskeletal,"['muscle twitching', 'cramp muscle', 'myalgia', 'muscle spasms', 'arthralgia']",5
+List mild adverse events of ziconotide affecting the gastrointestinal system,combination,ziconotide,mild,gastrointestinal,"['nausea', 'constipation', 'nausea aggravated']",3
+Show psychiatric toxicities of ziconotide with mild severity,combination,ziconotide,mild,psychiatric,['insomnia'],1
+Show neurological toxicities of isocarboxazid with moderate severity,combination,isocarboxazid,moderate,neurological,"['neuropathy peripheral', 'ataxia', 'tremor']",3
+Show psychiatric toxicities of isocarboxazid with moderate severity,combination,isocarboxazid,moderate,psychiatric,"['hallucination', 'agitation']",2
+List mild adverse events of isocarboxazid affecting the neurological system,combination,isocarboxazid,mild,neurological,"['dizziness', 'headache']",2
+List mild adverse events of isocarboxazid affecting the gastrointestinal system,combination,isocarboxazid,mild,gastrointestinal,"['nausea', 'constipation']",2
+List moderate adverse events of pyrimethamine affecting the immunological system,combination,pyrimethamine,moderate,immunological,['hypersensitivity'],1
+What moderate hematological side effects does pyrimethamine cause?,combination,pyrimethamine,moderate,hematological,"['thrombocytopenia', 'pancytopenia', 'leukopenia']",3
+What moderate respiratory side effects does pyrimethamine cause?,combination,pyrimethamine,moderate,respiratory,['pulmonary eosinophilia'],1
+What severe cardiovascular side effects does lamotrigine cause?,combination,lamotrigine,severe,cardiovascular,"['cardiac arrest', 'myocardial infarction']",2
+What moderate gastrointestinal side effects does lamotrigine cause?,combination,lamotrigine,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'enterocolitis haemorrhagic', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'hemorrhagic colitis', 'abdominal distension', 'abdominal pain', 'gastrointestinal haemorrhage', 'gastric ulcer']",11
+What moderate dermatological side effects does lamotrigine cause?,combination,lamotrigine,moderate,dermatological,"['dermatitis', 'eczema', 'fungal skin infection', 'urticaria', 'dermatitis exfoliative', 'skin ulcer', 'skin discolouration', 'dyskinesia', 'seborrhoeic dermatitis', 'photosensitivity reaction', 'dry skin', 'photosensitivity', 'dermatitis contact', 'alopecia', 'dermatitis bullous']",15
+What moderate cardiovascular side effects does lamotrigine cause?,combination,lamotrigine,moderate,cardiovascular,"['angina pectoris', 'hypertension', 'orthostatic hypotension', 'palpitations', 'cardiac failure', 'thrombosis']",6
+What mild gastrointestinal side effects does lamotrigine cause?,combination,lamotrigine,mild,gastrointestinal,"['nausea', 'constipation']",2
+List mild adverse events of lamotrigine affecting the dermatological system,combination,lamotrigine,mild,dermatological,"['pruritus', 'vesiculobullous rash', 'rash', 'rash maculo-papular', 'rash pustular']",5
+List moderate adverse events of zyprexa affecting the gastrointestinal system,combination,zyprexa,moderate,gastrointestinal,"['vomiting', 'abdominal distension']",2
+Show dermatological toxicities of zyprexa with moderate severity,combination,zyprexa,moderate,dermatological,"['dermatitis', 'tardive dyskinesia', 'urticaria', 'dyskinesia', 'alopecia', 'photosensitivity reaction']",6
+What moderate psychiatric side effects does zyprexa cause?,combination,zyprexa,moderate,psychiatric,"['delirium', 'agitation', 'hallucination', 'anxiety', 'confusional state']",5
+What mild gastrointestinal side effects does zyprexa cause?,combination,zyprexa,mild,gastrointestinal,"['nausea', 'constipation']",2
+What mild dermatological side effects does zyprexa cause?,combination,zyprexa,mild,dermatological,"['pruritus', 'rash']",2
+Show psychiatric toxicities of zyprexa with mild severity,combination,zyprexa,mild,psychiatric,['insomnia'],1
+List moderate adverse events of valdecoxib affecting the gastrointestinal system,combination,valdecoxib,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal bloating', 'intestinal obstruction', 'enterocolitis haemorrhagic', 'gastritis', 'gastrointestinal pain', 'hemorrhagic colitis', 'abdominal distension', 'gastric cancer', 'fullness abdominal', 'diverticulum intestinal', 'abdominal pain', 'gastrointestinal haemorrhage', 'gastric ulcer']",15
+Show dermatological toxicities of valdecoxib with moderate severity,combination,valdecoxib,moderate,dermatological,"['dermatitis', 'fungal skin infection', 'dermatitis exfoliative', 'eczema', 'urticaria', 'skin ulcer', 'photosensitivity allergic reaction', 'skin hypertrophy', 'dermatitis psoriasiform', 'dermatitis contact', 'photosensitivity reaction', 'dry skin', 'alopecia']",13
+Show immunological toxicities of valdecoxib with moderate severity,combination,valdecoxib,moderate,immunological,['hypersensitivity'],1
+What mild gastrointestinal side effects does valdecoxib cause?,combination,valdecoxib,mild,gastrointestinal,"['nausea', 'constipation']",2
+What mild dermatological side effects does valdecoxib cause?,combination,valdecoxib,mild,dermatological,"['pruritus', 'rash psoriaform', 'rash erythematous', 'rash', 'rash maculo-papular']",5
+What moderate dermatological side effects does propylthiouracil cause?,combination,propylthiouracil,moderate,dermatological,"['dermatitis', 'dermatitis exfoliative', 'urticaria', 'skin ulcer', 'pigmentation skin', 'alopecia']",6
+Show musculoskeletal toxicities of propylthiouracil with moderate severity,combination,propylthiouracil,moderate,musculoskeletal,"['myalgia', 'arthralgia']",2
+List moderate adverse events of propylthiouracil affecting the neurological system,combination,propylthiouracil,moderate,neurological,"['neuropathy peripheral', 'vertigo']",2
+What mild dermatological side effects does propylthiouracil cause?,combination,propylthiouracil,mild,dermatological,"['pruritus', 'rash']",2
+List mild adverse events of propylthiouracil affecting the neurological system,combination,propylthiouracil,mild,neurological,['headache'],1
+List moderate adverse events of oxycodone affecting the gastrointestinal system,combination,oxycodone,moderate,gastrointestinal,"['vomiting', 'abdominal cramps', 'dyspepsia', 'intestinal obstruction', 'delayed gastric emptying', 'gastric atony', 'abdominal pain upper', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal colic', 'fullness abdominal', 'abdominal pain', 'impaired gastric emptying']",15
+Show immunological toxicities of oxycodone with moderate severity,combination,oxycodone,moderate,immunological,"['hypersensitivity', 'injection site hypersensitivity']",2
+What moderate psychiatric side effects does oxycodone cause?,combination,oxycodone,moderate,psychiatric,"['delirium', 'agitation', 'hallucination', 'anxiety', 'respiratory depression', 'circulatory depression', 'electrocardiogram st segment depression', 'cns depression nos', 'confusional state']",9
+What mild gastrointestinal side effects does oxycodone cause?,combination,oxycodone,mild,gastrointestinal,"['postoperative constipation', 'nausea', 'post procedural constipation', 'constipation']",4
+List mild adverse events of oxycodone affecting the psychiatric system,combination,oxycodone,mild,psychiatric,['insomnia'],1
+What moderate gastrointestinal side effects does oxazepam cause?,combination,oxazepam,moderate,gastrointestinal,"['abdominal pain', 'gastrointestinal pain']",2
+List moderate adverse events of oxazepam affecting the neurological system,combination,oxazepam,moderate,neurological,"['ataxia', 'vertigo', 'tremor']",3
+List moderate adverse events of oxazepam affecting the ocular system,combination,oxazepam,moderate,ocular,"['diplopia', 'vision blurred']",2
+List mild adverse events of oxazepam affecting the gastrointestinal system,combination,oxazepam,mild,gastrointestinal,['nausea'],1
+What mild neurological side effects does oxazepam cause?,combination,oxazepam,mild,neurological,"['dizziness', 'headache']",2
+What moderate gastrointestinal side effects does zidovudine cause?,combination,zidovudine,moderate,gastrointestinal,"['vomiting', 'abdominal cramps', 'dyspepsia', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",6
+What moderate immunological side effects does zidovudine cause?,combination,zidovudine,moderate,immunological,"['vasculitis', 'autoimmune disorder']",2
+What moderate psychiatric side effects does zidovudine cause?,combination,zidovudine,moderate,psychiatric,"['mania', 'anxiety', 'bone marrow depression', 'confusional state']",4
+What mild gastrointestinal side effects does zidovudine cause?,combination,zidovudine,mild,gastrointestinal,"['nausea', 'constipation']",2
+What mild psychiatric side effects does zidovudine cause?,combination,zidovudine,mild,psychiatric,['insomnia'],1
+What moderate gastrointestinal side effects does lu cause?,combination,lu,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'gastrointestinal disorder']",3
+What moderate neurological side effects does lu cause?,combination,lu,moderate,neurological,['vertigo'],1
+List moderate adverse events of lu affecting the immunological system,combination,lu,moderate,immunological,['hypersensitivity'],1
+List mild adverse events of lu affecting the gastrointestinal system,combination,lu,mild,gastrointestinal,"['nausea', 'constipation']",2
+List mild adverse events of lu affecting the neurological system,combination,lu,mild,neurological,"['dizziness', 'headache']",2
+What moderate gastrointestinal side effects does ibandronate cause?,combination,ibandronate,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal discomfort', 'gastrointestinal tract irritation', 'abdominal pain upper', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",9
+What moderate dermatological side effects does ibandronate cause?,combination,ibandronate,moderate,dermatological,"['dermatitis', 'urticaria', 'dermatitis atopic', 'unspecified disorder of skin and subcutaneous tissue', 'benign neoplasm of skin', 'skin disorder', 'alopecia']",7
+List moderate adverse events of ibandronate affecting the immunological system,combination,ibandronate,moderate,immunological,['hypersensitivity'],1
+What mild gastrointestinal side effects does ibandronate cause?,combination,ibandronate,mild,gastrointestinal,"['nausea', 'constipation']",2
+What mild dermatological side effects does ibandronate cause?,combination,ibandronate,mild,dermatological,"['pruritus', 'rash erythematous', 'rash papular', 'rash macular', 'rash', 'rash generalised']",6
+List moderate adverse events of tolvaptan affecting the immunological system,combination,tolvaptan,moderate,immunological,['hypersensitivity'],1
+List moderate adverse events of tolvaptan affecting the gastrointestinal system,combination,tolvaptan,moderate,gastrointestinal,"['gastrointestinal disorder', 'colitis ischaemic', 'gastrointestinal haemorrhage']",3
+Show hematological toxicities of tolvaptan with moderate severity,combination,tolvaptan,moderate,hematological,['disseminated intravascular coagulation'],1
+List mild adverse events of tolvaptan affecting the gastrointestinal system,combination,tolvaptan,mild,gastrointestinal,"['nausea', 'constipation']",2
+List moderate adverse events of ivermectin affecting the gastrointestinal system,combination,ivermectin,moderate,gastrointestinal,"['vomiting', 'abdominal discomfort', 'abdominal pain upper', 'epigastric pain', 'gastrointestinal pain', 'abdominal distension', 'abdominal pain']",7
+What moderate musculoskeletal side effects does ivermectin cause?,combination,ivermectin,moderate,musculoskeletal,"['myalgia', 'arthralgia']",2
+What moderate respiratory side effects does ivermectin cause?,combination,ivermectin,moderate,respiratory,"['cough', 'asthma']",2
+List mild adverse events of ivermectin affecting the gastrointestinal system,combination,ivermectin,mild,gastrointestinal,"['nausea', 'constipation']",2
+List moderate adverse events of eliglustat affecting the musculoskeletal system,combination,eliglustat,moderate,musculoskeletal,['arthralgia'],1
+List moderate adverse events of eliglustat affecting the gastrointestinal system,combination,eliglustat,moderate,gastrointestinal,"['dyspepsia', 'abdominal pain upper']",2
+What moderate respiratory side effects does eliglustat cause?,combination,eliglustat,moderate,respiratory,['cough'],1
+Show gastrointestinal toxicities of eliglustat with mild severity,combination,eliglustat,mild,gastrointestinal,"['nausea', 'constipation']",2
+List moderate adverse events of fosfomycin affecting the gastrointestinal system,combination,fosfomycin,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal pain', 'gastrointestinal pain']",4
+List moderate adverse events of fosfomycin affecting the respiratory system,combination,fosfomycin,moderate,respiratory,['asthma'],1
+What mild gastrointestinal side effects does fosfomycin cause?,combination,fosfomycin,mild,gastrointestinal,"['nausea', 'constipation']",2
+What moderate gastrointestinal side effects does midodrine cause?,combination,midodrine,moderate,gastrointestinal,"['dyspepsia', 'abdominal discomfort', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain', 'distress gastrointestinal']",6
+List moderate adverse events of midodrine affecting the psychiatric system,combination,midodrine,moderate,psychiatric,"['confusional state', 'anxiety', 'agitation']",3
+List mild adverse events of midodrine affecting the gastrointestinal system,combination,midodrine,mild,gastrointestinal,['nausea'],1
+List mild adverse events of midodrine affecting the psychiatric system,combination,midodrine,mild,psychiatric,['insomnia'],1
+What mild neurological side effects does midodrine cause?,combination,midodrine,mild,neurological,"['dizziness', 'headache']",2
+List severe adverse events of pergolide affecting the cardiovascular system,combination,pergolide,severe,cardiovascular,"['cardiac arrest', 'myocardial infarction']",2
+What moderate gastrointestinal side effects does pergolide cause?,combination,pergolide,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'intestinal obstruction', 'colitis', 'gastritis', 'gastrointestinal pain', 'abdominal distension', 'abdominal pain', 'gastric ulcer']",9
+What moderate dermatological side effects does pergolide cause?,combination,pergolide,moderate,dermatological,"['dermatitis', 'eczema', 'fungal skin infection', 'skin cancer', 'skin carcinoma', 'skin ulcer', 'skin discolouration', 'benign neoplasm of skin', 'dyskinesia', 'skin nodule', 'skin mass', 'seborrhoeic dermatitis', 'alopecia', 'dry skin', 'dermatitis bullous']",15
+What moderate cardiovascular side effects does pergolide cause?,combination,pergolide,moderate,cardiovascular,"['hypotension', 'pulmonary embolism', 'angina pectoris', 'hypertension', 'pulmonary hypertension', 'orthostatic hypotension', 'palpitations', 'cardiac failure congestive', 'arrhythmia', 'block heart']",10
+List mild adverse events of pergolide affecting the gastrointestinal system,combination,pergolide,mild,gastrointestinal,"['nausea', 'constipation']",2
+Show dermatological toxicities of pergolide with mild severity,combination,pergolide,mild,dermatological,"['rash pustular', 'pruritus', 'vesiculobullous rash', 'rash']",4
+What moderate gastrointestinal side effects does canagliflozin cause?,combination,canagliflozin,moderate,gastrointestinal,"['gastrointestinal disorder', 'abdominal pain', 'gastrointestinal pain']",3
+Show renal toxicities of canagliflozin with moderate severity,combination,canagliflozin,moderate,renal,"['urinary tract disorder', 'cystitis', 'urinary tract infection', 'serum creatinine increased', 'blood creatinine increased', 'cystitis noninfective', 'kidney infection', 'renal failure acute']",8
+Show endocrine toxicities of canagliflozin with moderate severity,combination,canagliflozin,moderate,endocrine,"['blood glucose decreased', 'diabetes mellitus', 'glucose low']",3
+Show gastrointestinal toxicities of canagliflozin with mild severity,combination,canagliflozin,mild,gastrointestinal,"['nausea', 'constipation']",2
+List moderate adverse events of lactulose affecting the gastrointestinal system,combination,lactulose,moderate,gastrointestinal,"['vomiting', 'abdominal discomfort', 'intestinal cramps', 'gastrointestinal pain', 'abdominal distension']",5
+List moderate adverse events of lactulose affecting the musculoskeletal system,combination,lactulose,moderate,musculoskeletal,"['cramp muscle', 'muscle spasms']",2
+What mild gastrointestinal side effects does lactulose cause?,combination,lactulose,mild,gastrointestinal,['nausea'],1
+Show dermatological toxicities of retapamulin with moderate severity,combination,retapamulin,moderate,dermatological,"['eczema', 'skin disorder', 'dermatitis contact', 'unspecified disorder of skin and subcutaneous tissue']",4
+Show immunological toxicities of retapamulin with moderate severity,combination,retapamulin,moderate,immunological,['hypersensitivity'],1
+List mild adverse events of retapamulin affecting the dermatological system,combination,retapamulin,mild,dermatological,"['pruritus', 'application site pruritus']",2
+Show neurological toxicities of retapamulin with mild severity,combination,retapamulin,mild,neurological,['headache'],1
+List severe adverse events of sotalol affecting the cardiovascular system,combination,sotalol,severe,cardiovascular,['myocardial infarction'],1
+List moderate adverse events of sotalol affecting the gastrointestinal system,combination,sotalol,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'gastrointestinal pain', 'abdominal distension', 'colitis ischaemic', 'abdominal pain']",6
+Show dermatological toxicities of sotalol with moderate severity,combination,sotalol,moderate,dermatological,"['dermatitis', 'alopecia reversible', 'alopecia', 'photosensitivity reaction']",4
+What moderate cardiovascular side effects does sotalol cause?,combination,sotalol,moderate,cardiovascular,"['proarrhythmia', 'tachyarrhythmia', 'hypotension', 'cardiovascular disorder', 'arterial thrombosis', 'hypertension', 'angina pectoris', 'heartburn', 'palpitations', 'cardiac pain', 'cardiac failure', 'arrhythmia']",12
+What mild gastrointestinal side effects does sotalol cause?,combination,sotalol,mild,gastrointestinal,['nausea'],1
+What mild dermatological side effects does sotalol cause?,combination,sotalol,mild,dermatological,"['pruritus', 'rash']",2
+List moderate adverse events of dolasetron affecting the gastrointestinal system,combination,dolasetron,moderate,gastrointestinal,"['dyspepsia', 'intestinal obstruction', 'gastrointestinal pain', 'abdominal distension', 'abdominal pain']",5
+Show immunological toxicities of dolasetron with moderate severity,combination,dolasetron,moderate,immunological,['hypersensitivity'],1
+List moderate adverse events of dolasetron affecting the psychiatric system,combination,dolasetron,moderate,psychiatric,"['confusional state', 'anxiety', 'agitation']",3
+List mild adverse events of dolasetron affecting the gastrointestinal system,combination,dolasetron,mild,gastrointestinal,['constipation'],1
+List moderate adverse events of progesterone affecting the gastrointestinal system,combination,progesterone,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal discomfort', 'abdominal bloating', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain']",9
+What moderate dermatological side effects does progesterone cause?,combination,progesterone,moderate,dermatological,"['dermatitis', 'urticaria', 'skin papilloma', 'skin discolouration', 'unspecified disorder of skin and subcutaneous tissue', 'skin disorder', 'alopecia', 'seborrhoeic dermatitis', 'dermatitis hemorrhagic']",9
+List moderate adverse events of progesterone affecting the immunological system,combination,progesterone,moderate,immunological,['hypersensitivity'],1
+Show gastrointestinal toxicities of progesterone with mild severity,combination,progesterone,mild,gastrointestinal,"['nausea', 'constipation']",2
+Show dermatological toxicities of progesterone with mild severity,combination,progesterone,mild,dermatological,"['pruritus', 'pruritus genital', 'rash', 'vulvovaginal pruritus', 'rash generalised']",5
+What severe cardiovascular side effects does abiraterone cause?,combination,abiraterone,severe,cardiovascular,['myocardial infarction'],1
+Show cardiovascular toxicities of abiraterone with moderate severity,combination,abiraterone,moderate,cardiovascular,"['cardiac disorder', 'myocardial ischaemia', 'hypertension', 'cardiac failure', 'arrhythmia']",5
+List moderate adverse events of abiraterone affecting the gastrointestinal system,combination,abiraterone,moderate,gastrointestinal,"['vomiting', 'gastrointestinal disorder', 'dyspepsia']",3
+List moderate adverse events of abiraterone affecting the respiratory system,combination,abiraterone,moderate,respiratory,"['upper respiratory tract infection', 'cough', 'pneumonia', 'cardio-respiratory arrest']",4
+What mild gastrointestinal side effects does abiraterone cause?,combination,abiraterone,mild,gastrointestinal,['constipation'],1
+What moderate cardiovascular side effects does vallergan cause?,combination,vallergan,moderate,cardiovascular,"['arrhythmia supraventricular', 'cardiac disorder', 'hypotension', 'orthostatic hypotension', 'atrial arrhythmia', 'arrhythmia', 'cardiac fibrillation']",7
+What moderate dermatological side effects does vallergan cause?,combination,vallergan,moderate,dermatological,"['dermatitis', 'tardive dyskinesia', 'skin sensitisation', 'dyskinesia', 'photosensitivity reaction', 'photosensitivity']",6
+List moderate adverse events of vallergan affecting the hepatobiliary system,combination,vallergan,moderate,hepatobiliary,"['jaundice cholestatic', 'jaundice']",2
+List mild adverse events of vallergan affecting the dermatological system,combination,vallergan,mild,dermatological,['rash'],1
+List moderate adverse events of vandetanib affecting the gastrointestinal system,combination,vandetanib,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal wall abscess', 'colitis', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'small intestinal perforation', 'abdominal pain', 'pneumatosis intestinalis', 'intestinal perforation', 'gastrointestinal haemorrhage']",12
+List moderate adverse events of vandetanib affecting the dermatological system,combination,vandetanib,moderate,dermatological,"['dermatitis', 'skin ulcer', 'unspecified disorder of skin and subcutaneous tissue', 'dermatitis acneiform', 'skin disorder', 'alopecia', 'photosensitivity reaction', 'dry skin', 'dermatitis bullous']",9
+Show renal toxicities of vandetanib with moderate severity,combination,vandetanib,moderate,renal,"['urinary tract disorder', 'cystitis', 'cholecystitis', 'renal colic', 'urinary tract infection', 'creatinine increased', 'serum creatinine increased', 'blood creatinine increased', 'cystitis noninfective', 'nephrolithiasis', 'anuria', 'renal failure', 'nephropathy']",13
+Show gastrointestinal toxicities of vandetanib with mild severity,combination,vandetanib,mild,gastrointestinal,"['nausea', 'constipation']",2
+Show dermatological toxicities of vandetanib with mild severity,combination,vandetanib,mild,dermatological,"['pruritus', 'rash']",2
+What moderate gastrointestinal side effects does venlafaxine cause?,combination,venlafaxine,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'intestinal obstruction', 'gastric ph decreased', 'colitis', 'gastritis', 'gastrointestinal pain', 'abdominal distension', 'gastrointestinal ulcer', 'abdominal pain', 'gastrointestinal haemorrhage']",11
+Show dermatological toxicities of venlafaxine with moderate severity,combination,venlafaxine,moderate,dermatological,"['dermatitis', 'eczema', 'tardive dyskinesia', 'urticaria', 'dermatitis exfoliative', 'skin atrophy', 'skin discolouration', 'dermatitis bullous', 'dyskinesia', 'skin hypertrophy', 'seborrhoeic dermatitis', 'photosensitivity reaction', 'dry skin', 'dermatitis contact', 'alopecia', 'skin striae', 'skin odour abnormal', 'psoriasis']",18
+List moderate adverse events of venlafaxine affecting the immunological system,combination,venlafaxine,moderate,immunological,['hypersensitivity'],1
+Show gastrointestinal toxicities of venlafaxine with mild severity,combination,venlafaxine,mild,gastrointestinal,"['nausea', 'constipation']",2
+List mild adverse events of venlafaxine affecting the dermatological system,combination,venlafaxine,mild,dermatological,"['pruritus', 'vesiculobullous rash', 'rash', 'rash maculo-papular', 'rash pustular']",5
+Show cardiovascular toxicities of iodixanol with severe severity,combination,iodixanol,severe,cardiovascular,"['cardiac arrest', 'myocardial infarction']",2
+What moderate gastrointestinal side effects does iodixanol cause?,combination,iodixanol,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",5
+Show cardiovascular toxicities of iodixanol with moderate severity,combination,iodixanol,moderate,cardiovascular,"['cardiac disorder', 'hypotension', 'myocardial ischaemia', 'ventricular arrhythmia', 'angina pectoris', 'hypertension', 'cardiac failure', 'thrombosis']",8
+What mild gastrointestinal side effects does iodixanol cause?,combination,iodixanol,mild,gastrointestinal,['nausea'],1
+What moderate dermatological side effects does mephenytoin cause?,combination,mephenytoin,moderate,dermatological,"['dermatitis', 'dermatitis exfoliative', 'pigmentation skin', 'alopecia']",4
+Show neurological toxicities of mephenytoin with moderate severity,combination,mephenytoin,moderate,neurological,"['ataxia', 'tremor']",2
+Show psychiatric toxicities of mephenytoin with moderate severity,combination,mephenytoin,moderate,psychiatric,['confusional state'],1
+List mild adverse events of mephenytoin affecting the dermatological system,combination,mephenytoin,mild,dermatological,['rash'],1
+What mild neurological side effects does mephenytoin cause?,combination,mephenytoin,mild,neurological,['dizziness'],1
+Show psychiatric toxicities of mephenytoin with mild severity,combination,mephenytoin,mild,psychiatric,['insomnia'],1
+List moderate adverse events of aclidinium affecting the respiratory system,combination,aclidinium,moderate,respiratory,"['cough', 'cardio-respiratory arrest', 'bronchospasm paradoxical']",3
+What moderate endocrine side effects does aclidinium cause?,combination,aclidinium,moderate,endocrine,['diabetes mellitus'],1
+What moderate gastrointestinal side effects does aclidinium cause?,combination,aclidinium,moderate,gastrointestinal,"['vomiting', 'gastrointestinal disorder']",2
+What severe cardiovascular side effects does formoterol cause?,combination,formoterol,severe,cardiovascular,['myocardial infarction'],1
+Show gastrointestinal toxicities of formoterol with moderate severity,combination,formoterol,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",6
+What moderate immunological side effects does formoterol cause?,combination,formoterol,moderate,immunological,"['hypersensitivity', 'rhinitis allergic']",2
+What moderate cardiovascular side effects does formoterol cause?,combination,formoterol,moderate,cardiovascular,"['cardiac disorder', 'tachyarrhythmia', 'hypotension', 'angina pectoris', 'hypertension', 'palpitations', 'cardiac failure congestive', 'arrhythmia', 'block heart']",9
+Show gastrointestinal toxicities of formoterol with mild severity,combination,formoterol,mild,gastrointestinal,"['nausea', 'constipation']",2
+Show dermatological toxicities of spinosad with moderate severity,combination,spinosad,moderate,dermatological,"['alopecia', 'dry skin']",2
+Show gastrointestinal toxicities of 4-methylpyrazole with moderate severity,combination,4-methylpyrazole,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal pain', 'gastrointestinal pain']",4
+List moderate adverse events of 4-methylpyrazole affecting the renal system,combination,4-methylpyrazole,moderate,renal,['anuria'],1
+What moderate psychiatric side effects does 4-methylpyrazole cause?,combination,4-methylpyrazole,moderate,psychiatric,"['anxiety', 'agitation']",2
+List mild adverse events of 4-methylpyrazole affecting the gastrointestinal system,combination,4-methylpyrazole,mild,gastrointestinal,['nausea'],1
+What moderate dermatological side effects does tadenan cause?,combination,tadenan,moderate,dermatological,"['dermatitis', 'dry skin']",2
+What mild dermatological side effects does tadenan cause?,combination,tadenan,mild,dermatological,"['pruritus', 'rash']",2
+What mild neurological side effects does tadenan cause?,combination,tadenan,mild,neurological,['headache'],1
+Show gastrointestinal toxicities of trisequens with moderate severity,combination,trisequens,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal discomfort', 'abdominal bloating', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain']",8
+List moderate adverse events of trisequens affecting the dermatological system,combination,trisequens,moderate,dermatological,"['dermatitis', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'skin disorder', 'seborrhoeic dermatitis', 'alopecia']",6
+What moderate immunological side effects does trisequens cause?,combination,trisequens,moderate,immunological,['hypersensitivity'],1
+List mild adverse events of trisequens affecting the gastrointestinal system,combination,trisequens,mild,gastrointestinal,['nausea'],1
+List mild adverse events of trisequens affecting the dermatological system,combination,trisequens,mild,dermatological,"['pruritus', 'rash', 'vulvovaginal pruritus']",3
+List moderate adverse events of terbinafine affecting the gastrointestinal system,combination,terbinafine,moderate,gastrointestinal,"['vomiting', 'abdominal cramps', 'abdominal discomfort', 'dyspepsia', 'abdominal pain upper', 'gastritis', 'gastrointestinal symptom nos', 'gastrointestinal pain', 'gastrointestinal disorder', 'vasculitis gastrointestinal', 'abdominal pain']",11
+List moderate adverse events of terbinafine affecting the dermatological system,combination,terbinafine,moderate,dermatological,"['photosensitivity reaction', 'dermatitis', 'eczema', 'urticaria', 'photosensitivity allergic reaction', 'unspecified disorder of skin and subcutaneous tissue', 'dermatitis psoriasiform', 'dermatitis bullous', 'skin discolouration', 'skin hyperpigmentation', 'skin exfoliation', 'skin disorder', 'photosensitivity', 'dermatitis exfoliative', 'psoriasis flare-up', 'toxic skin eruption', 'dermatitis contact', 'alopecia', 'psoriasis']",19
+Show immunological toxicities of terbinafine with moderate severity,combination,terbinafine,moderate,immunological,"['hypersensitivity', 'vasculitis', 'lupus erythematosus', 'systemic lupus erythematosus']",4
+What mild gastrointestinal side effects does terbinafine cause?,combination,terbinafine,mild,gastrointestinal,['nausea'],1
+What mild dermatological side effects does terbinafine cause?,combination,terbinafine,mild,dermatological,"['pruritus', 'rash generalised', 'rash', 'rash erythematous']",4
+List moderate adverse events of gemfibrozil affecting the gastrointestinal system,combination,gemfibrozil,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'colitis', 'abdominal pain upper', 'epigastric pain', 'gastrointestinal pain', 'gastrointestinal disorder', 'reaction gastrointestinal', 'abdominal pain']",9
+Show dermatological toxicities of gemfibrozil with moderate severity,combination,gemfibrozil,moderate,dermatological,"['dermatitis', 'eczema', 'dermatitis exfoliative', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'skin disorder', 'alopecia', 'photosensitivity', 'photosensitivity reaction']",9
+Show immunological toxicities of gemfibrozil with moderate severity,combination,gemfibrozil,moderate,immunological,"['vasculitis', 'lupus-like syndrome']",2
+List mild adverse events of gemfibrozil affecting the gastrointestinal system,combination,gemfibrozil,mild,gastrointestinal,"['nausea', 'constipation']",2
+List mild adverse events of gemfibrozil affecting the dermatological system,combination,gemfibrozil,mild,dermatological,"['pruritus', 'rash']",2
+List moderate adverse events of trimethoprim affecting the gastrointestinal system,combination,trimethoprim,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'pseudomembranous colitis', 'gastrointestinal pain', 'gastrointestinal disorder', 'reaction gastrointestinal', 'abdominal pain', 'epigastric distress']",8
+List moderate adverse events of trimethoprim affecting the immunological system,combination,trimethoprim,moderate,immunological,"['hypersensitivity', 'allergic cutaneous angiitis', 'leukocytoclastic vasculitis']",3
+Show psychiatric toxicities of trimethoprim with moderate severity,combination,trimethoprim,moderate,psychiatric,"['bone marrow depression', 'agitation', 'hallucination', 'anxiety', 'depression', 'confusional state']",6
+List mild adverse events of trimethoprim affecting the gastrointestinal system,combination,trimethoprim,mild,gastrointestinal,"['nausea', 'constipation']",2
+List mild adverse events of trimethoprim affecting the psychiatric system,combination,trimethoprim,mild,psychiatric,['insomnia'],1
+List moderate adverse events of nortriptyline affecting the gastrointestinal system,combination,nortriptyline,moderate,gastrointestinal,"['vomiting', 'abdominal cramps', 'dyspepsia', 'abdominal pain', 'epigastric distress']",5
+What moderate dermatological side effects does nortriptyline cause?,combination,nortriptyline,moderate,dermatological,"['dermatitis', 'yellow skin', 'urticaria', 'dermatitis atopic', 'alopecia']",5
+What moderate psychiatric side effects does nortriptyline cause?,combination,nortriptyline,moderate,psychiatric,"['delirium', 'bone marrow depression', 'agitation', 'suicidal ideation', 'hallucination', 'anxiety', 'mania', 'hypomania', 'confusional state']",9
+What mild gastrointestinal side effects does nortriptyline cause?,combination,nortriptyline,mild,gastrointestinal,"['nausea', 'constipation']",2
+List mild adverse events of nortriptyline affecting the dermatological system,combination,nortriptyline,mild,dermatological,"['pruritus', 'rash']",2
+What mild psychiatric side effects does nortriptyline cause?,combination,nortriptyline,mild,psychiatric,['insomnia'],1
+Show dermatological toxicities of clomiphene with moderate severity,combination,clomiphene,moderate,dermatological,"['dermatitis', 'urticaria', 'alopecia', 'dermatitis atopic']",4
+Show psychiatric toxicities of clomiphene with moderate severity,combination,clomiphene,moderate,psychiatric,['anxiety'],1
+List moderate adverse events of clomiphene affecting the cardiovascular system,combination,clomiphene,moderate,cardiovascular,"['arrhythmia', 'embolism', 'pulmonary embolism', 'hypertension', 'heart malformation', 'palpitations', 'thrombosis', 'heart disease congenital']",8
+Show dermatological toxicities of clomiphene with mild severity,combination,clomiphene,mild,dermatological,"['pruritus', 'rash']",2
+List mild adverse events of clomiphene affecting the psychiatric system,combination,clomiphene,mild,psychiatric,['insomnia'],1
+What moderate gastrointestinal side effects does ketoconazole cause?,combination,ketoconazole,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal pain upper', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",6
+Show dermatological toxicities of ketoconazole with moderate severity,combination,ketoconazole,moderate,dermatological,"['skin irritation', 'dermatitis', 'dermatitis exfoliative', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'skin burning sensation', 'skin disorder', 'seborrhoeic dermatitis', 'photosensitivity', 'dry skin', 'photosensitivity reaction', 'dermatitis contact', 'alopecia']",13
+List moderate adverse events of ketoconazole affecting the immunological system,combination,ketoconazole,moderate,immunological,"['hypersensitivity', 'allergic conditions']",2
+Show gastrointestinal toxicities of ketoconazole with mild severity,combination,ketoconazole,mild,gastrointestinal,"['nausea', 'constipation']",2
+Show dermatological toxicities of ketoconazole with mild severity,combination,ketoconazole,mild,dermatological,"['rash pustular', 'pruritus', 'rash']",3
+Show cardiovascular toxicities of verapamil with severe severity,combination,verapamil,severe,cardiovascular,"['cardiac arrest', 'myocardial infarction']",2
+What moderate dermatological side effects does verapamil cause?,combination,verapamil,moderate,dermatological,"['dermatitis', 'urticaria', 'alopecia']",3
+Show immunological toxicities of verapamil with moderate severity,combination,verapamil,moderate,immunological,"['hypersensitivity', 'vasculitis']",2
+Show cardiovascular toxicities of verapamil with moderate severity,combination,verapamil,moderate,cardiovascular,"['hypotension', 'hypotension symptomatic', 'angina pectoris', 'hypertension', 'orthostatic hypotension', 'hypotension asymptomatic', 'palpitations', 'cardiac flutter', 'cardiac failure']",9
+What mild dermatological side effects does verapamil cause?,combination,verapamil,mild,dermatological,"['pruritus', 'rash maculo-papular', 'rash']",3
+Show cardiovascular toxicities of phentolamine with severe severity,combination,phentolamine,severe,cardiovascular,['myocardial infarction'],1
+List moderate adverse events of phentolamine affecting the gastrointestinal system,combination,phentolamine,moderate,gastrointestinal,"['vomiting', 'abdominal pain upper', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",5
+Show cardiovascular toxicities of phentolamine with moderate severity,combination,phentolamine,moderate,cardiovascular,"['cardiac disorder', 'hypotension', 'angina pectoris', 'hypertension', 'orthostatic hypotension', 'arrhythmia']",6
+Show gastrointestinal toxicities of phentolamine with mild severity,combination,phentolamine,mild,gastrointestinal,['nausea'],1
+What mild neurological side effects does phentolamine cause?,combination,phentolamine,mild,neurological,"['dizziness', 'headache']",2
+Show gastrointestinal toxicities of methsuximide with moderate severity,combination,methsuximide,moderate,gastrointestinal,"['vomiting', 'gastrointestinal symptom nos', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",5
+Show neurological toxicities of methsuximide with moderate severity,combination,methsuximide,moderate,neurological,['ataxia'],1
+What moderate psychiatric side effects does methsuximide cause?,combination,methsuximide,moderate,psychiatric,"['confusional state', 'suicidal behaviour', 'hallucination, auditory']",3
+Show gastrointestinal toxicities of methsuximide with mild severity,combination,methsuximide,mild,gastrointestinal,"['nausea', 'constipation']",2
+What mild neurological side effects does methsuximide cause?,combination,methsuximide,mild,neurological,"['dizziness', 'headache']",2
+What mild psychiatric side effects does methsuximide cause?,combination,methsuximide,mild,psychiatric,['insomnia'],1
+Show gastrointestinal toxicities of nafcillin with moderate severity,combination,nafcillin,moderate,gastrointestinal,"['vomiting', 'abdominal discomfort', 'pseudomembranous colitis', 'gastrointestinal tract irritation', 'gastrointestinal pain', 'gastrointestinal disorder', 'reaction gastrointestinal', 'abdominal pain']",8
+List moderate adverse events of nafcillin affecting the immunological system,combination,nafcillin,moderate,immunological,['hypersensitivity'],1
+List moderate adverse events of nafcillin affecting the musculoskeletal system,combination,nafcillin,moderate,musculoskeletal,"['myalgia', 'arthralgia']",2
+Show gastrointestinal toxicities of nafcillin with mild severity,combination,nafcillin,mild,gastrointestinal,['nausea'],1
+Show gastrointestinal toxicities of lithium with moderate severity,combination,lithium,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal discomfort', 'gastrointestinal discomfort', 'gastritis', 'gastrointestinal symptom nos', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",9
+What moderate dermatological side effects does lithium cause?,combination,lithium,moderate,dermatological,"['dermatitis', 'skin ulcer', 'pustular psoriasis', 'skin xerosis', 'psoriasis flare-up', 'skin disorder', 'alopecia', 'dry skin', 'psoriasis']",9
+List moderate adverse events of lithium affecting the cardiovascular system,combination,lithium,moderate,cardiovascular,"['arrhythmia', 'benign intracranial hypertension', 'hypotension', 'sinus arrhythmia']",4
+What mild gastrointestinal side effects does lithium cause?,combination,lithium,mild,gastrointestinal,['nausea'],1
+Show dermatological toxicities of lithium with mild severity,combination,lithium,mild,dermatological,"['pruritus', 'pruritus generalised', 'rash']",3
+List severe adverse events of amitriptyline affecting the cardiovascular system,combination,amitriptyline,severe,cardiovascular,['myocardial infarction'],1
+What moderate dermatological side effects does amitriptyline cause?,combination,amitriptyline,moderate,dermatological,"['dermatitis', 'tardive dyskinesia', 'urticaria', 'dyskinesia', 'alopecia']",5
+What moderate psychiatric side effects does amitriptyline cause?,combination,amitriptyline,moderate,psychiatric,"['bone marrow depression', 'agitation', 'hallucination', 'anxiety', 'mania', 'hypomania', 'confusional state']",7
+What moderate cardiovascular side effects does amitriptyline cause?,combination,amitriptyline,moderate,cardiovascular,"['hypotension', 'hypertension', 'orthostatic hypotension', 'palpitations', 'arrhythmia', 'block heart']",6
+What mild dermatological side effects does amitriptyline cause?,combination,amitriptyline,mild,dermatological,"['pruritus', 'rash']",2
+List mild adverse events of amitriptyline affecting the psychiatric system,combination,amitriptyline,mild,psychiatric,['insomnia'],1
+List moderate adverse events of lanthanum affecting the gastrointestinal system,combination,lanthanum,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal pain', 'gastrointestinal pain']",4
+List moderate adverse events of lanthanum affecting the cardiovascular system,combination,lanthanum,moderate,cardiovascular,['hypotension'],1
+List mild adverse events of lanthanum affecting the gastrointestinal system,combination,lanthanum,mild,gastrointestinal,"['nausea', 'constipation']",2
+List mild adverse events of lanthanum affecting the neurological system,combination,lanthanum,mild,neurological,['headache'],1
+List moderate adverse events of fosamprenavir affecting the gastrointestinal system,combination,fosamprenavir,moderate,gastrointestinal,"['vomiting', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'reaction gastrointestinal', 'abdominal pain']",6
+Show immunological toxicities of fosamprenavir with moderate severity,combination,fosamprenavir,moderate,immunological,"['hypersensitivity', 'autoimmune disorder', 'drug hypersensitivity']",3
+What moderate endocrine side effects does fosamprenavir cause?,combination,fosamprenavir,moderate,endocrine,"['insulin resistance', 'diabetes mellitus']",2
+List mild adverse events of fosamprenavir affecting the gastrointestinal system,combination,fosamprenavir,mild,gastrointestinal,['nausea'],1
+What moderate gastrointestinal side effects does sodium cause?,combination,sodium,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal bloating', 'abdominal cramps', 'intestinal obstruction', 'gastric irritation', 'abdominal pain upper', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain', 'fullness abdominal', 'intestinal perforation', 'epigastric discomfort']",14
+What moderate immunological side effects does sodium cause?,combination,sodium,moderate,immunological,"['hypersensitivity', 'type i hypersensitivity', 'lupus erythematosus', 'systemic lupus erythematosus', 'vasculitis']",5
+List moderate adverse events of sodium affecting the psychiatric system,combination,sodium,moderate,psychiatric,"['confusional state', 'hallucination', 'anxiety', 'agitation']",4
+What mild gastrointestinal side effects does sodium cause?,combination,sodium,mild,gastrointestinal,"['nausea', 'constipation']",2
+List mild adverse events of sodium affecting the psychiatric system,combination,sodium,mild,psychiatric,['insomnia'],1
+List moderate adverse events of labetalol affecting the gastrointestinal system,combination,labetalol,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal pain upper', 'epigastric pain', 'gastrointestinal pain', 'colitis ischaemic', 'abdominal pain']",7
+Show cardiovascular toxicities of labetalol with moderate severity,combination,labetalol,moderate,cardiovascular,"['hypotension orthostatic symptomatic', 'hypotension', 'mesenteric artery thrombosis', 'ventricular arrhythmia', 'angina pectoris', 'hypertension', 'orthostatic hypotension', 'palpitations', 'cardiac failure', 'block heart']",10
+Show respiratory toxicities of labetalol with moderate severity,combination,labetalol,moderate,respiratory,"['bronchospasm', 'respiratory distress']",2
+List mild adverse events of labetalol affecting the gastrointestinal system,combination,labetalol,mild,gastrointestinal,"['nausea', 'constipation']",2
+Show ocular toxicities of fluorometholone with moderate severity,combination,fluorometholone,moderate,ocular,"['cataract', 'cataract subcapsular', 'vision blurred', 'posterior subcapsular cataract', 'conjunctivitis']",5
+List moderate adverse events of fluorometholone affecting the dermatological system,combination,fluorometholone,moderate,dermatological,['dermatitis'],1
+What moderate immunological side effects does fluorometholone cause?,combination,fluorometholone,moderate,immunological,['hypersensitivity'],1
+Show dermatological toxicities of fluorometholone with mild severity,combination,fluorometholone,mild,dermatological,"['eye pruritus', 'rash']",2
+List moderate adverse events of oxiconazole affecting the dermatological system,combination,oxiconazole,moderate,dermatological,"['dermatitis', 'dermatitis contact', 'allergic contact dermatitis', 'dyshidrotic eczema']",4
+List mild adverse events of oxiconazole affecting the dermatological system,combination,oxiconazole,mild,dermatological,"['pruritus', 'rash']",2
+List moderate adverse events of atovaquone affecting the gastrointestinal system,combination,atovaquone,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",5
+What moderate psychiatric side effects does atovaquone cause?,combination,atovaquone,moderate,psychiatric,['anxiety'],1
+List moderate adverse events of atovaquone affecting the respiratory system,combination,atovaquone,moderate,respiratory,"['bronchospasm', 'cough', 'cough increased']",3
+What mild gastrointestinal side effects does atovaquone cause?,combination,atovaquone,mild,gastrointestinal,"['nausea', 'constipation']",2
+What mild psychiatric side effects does atovaquone cause?,combination,atovaquone,mild,psychiatric,['insomnia'],1
+What moderate immunological side effects does d-telaprevir cause?,combination,d-telaprevir,moderate,immunological,['autoimmune disorder'],1
+Show dermatological toxicities of d-telaprevir with moderate severity,combination,d-telaprevir,moderate,dermatological,"['dermatitis', 'eczema', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'skin disorder']",5
+List moderate adverse events of d-telaprevir affecting the gastrointestinal system,combination,d-telaprevir,moderate,gastrointestinal,"['vomiting', 'gastrointestinal disorder']",2
+What mild dermatological side effects does d-telaprevir cause?,combination,d-telaprevir,mild,dermatological,"['pruritus', 'pruritus genital', 'exfoliative rash', 'rash', 'anal pruritus']",5
+What mild gastrointestinal side effects does d-telaprevir cause?,combination,d-telaprevir,mild,gastrointestinal,['nausea'],1
+Show cardiovascular toxicities of acetylcholine with moderate severity,combination,acetylcholine,moderate,cardiovascular,['hypotension'],1
+Show gastrointestinal toxicities of moxonidine with moderate severity,combination,moxonidine,moderate,gastrointestinal,"['abdominal pain', 'gastrointestinal pain']",2
+Show psychiatric toxicities of moxonidine with moderate severity,combination,moxonidine,moderate,psychiatric,['anxiety'],1
+What moderate neurological side effects does moxonidine cause?,combination,moxonidine,moderate,neurological,['vertigo'],1
+List mild adverse events of moxonidine affecting the gastrointestinal system,combination,moxonidine,mild,gastrointestinal,['nausea'],1
+What mild psychiatric side effects does moxonidine cause?,combination,moxonidine,mild,psychiatric,['insomnia'],1
+List mild adverse events of moxonidine affecting the neurological system,combination,moxonidine,mild,neurological,"['dizziness', 'headache']",2
+Show gastrointestinal toxicities of nitric with moderate severity,combination,nitric,moderate,gastrointestinal,['gastrointestinal haemorrhage'],1
+List moderate adverse events of nitric affecting the cardiovascular system,combination,nitric,moderate,cardiovascular,"['cardiac disorder', 'hypotension']",2
+Show neurological toxicities of nitric with mild severity,combination,nitric,mild,neurological,"['dizziness', 'headache']",2
+Show gastrointestinal toxicities of anagrelide with moderate severity,combination,anagrelide,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal discomfort', 'colitis', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain', 'gastrointestinal haemorrhage', 'distress gastrointestinal']",10
+List moderate adverse events of anagrelide affecting the dermatological system,combination,anagrelide,moderate,dermatological,"['dermatitis', 'urticaria', 'skin ulcer', 'skin discolouration', 'unspecified disorder of skin and subcutaneous tissue', 'skin disorder', 'alopecia', 'photosensitivity', 'dry skin', 'photosensitivity reaction']",10
+List moderate adverse events of anagrelide affecting the immunological system,combination,anagrelide,moderate,immunological,['alveolitis allergic'],1
+Show gastrointestinal toxicities of anagrelide with mild severity,combination,anagrelide,mild,gastrointestinal,"['nausea', 'constipation']",2
+Show dermatological toxicities of anagrelide with mild severity,combination,anagrelide,mild,dermatological,"['pruritus', 'rash']",2
+What severe cardiovascular side effects does everolimus cause?,combination,everolimus,severe,cardiovascular,"['cardiac arrest', 'myocardial infarction']",2
+List moderate adverse events of everolimus affecting the gastrointestinal system,combination,everolimus,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'localised intraabdominal fluid collection', 'abdominal pain upper', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain', 'epigastric discomfort']",10
+What moderate dermatological side effects does everolimus cause?,combination,everolimus,moderate,dermatological,"['dermatitis', 'dermatitis exfoliative', 'skin lesion', 'skin papilloma', 'neoplasm skin', 'unspecified disorder of skin and subcutaneous tissue', 'skin exfoliation', 'dermatitis acneiform', 'skin disorder', 'alopecia', 'dry skin']",11
+List moderate adverse events of everolimus affecting the cardiovascular system,combination,everolimus,moderate,cardiovascular,"['cardiac disorder', 'hypotension', 'hepatic artery thrombosis', 'embolism', 'non-cardiac chest pain', 'pulmonary embolism', 'renal artery thrombosis', 'embolism venous', 'hypertension', 'angina pectoris', 'renal vein thrombosis', 'palpitations', 'cardiac failure congestive', 'cardiac failure', 'venous thromboembolism', 'thrombosis', 'graft thrombosis', 'deep vein thrombosis']",18
+Show gastrointestinal toxicities of everolimus with mild severity,combination,everolimus,mild,gastrointestinal,"['nausea', 'constipation']",2
+What mild dermatological side effects does everolimus cause?,combination,everolimus,mild,dermatological,"['pruritus', 'rash erythematous', 'rash macular', 'rash', 'rash maculo-papular', 'rash generalised', 'pruritus generalised']",7
+What moderate dermatological side effects does clobetasol cause?,combination,clobetasol,moderate,dermatological,"['dermatitis perioral', 'skin hypertrophy', 'dry skin', 'dermatitis', 'urticaria', 'allergic contact dermatitis', 'unspecified disorder of skin and subcutaneous tissue', 'dermatitis infected', 'chapped skin', 'dermatitis acneiform', 'dermatitis irritant contact', 'skin atrophy', 'skin irritation', 'skin hyperpigmentation', 'skin exfoliation', 'skin disorder', 'skin discomfort', 'skin fissures', 'skin striae', 'psoriasis flare-up', 'pain of skin', 'dermatitis contact', 'alopecia', 'skin tightness', 'psoriasis']",25
+Show immunological toxicities of clobetasol with moderate severity,combination,clobetasol,moderate,immunological,['hypersensitivity'],1
+What mild dermatological side effects does clobetasol cause?,combination,clobetasol,mild,dermatological,"['rash pustular', 'pruritus', 'application site pruritus', 'rash']",4
+List mild adverse events of clobetasol affecting the neurological system,combination,clobetasol,mild,neurological,"['dizziness', 'headache']",2
+What moderate gastrointestinal side effects does alendronate cause?,combination,alendronate,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal discomfort', 'gastrointestinal tract irritation', 'gastritis', 'gastrointestinal pain', 'abdominal distension', 'abdominal pain', 'gastric ulcer']",9
+What moderate dermatological side effects does alendronate cause?,combination,alendronate,moderate,dermatological,"['dermatitis', 'urticaria', 'alopecia', 'photosensitivity', 'dry skin', 'photosensitivity reaction']",6
+What moderate neurological side effects does alendronate cause?,combination,alendronate,moderate,neurological,['vertigo'],1
+Show gastrointestinal toxicities of alendronate with mild severity,combination,alendronate,mild,gastrointestinal,"['nausea', 'constipation']",2
+Show dermatological toxicities of alendronate with mild severity,combination,alendronate,mild,dermatological,"['pruritus', 'rash']",2
+What mild neurological side effects does alendronate cause?,combination,alendronate,mild,neurological,"['dizziness', 'headache']",2
+What moderate gastrointestinal side effects does troglitazone cause?,combination,troglitazone,moderate,gastrointestinal,"['vomiting', 'abdominal pain', 'gastrointestinal pain']",3
+List moderate adverse events of troglitazone affecting the cardiovascular system,combination,troglitazone,moderate,cardiovascular,['cardiac failure congestive'],1
+What moderate hepatobiliary side effects does troglitazone cause?,combination,troglitazone,moderate,hepatobiliary,"['hepatitis', 'hepatic function abnormal', 'jaundice', 'liver function test abnormal']",4
+List mild adverse events of troglitazone affecting the gastrointestinal system,combination,troglitazone,mild,gastrointestinal,['nausea'],1
+Show musculoskeletal toxicities of trabectedin with severe severity,combination,trabectedin,severe,musculoskeletal,['rhabdomyolysis'],1
+What moderate gastrointestinal side effects does trabectedin cause?,combination,trabectedin,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal pain upper', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",6
+List moderate adverse events of trabectedin affecting the dermatological system,combination,trabectedin,moderate,dermatological,"['dermatitis', 'skin hyperpigmentation', 'unspecified disorder of skin and subcutaneous tissue', 'skin disorder', 'alopecia']",5
+Show musculoskeletal toxicities of trabectedin with moderate severity,combination,trabectedin,moderate,musculoskeletal,"['myalgia', 'arthralgia']",2
+Show gastrointestinal toxicities of trabectedin with mild severity,combination,trabectedin,mild,gastrointestinal,"['nausea', 'constipation']",2
+What mild dermatological side effects does trabectedin cause?,combination,trabectedin,mild,dermatological,['rash'],1
+Show gastrointestinal toxicities of melatonin with moderate severity,combination,melatonin,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal discomfort', 'gastrointestinal sounds abnormal', 'gastrointestinal tract irritation', 'abdominal pain upper', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'gastric disorder', 'abdominal pain']",11
+Show cardiovascular toxicities of melatonin with moderate severity,combination,melatonin,moderate,cardiovascular,"['angina pectoris', 'cardiac disorder', 'hypertension', 'palpitations']",4
+What moderate psychiatric side effects does melatonin cause?,combination,melatonin,moderate,psychiatric,"['anxiety', 'agitation']",2
+Show gastrointestinal toxicities of melatonin with mild severity,combination,melatonin,mild,gastrointestinal,['nausea'],1
+List mild adverse events of melatonin affecting the psychiatric system,combination,melatonin,mild,psychiatric,"['terminal insomnia', 'insomnia']",2
+Show immunological toxicities of rocuronium with moderate severity,combination,rocuronium,moderate,immunological,['hypersensitivity'],1
+What moderate cardiovascular side effects does rocuronium cause?,combination,rocuronium,moderate,cardiovascular,"['hypertension', 'hypotension', 'arrhythmia', 'cardiovascular disorder']",4
+Show respiratory toxicities of rocuronium with moderate severity,combination,rocuronium,moderate,respiratory,"['bronchospasm', 'asthma', 'vascular resistance pulmonary increased', 'respiratory insufficiency']",4
+List severe adverse events of acetazolamide affecting the neurological system,combination,acetazolamide,severe,neurological,['paralysis flaccid'],1
+List moderate adverse events of acetazolamide affecting the neurological system,combination,acetazolamide,moderate,neurological,['ataxia'],1
+Show psychiatric toxicities of acetazolamide with moderate severity,combination,acetazolamide,moderate,psychiatric,"['confusional state', 'agitation']",2
+What mild neurological side effects does acetazolamide cause?,combination,acetazolamide,mild,neurological,"['dizziness', 'headache']",2
+Show cardiovascular toxicities of madopar with moderate severity,combination,madopar,moderate,cardiovascular,"['cardiovascular disorder', 'angina pectoris', 'orthostatic hypotension', 'palpitations', 'arrhythmia']",5
+What moderate psychiatric side effects does madopar cause?,combination,madopar,moderate,psychiatric,"['agitation', 'hallucination', 'anxiety', 'mania', 'confusional state']",5
+Show gastrointestinal toxicities of madopar with moderate severity,combination,madopar,moderate,gastrointestinal,"['vomiting', 'gastrointestinal disorder']",2
+Show psychiatric toxicities of madopar with mild severity,combination,madopar,mild,psychiatric,['insomnia'],1
+Show gastrointestinal toxicities of madopar with mild severity,combination,madopar,mild,gastrointestinal,"['nausea', 'constipation']",2
+Show dermatological toxicities of 5-aminolevulinic with moderate severity,combination,5-aminolevulinic,moderate,dermatological,"['dermatitis', 'urticaria', 'skin cancer', 'skin carcinoma', 'skin hyperpigmentation', 'unspecified disorder of skin and subcutaneous tissue', 'skin exfoliation', 'skin hypertrophy', 'skin disorder', 'seborrhoeic dermatitis', 'photosensitivity reaction', 'dry skin', 'photosensitivity', 'skin tightness', 'photodamaged skin']",15
+What moderate gastrointestinal side effects does 5-aminolevulinic cause?,combination,5-aminolevulinic,moderate,gastrointestinal,"['vomiting', 'gastrointestinal disorder']",2
+Show dermatological toxicities of 5-aminolevulinic with mild severity,combination,5-aminolevulinic,mild,dermatological,"['rash pustular', 'pruritus', 'rash maculo-papular', 'rash']",4
+What mild gastrointestinal side effects does 5-aminolevulinic cause?,combination,5-aminolevulinic,mild,gastrointestinal,['nausea'],1
+Show neurological toxicities of 5-aminolevulinic with mild severity,combination,5-aminolevulinic,mild,neurological,['headache'],1
+List severe adverse events of ondansetron affecting the cardiovascular system,combination,ondansetron,severe,cardiovascular,['myocardial infarction'],1
+What moderate gastrointestinal side effects does ondansetron cause?,combination,ondansetron,moderate,gastrointestinal,"['vomiting', 'gastrointestinal disorder', 'abdominal pain', 'gastrointestinal pain']",4
+Show immunological toxicities of ondansetron with moderate severity,combination,ondansetron,moderate,immunological,"['hypersensitivity', 'type i hypersensitivity']",2
+Show cardiovascular toxicities of ondansetron with moderate severity,combination,ondansetron,moderate,cardiovascular,"['cardiac disorder', 'hypotension', 'myocardial ischaemia', 'cardiovascular disorder', 'angina pectoris', 'palpitations', 'arrhythmia']",7
+Show gastrointestinal toxicities of ondansetron with mild severity,combination,ondansetron,mild,gastrointestinal,"['nausea postoperative', 'procedural nausea', 'constipation']",3
+Show gastrointestinal toxicities of sacrosidase with moderate severity,combination,sacrosidase,moderate,gastrointestinal,"['vomiting', 'abdominal pain', 'gastrointestinal pain']",3
+Show respiratory toxicities of sacrosidase with moderate severity,combination,sacrosidase,moderate,respiratory,['asthma'],1
+List mild adverse events of sacrosidase affecting the gastrointestinal system,combination,sacrosidase,mild,gastrointestinal,"['nausea', 'constipation']",2
+List mild adverse events of sacrosidase affecting the neurological system,combination,sacrosidase,mild,neurological,['headache'],1
+List moderate adverse events of clofarabine affecting the gastrointestinal system,combination,clofarabine,moderate,gastrointestinal,"['vomiting', 'colitis', 'clostridium difficile colitis', 'enterocolitis', 'abdominal pain upper', 'gastrointestinal pain', 'clostridium colitis', 'gastrointestinal disorder', 'abdominal pain', 'gastrointestinal haemorrhage']",10
+List moderate adverse events of clofarabine affecting the dermatological system,combination,clofarabine,moderate,dermatological,"['dermatitis', 'skin hyperpigmentation', 'unspecified disorder of skin and subcutaneous tissue', 'skin exfoliation', 'skin disorder', 'alopecia', 'dry skin']",7
+List moderate adverse events of clofarabine affecting the psychiatric system,combination,clofarabine,moderate,psychiatric,"['anxiety', 'agitation']",2
+What mild gastrointestinal side effects does clofarabine cause?,combination,clofarabine,mild,gastrointestinal,['nausea'],1
+What mild dermatological side effects does clofarabine cause?,combination,clofarabine,mild,dermatological,"['pruritus', 'rash erythematous', 'rash', 'rash maculo-papular', 'rash generalised']",5
+Show gastrointestinal toxicities of clopidogrel with moderate severity,combination,clopidogrel,moderate,gastrointestinal,"['vomiting', 'intestinal ulcer', 'gastrointestinal ulcer haemorrhage', 'abdominal pain upper', 'lymphocytic colitis', 'gastritis haemorrhagic', 'gastrointestinal haemorrhage', 'gastric ulcer', 'colitis', 'gastritis', 'gastric ulcer perforation', 'epigastric distress', 'intestinal perforation', 'dyspepsia', 'upper gastrointestinal symptoms', 'gastrointestinal disorder', 'abdominal distension', 'gastrointestinal pain', 'colitis microscopic', 'abdominal pain']",20
+What moderate immunological side effects does clopidogrel cause?,combination,clopidogrel,moderate,immunological,"['hypersensitivity', 'cross reactive drug hypersensitivity', 'drug-induced hypersensitivity syndrome', 'vasculitis', 'drug hypersensitivity']",5
+Show cardiovascular toxicities of clopidogrel with moderate severity,combination,clopidogrel,moderate,cardiovascular,"['hypotension', 'cardiovascular disorder', 'decompensation cardiac', 'pulmonary embolism', 'arterial thrombosis', 'angina pectoris', 'hypertension', 'atherothrombosis', 'palpitations', 'cardiac failure']",10
+What mild gastrointestinal side effects does clopidogrel cause?,combination,clopidogrel,mild,gastrointestinal,"['nausea', 'constipation']",2
+Show neurological toxicities of ascorbate with mild severity,combination,ascorbate,mild,neurological,['dizziness'],1
+Show gastrointestinal toxicities of etidronate with moderate severity,combination,etidronate,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'gastritis', 'gastrointestinal pain', 'abdominal pain']",5
+What moderate dermatological side effects does etidronate cause?,combination,etidronate,moderate,dermatological,"['dermatitis', 'urticaria', 'alopecia']",3
+Show musculoskeletal toxicities of etidronate with moderate severity,combination,etidronate,moderate,musculoskeletal,"['fracture', 'osteoporosis', 'bone pain', 'multiple fractures', 'muscle spasms', 'arthralgia']",6
+What mild gastrointestinal side effects does etidronate cause?,combination,etidronate,mild,gastrointestinal,"['nausea', 'constipation']",2
+Show dermatological toxicities of etidronate with mild severity,combination,etidronate,mild,dermatological,"['pruritus', 'rash follicular', 'rash macular', 'rash', 'rash maculo-papular']",5
+List moderate adverse events of tamsulosin affecting the gastrointestinal system,combination,tamsulosin,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'gastrointestinal pain', 'gastrointestinal disorder', 'reaction gastrointestinal', 'abdominal pain']",6
+List moderate adverse events of tamsulosin affecting the cardiovascular system,combination,tamsulosin,moderate,cardiovascular,"['hypotension orthostatic symptomatic', 'cardiac disorder', 'hypotension', 'hypertension', 'orthostatic hypotension', 'palpitations', 'arrhythmia']",7
+List moderate adverse events of tamsulosin affecting the musculoskeletal system,combination,tamsulosin,moderate,musculoskeletal,"['myalgia', 'arthralgia']",2
+Show gastrointestinal toxicities of tamsulosin with mild severity,combination,tamsulosin,mild,gastrointestinal,"['nausea', 'constipation']",2
+List moderate adverse events of gd-eob-dtpa affecting the gastrointestinal system,combination,gd-eob-dtpa,moderate,gastrointestinal,"['vomiting', 'gastrointestinal disorder', 'abdominal pain', 'gastrointestinal pain']",4
+What moderate ocular side effects does gd-eob-dtpa cause?,combination,gd-eob-dtpa,moderate,ocular,['conjunctivitis'],1
+Show respiratory toxicities of gd-eob-dtpa with moderate severity,combination,gd-eob-dtpa,moderate,respiratory,"['cough', 'respiratory distress']",2
+List mild adverse events of gd-eob-dtpa affecting the gastrointestinal system,combination,gd-eob-dtpa,mild,gastrointestinal,['nausea'],1
+What severe cardiovascular side effects does isoproterenol cause?,combination,isoproterenol,severe,cardiovascular,['cardiac arrest'],1
+What moderate cardiovascular side effects does isoproterenol cause?,combination,isoproterenol,moderate,cardiovascular,"['tachyarrhythmia', 'hypotension', 'ventricular arrhythmia', 'angina pectoris', 'hypertension', 'palpitations', 'arrhythmia']",7
+List moderate adverse events of isoproterenol affecting the respiratory system,combination,isoproterenol,moderate,respiratory,"['bronchospasm', 'pulmonary oedema']",2
+Show neurological toxicities of isoproterenol with moderate severity,combination,isoproterenol,moderate,neurological,"['vertigo', 'tremor']",2
+Show neurological toxicities of isoproterenol with mild severity,combination,isoproterenol,mild,neurological,"['dizziness', 'headache']",2
+What severe cardiovascular side effects does nilotinib cause?,combination,nilotinib,severe,cardiovascular,['myocardial infarction'],1
+Show gastrointestinal toxicities of nilotinib with moderate severity,combination,nilotinib,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal discomfort', 'enterocolitis', 'abdominal pain upper', 'gastritis', 'gastrointestinal ulcer perforation', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain', 'gastrointestinal haemorrhage', 'gastric ulcer']",13
+Show dermatological toxicities of nilotinib with moderate severity,combination,nilotinib,moderate,dermatological,"['skin ulcer', 'skin hypertrophy', 'photosensitivity reaction', 'dry skin', 'dermatitis', 'eczema', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'skin atrophy', 'dermatitis bullous', 'skin discolouration', 'skin hyperpigmentation', 'skin exfoliation', 'skin disorder', 'photosensitivity', 'skin papilloma', 'pain of skin', 'alopecia', 'psoriasis']",19
+List moderate adverse events of nilotinib affecting the cardiovascular system,combination,nilotinib,moderate,cardiovascular,"['cardiac disorder', 'hypotension', 'arrhythmia', 'non-cardiac chest pain', 'angina pectoris', 'cardiac murmur', 'hypertension', 'pulmonary hypertension', 'palpitations', 'cardiac flutter', 'cardiac failure', 'thrombosis']",12
+Show gastrointestinal toxicities of nilotinib with mild severity,combination,nilotinib,mild,gastrointestinal,"['nausea', 'constipation']",2
+What mild dermatological side effects does nilotinib cause?,combination,nilotinib,mild,dermatological,"['eye pruritus', 'pruritus', 'exfoliative rash', 'rash']",4
+What moderate gastrointestinal side effects does fotemustine cause?,combination,fotemustine,moderate,gastrointestinal,"['vomiting', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain', 'gastrointestinal toxicity']",5
+What moderate hepatobiliary side effects does fotemustine cause?,combination,fotemustine,moderate,hepatobiliary,"['hepatitis', 'hepatobiliary disease']",2
+What moderate hematological side effects does fotemustine cause?,combination,fotemustine,moderate,hematological,"['thrombocytopenia', 'pancytopenia', 'leukopenia']",3
+What mild gastrointestinal side effects does fotemustine cause?,combination,fotemustine,mild,gastrointestinal,['nausea'],1
+Show cardiovascular toxicities of donepezil with severe severity,combination,donepezil,severe,cardiovascular,['myocardial infarction'],1
+List moderate adverse events of donepezil affecting the gastrointestinal system,combination,donepezil,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal bloating', 'abdominal discomfort', 'epigastric distress', 'functional gastrointestinal disorder', 'abdominal pain upper', 'epigastric pain', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain', 'gastrointestinal haemorrhage', 'gastric ulcer']",15
+List moderate adverse events of donepezil affecting the dermatological system,combination,donepezil,moderate,dermatological,"['dermatitis', 'fungal skin infection', 'eczema', 'urticaria', 'skin ulcer', 'skin discolouration', 'dermatitis bullous', 'alopecia', 'dry skin', 'skin laceration', 'neurodermatitis', 'skin striae', 'psoriasis']",13
+What moderate cardiovascular side effects does donepezil cause?,combination,donepezil,moderate,cardiovascular,"['hypotension', 'angina pectoris', 'hypertension', 'orthostatic hypotension', 'cardiac failure congestive', 'cardiac failure', 'arrhythmia', 'block heart', 'deep vein thrombosis']",9
+Show gastrointestinal toxicities of donepezil with mild severity,combination,donepezil,mild,gastrointestinal,"['nausea', 'constipation']",2
+Show dermatological toxicities of donepezil with mild severity,combination,donepezil,mild,dermatological,"['rash pustular', 'pruritus', 'vesiculobullous rash', 'rash']",4
+Show gastrointestinal toxicities of atorvastatin with moderate severity,combination,atorvastatin,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal discomfort', 'colitis', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain', 'gastric ulcer']",9
+Show dermatological toxicities of atorvastatin with moderate severity,combination,atorvastatin,moderate,dermatological,"['dermatitis', 'eczema', 'urticaria', 'skin ulcer', 'unspecified disorder of skin and subcutaneous tissue', 'skin disorder', 'dermatitis contact', 'alopecia', 'dry skin', 'seborrhoeic dermatitis', 'photosensitivity reaction']",11
+What moderate immunological side effects does atorvastatin cause?,combination,atorvastatin,moderate,immunological,['hypersensitivity'],1
+List mild adverse events of atorvastatin affecting the gastrointestinal system,combination,atorvastatin,mild,gastrointestinal,"['nausea', 'constipation']",2
+List mild adverse events of atorvastatin affecting the dermatological system,combination,atorvastatin,mild,dermatological,"['pruritus', 'rash']",2
+List moderate adverse events of isoniazid affecting the hepatobiliary system,combination,isoniazid,moderate,hepatobiliary,"['hepatocellular injury', 'hepatitis', 'hepatitis symptom', 'liver injury', 'jaundice', 'hepatic function abnormal']",6
+List moderate adverse events of isoniazid affecting the immunological system,combination,isoniazid,moderate,immunological,"['hypersensitivity', 'vasculitis', 'systemic lupus erythematosus']",3
+What moderate gastrointestinal side effects does isoniazid cause?,combination,isoniazid,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'gastrointestinal disorder', 'reaction gastrointestinal', 'epigastric distress']",5
+List mild adverse events of isoniazid affecting the gastrointestinal system,combination,isoniazid,mild,gastrointestinal,['nausea'],1
+What severe cardiovascular side effects does desflurane cause?,combination,desflurane,severe,cardiovascular,"['cardiac arrest', 'myocardial infarction']",2
+What moderate gastrointestinal side effects does desflurane cause?,combination,desflurane,moderate,gastrointestinal,"['vomiting', 'gastrointestinal disorder', 'abdominal pain', 'gastrointestinal pain']",4
+What moderate cardiovascular side effects does desflurane cause?,combination,desflurane,moderate,cardiovascular,"['cardiac disorder', 'malignant hypertension', 'hypotension', 'tachyarrhythmia', 'myocardial ischaemia', 'nodal arrhythmia', 'hypertension', 'palpitations', 'arrhythmia']",9
+Show respiratory toxicities of desflurane with moderate severity,combination,desflurane,moderate,respiratory,"['bronchospasm', 'respiratory arrest', 'respiratory distress', 'pulmonary function test decreased', 'asthma', 'hypoxia', 'cough', 'cough increased']",8
+Show gastrointestinal toxicities of desflurane with mild severity,combination,desflurane,mild,gastrointestinal,['nausea'],1
+What moderate immunological side effects does cetrorelix cause?,combination,cetrorelix,moderate,immunological,['hypersensitivity'],1
+Show neurological toxicities of cetrorelix with mild severity,combination,cetrorelix,mild,neurological,['headache'],1
+What moderate gastrointestinal side effects does cefepime cause?,combination,cefepime,moderate,gastrointestinal,"['vomiting', 'pseudomembranous colitis', 'colitis', 'gastrointestinal symptom nos', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal infection', 'abdominal pain']",8
+What moderate immunological side effects does cefepime cause?,combination,cefepime,moderate,immunological,['hypersensitivity'],1
+List moderate adverse events of cefepime affecting the hepatobiliary system,combination,cefepime,moderate,hepatobiliary,"['hepatic impairment', 'liver disorder', 'hepatic failure', 'cholestasis', 'hepatic function abnormal']",5
+List mild adverse events of cefepime affecting the gastrointestinal system,combination,cefepime,mild,gastrointestinal,"['nausea', 'constipation']",2
+Show gastrointestinal toxicities of raloxifene with moderate severity,combination,raloxifene,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'gastrointestinal symptom nos', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain']",6
+List moderate adverse events of raloxifene affecting the musculoskeletal system,combination,raloxifene,moderate,musculoskeletal,"['tendon disorder', 'myalgia', 'muscle spasms', 'arthralgia']",4
+List moderate adverse events of raloxifene affecting the ocular system,combination,raloxifene,moderate,ocular,['conjunctivitis'],1
+Show gastrointestinal toxicities of raloxifene with mild severity,combination,raloxifene,mild,gastrointestinal,['nausea'],1
+List moderate adverse events of erlotinib affecting the gastrointestinal system,combination,erlotinib,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'colitis', 'gastrointestinal perforation', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal pain', 'intestinal perforation', 'gastrointestinal haemorrhage']",10
+What moderate dermatological side effects does erlotinib cause?,combination,erlotinib,moderate,dermatological,"['dermatitis', 'skin hyperpigmentation', 'unspecified disorder of skin and subcutaneous tissue', 'skin exfoliation', 'dermatitis acneiform', 'skin disorder', 'alopecia', 'dry skin', 'skin fissures', 'dermatitis bullous']",10
+Show psychiatric toxicities of erlotinib with moderate severity,combination,erlotinib,moderate,psychiatric,"['depression', 'anxiety']",2
+Show gastrointestinal toxicities of erlotinib with mild severity,combination,erlotinib,mild,gastrointestinal,"['nausea', 'constipation']",2
+Show dermatological toxicities of erlotinib with mild severity,combination,erlotinib,mild,dermatological,"['rash pustular', 'pruritus', 'rash', 'papulopustular rash']",4
+What mild psychiatric side effects does erlotinib cause?,combination,erlotinib,mild,psychiatric,['insomnia'],1
+Show neurological toxicities of iodipamide with moderate severity,combination,iodipamide,moderate,neurological,['tremor'],1
+What moderate immunological side effects does iodipamide cause?,combination,iodipamide,moderate,immunological,['hypersensitivity'],1
+Show cardiovascular toxicities of iodipamide with moderate severity,combination,iodipamide,moderate,cardiovascular,['hypotension'],1
+List mild adverse events of iodipamide affecting the neurological system,combination,iodipamide,mild,neurological,"['dizziness', 'headache']",2
+What moderate gastrointestinal side effects does bile cause?,combination,bile,moderate,gastrointestinal,['gastrointestinal disorder'],1
+What moderate hepatobiliary side effects does bile cause?,combination,bile,moderate,hepatobiliary,"['hepatobiliary disease', 'jaundice']",2
+List moderate adverse events of bile affecting the neurological system,combination,bile,moderate,neurological,['neuropathy peripheral'],1
+Show gastrointestinal toxicities of bile with mild severity,combination,bile,mild,gastrointestinal,['nausea'],1
+What moderate psychiatric side effects does methazolamide cause?,combination,methazolamide,moderate,psychiatric,"['bone marrow depression', 'confusional state']",2
+What moderate dermatological side effects does methazolamide cause?,combination,methazolamide,moderate,dermatological,"['dermatitis', 'photosensitivity', 'urticaria', 'photosensitivity reaction']",4
+Show dermatological toxicities of methazolamide with mild severity,combination,methazolamide,mild,dermatological,['rash'],1
+What severe cardiovascular side effects does mirtazapine cause?,combination,mirtazapine,severe,cardiovascular,['myocardial infarction'],1
+List moderate adverse events of mirtazapine affecting the gastrointestinal system,combination,mirtazapine,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'intestinal obstruction', 'colitis', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain']",9
+Show dermatological toxicities of mirtazapine with moderate severity,combination,mirtazapine,moderate,dermatological,"['dermatitis', 'dermatitis exfoliative', 'urticaria', 'skin ulcer', 'unspecified disorder of skin and subcutaneous tissue', 'dyskinesia', 'skin hypertrophy', 'skin disorder', 'alopecia', 'seborrhoeic dermatitis', 'dry skin', 'photosensitivity reaction', 'dermatitis bullous']",13
+What moderate cardiovascular side effects does mirtazapine cause?,combination,mirtazapine,moderate,cardiovascular,"['arrhythmia supraventricular', 'cardiac disorder', 'hypotension', 'orthostatic hypertension', 'thromboembolism', 'embolism', 'pulmonary embolism', 'ventricular arrhythmia', 'hypertension', 'angina pectoris', 'orthostatic hypotension', 'palpitations', 'atrial arrhythmia', 'embolism venous', 'arrhythmia']",15
+What mild gastrointestinal side effects does mirtazapine cause?,combination,mirtazapine,mild,gastrointestinal,"['nausea', 'constipation']",2
+Show dermatological toxicities of mirtazapine with mild severity,combination,mirtazapine,mild,dermatological,"['pruritus', 'rash']",2
+Show gastrointestinal toxicities of asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2 with moderate severity,combination,asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2,moderate,gastrointestinal,"['vomiting', 'abdominal cramps', 'abdominal discomfort', 'delayed gastric emptying', 'abdominal pain upper', 'abdominal pain', 'impaired gastric emptying']",7
+What moderate dermatological side effects does asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2 cause?,combination,asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2,moderate,dermatological,['dermatitis'],1
+List mild adverse events of asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2 affecting the gastrointestinal system,combination,asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2,mild,gastrointestinal,['nausea'],1
+What mild neurological side effects does asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2 cause?,combination,asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2,mild,neurological,"['dizziness', 'headache']",2
+List mild adverse events of asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2 affecting the dermatological system,combination,asp-tyr(so3h)-met-gly-trp-met-asp-phe-nh2,mild,dermatological,['rash'],1
+What moderate gastrointestinal side effects does diclofenac cause?,combination,diclofenac,moderate,gastrointestinal,"['vomiting', 'abdominal cramps', 'intestinal ulcer', 'abdominal pain upper', 'gastrointestinal symptom nos', 'gastrointestinal haemorrhage', 'gastric ph decreased', 'colitis', 'enterocolitis haemorrhagic', 'gastritis', 'intestinal diaphragm disease', 'hemorrhagic colitis', 'gastrointestinal ulcer', 'intestinal perforation', 'dyspepsia', 'gastrointestinal disorder', 'abdominal distension', 'abdominal discomfort', 'epigastric pain', 'proctocolitis', 'gastrointestinal pain', 'colitis ulcerative', 'abdominal pain']",23
+Show dermatological toxicities of diclofenac with moderate severity,combination,diclofenac,moderate,dermatological,"['skin ulcer', 'skin burning sensation', 'skin hypertrophy', 'seborrhoeic dermatitis', 'photosensitivity reaction', 'dry skin', 'skin odour abnormal', 'dermatitis', 'eczema', 'urticaria', 'allergic skin reaction', 'unspecified disorder of skin and subcutaneous tissue', 'skin nodule', 'dermatitis bullous', 'skin irritation', 'skin cancer', 'skin discolouration', 'dermatitis atopic', 'skin exfoliation', 'skin disorder', 'photosensitivity', 'dermatitis exfoliative', 'skin carcinoma', 'skin mass', 'dermatitis contact', 'alopecia']",26
+What moderate immunological side effects does diclofenac cause?,combination,diclofenac,moderate,immunological,"['hypersensitivity', 'conjunctivitis allergic', 'allergic conditions', 'vasculitis']",4
+List mild adverse events of diclofenac affecting the gastrointestinal system,combination,diclofenac,mild,gastrointestinal,"['nausea', 'constipation']",2
+What mild dermatological side effects does diclofenac cause?,combination,diclofenac,mild,dermatological,"['application site rash', 'pruritus', 'purpuric rash', 'vesiculobullous rash', 'rash', 'application site pruritus', 'eye pruritus', 'rash maculo-papular', 'rash pustular', 'eyelids pruritus']",10
+List moderate adverse events of loteprednol affecting the ocular system,combination,loteprednol,moderate,ocular,"['cataract subcapsular', 'vision blurred', 'abnormal vision', 'keratoconjunctivitis', 'posterior subcapsular cataract', 'conjunctivitis']",6
+What mild neurological side effects does loteprednol cause?,combination,loteprednol,mild,neurological,['headache'],1
+Show dermatological toxicities of loteprednol with mild severity,combination,loteprednol,mild,dermatological,['pruritus'],1
+Show gastrointestinal toxicities of dexamethasone with moderate severity,combination,dexamethasone,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain']",6
+What moderate psychiatric side effects does dexamethasone cause?,combination,dexamethasone,moderate,psychiatric,"['suicidal ideation', 'hallucination', 'mania', 'anxiety']",4
+List moderate adverse events of dexamethasone affecting the musculoskeletal system,combination,dexamethasone,moderate,musculoskeletal,"['fracture', 'osteoporosis', 'spinal compression fracture', 'muscle mass', 'myalgia', 'tendon rupture', 'muscle atrophy', 'joint instability', 'multiple fractures', 'arthralgia']",10
+List mild adverse events of dexamethasone affecting the gastrointestinal system,combination,dexamethasone,mild,gastrointestinal,['nausea'],1
+What mild psychiatric side effects does dexamethasone cause?,combination,dexamethasone,mild,psychiatric,['insomnia'],1
+Show gastrointestinal toxicities of rapamycin with moderate severity,combination,rapamycin,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'enterocolitis', 'gastritis', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain']",8
+What moderate psychiatric side effects does rapamycin cause?,combination,rapamycin,moderate,psychiatric,"['confusional state', 'hallucination', 'anxiety', 'agitation']",4
+Show musculoskeletal toxicities of rapamycin with moderate severity,combination,rapamycin,moderate,musculoskeletal,"['bone disorder', 'muscle spasms', 'osteoporosis', 'myalgia', 'bone pain', 'muscle relaxant therapy', 'arthralgia']",7
+What mild gastrointestinal side effects does rapamycin cause?,combination,rapamycin,mild,gastrointestinal,"['nausea', 'constipation']",2
+List mild adverse events of rapamycin affecting the psychiatric system,combination,rapamycin,mild,psychiatric,['insomnia'],1
+List moderate adverse events of vincristine affecting the gastrointestinal system,combination,vincristine,moderate,gastrointestinal,"['vomiting', 'abdominal cramps', 'intestinal obstruction', 'intestinal necrosis', 'gastrointestinal pain', 'gastrointestinal disorder', 'gastrointestinal necrosis', 'abdominal colic', 'abdominal pain']",9
+What moderate renal side effects does vincristine cause?,combination,vincristine,moderate,renal,"['urinary tract disorder', 'urinary retention', 'urate nephropathy', 'atonic urinary bladder', 'adrenal disorder']",5
+What moderate dermatological side effects does vincristine cause?,combination,vincristine,moderate,dermatological,"['dermatitis', 'alopecia', 'photosensitivity reaction']",3
+What mild gastrointestinal side effects does vincristine cause?,combination,vincristine,mild,gastrointestinal,"['nausea', 'constipation']",2
+List mild adverse events of vincristine affecting the dermatological system,combination,vincristine,mild,dermatological,['rash'],1
+List moderate adverse events of medroxyprogesterone affecting the gastrointestinal system,combination,medroxyprogesterone,moderate,gastrointestinal,"['vomiting', 'dyspepsia', 'abdominal discomfort', 'abdominal bloating', 'abdominal pain lower', 'abdominal cramps', 'abdominal distress', 'intestinal infarction', 'gastrointestinal pain', 'gastrointestinal disorder', 'abdominal distension', 'abdominal pain']",12
+Show dermatological toxicities of medroxyprogesterone with moderate severity,combination,medroxyprogesterone,moderate,dermatological,"['dermatitis', 'urticaria', 'unspecified disorder of skin and subcutaneous tissue', 'skin disorder', 'alopecia', 'dry skin', 'dermatitis hemorrhagic', 'skin odour abnormal']",8
+What moderate immunological side effects does medroxyprogesterone cause?,combination,medroxyprogesterone,moderate,immunological,['hypersensitivity'],1
+Show gastrointestinal toxicities of medroxyprogesterone with mild severity,combination,medroxyprogesterone,mild,gastrointestinal,"['nausea', 'constipation']",2
+List mild adverse events of medroxyprogesterone affecting the dermatological system,combination,medroxyprogesterone,mild,dermatological,"['pruritus', 'rash', 'vulvovaginal pruritus', 'pruritus vulvae', 'rash generalised']",5

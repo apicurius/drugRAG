@@ -1,0 +1,12 @@
+query,query_type,drug,mechanism,requires_mechanism_data
+Which aspirin side effects result from cox inhibition?,mechanistic,aspirin,cox_inhibition,True
+Which ibuprofen side effects result from cox inhibition?,mechanistic,ibuprofen,cox_inhibition,True
+What side effects of celecoxib are due to cox inhibition?,mechanistic,celecoxib,cox_inhibition,True
+Which ssris side effects result from serotonin modulation?,mechanistic,ssris,serotonin_modulation,True
+Which snris side effects result from serotonin modulation?,mechanistic,snris,serotonin_modulation,True
+What side effects of triptans are due to serotonin modulation?,mechanistic,triptans,serotonin_modulation,True
+What side effects of antipsychotics are due to dopamine antagonism?,mechanistic,antipsychotics,dopamine_antagonism,True
+Which metoclopramide side effects result from dopamine antagonism?,mechanistic,metoclopramide,dopamine_antagonism,True
+What side effects of antihistamines are due to anticholinergic?,mechanistic,antihistamines,anticholinergic,True
+What side effects of tricyclics are due to anticholinergic?,mechanistic,tricyclics,anticholinergic,True
+What side effects of antispasmodics are due to anticholinergic?,mechanistic,antispasmodics,anticholinergic,True

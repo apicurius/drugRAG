@@ -1,0 +1,23 @@
+query,query_type,source_drug,relationship_type,requires_graph,drug_pair
+Find drugs that share side effects with atorvastatin,graph_similarity,atorvastatin,shared_effects,True,
+Find drugs that share side effects with aspirin,graph_similarity,aspirin,shared_effects,True,
+Find drugs that share side effects with atorvastatin,graph_similarity,atorvastatin,shared_effects,True,
+Find drugs that share side effects with aspirin,graph_similarity,aspirin,shared_effects,True,
+Find drugs that share side effects with lisinopril,graph_similarity,lisinopril,shared_effects,True,
+Find drugs that share side effects with ibuprofen,graph_similarity,ibuprofen,shared_effects,True,
+Find drugs that share side effects with naproxen,graph_similarity,naproxen,shared_effects,True,
+Find drugs that share side effects with metformin,graph_similarity,metformin,shared_effects,True,
+Find drugs that share side effects with sertraline,graph_similarity,sertraline,shared_effects,True,
+Find drugs that share side effects with aspirin,graph_similarity,aspirin,shared_effects,True,
+Find drugs that share side effects with amlodipine,graph_similarity,amlodipine,shared_effects,True,
+Find drugs that share side effects with naproxen,graph_similarity,naproxen,shared_effects,True,
+Find drugs that share side effects with ibuprofen,graph_similarity,ibuprofen,shared_effects,True,
+Find drugs that share side effects with warfarin,graph_similarity,warfarin,shared_effects,True,
+Find drugs that share side effects with fluoxetine,graph_similarity,fluoxetine,shared_effects,True,
+Find drugs that share side effects with naproxen,graph_similarity,naproxen,shared_effects,True,
+What cascade effects can occur with warfarin?,graph_cascade,warfarin,cascade,True,
+What cascade effects can occur with aspirin?,graph_cascade,aspirin,cascade,True,
+What cascade effects can occur with metformin?,graph_cascade,metformin,cascade,True,
+What amplified risks occur when combining warfarin with aspirin?,graph_interaction,,interaction,True,"('warfarin', 'aspirin')"
+What amplified risks occur when combining ssri with maoi?,graph_interaction,,interaction,True,"('ssri', 'maoi')"
+What amplified risks occur when combining ace_inhibitor with nsaid?,graph_interaction,,interaction,True,"('ace_inhibitor', 'nsaid')"
