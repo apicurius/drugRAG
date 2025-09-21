@@ -381,27 +381,13 @@ curl http://localhost:8002/v1/models
 curl http://localhost:8003/v1/models
 ```
 
-## 📈 Performance Expectations
+## 📈 Performance Results
 
-### Binary Queries (F1 Scores)
-| Architecture | Standard | With CoT/Enhanced |
-|--------------|----------|-------------------|
-| Pure LLM | 0.55 | - |
-| Format A RAG | 0.65 | - |
-| Format B RAG | 0.72 | 0.75 |
-| GraphRAG | 0.78 | 0.85 |
-| Enhanced GraphRAG | - | 0.88 |
-| Advanced RAG Format B | - | 0.86 |
+### Binary Queries Performance
+📊 **See detailed binary evaluation results**: [EVALUATION_RESULTS_BINARY.md](EVALUATION_RESULTS_BINARY.md)
 
-### Complex Queries (F1 Scores - 3 Enhanced Architectures Only)
-| Query Type | Queries | Enhanced Format B | Enhanced GraphRAG | Advanced RAG B |
-|------------|---------|-------------------|-------------------|----------------|
-| Organ-specific | 1,244 | 0.81 | 0.83 | 0.81 |
-| Severity-filtered | 461 | 0.79 | 0.80 | 0.82 |
-| Drug comparison | 147 | 0.91 | 0.96 | 0.92 |
-| Reverse lookup | 600 | 0.87 | 0.90 | 0.88 |
-| Combination | 453 | 0.92 | 0.95 | 0.93 |
-| **Average** | **2,905** | **0.86** | **0.89** | **0.87** |
+### Complex Queries Performance
+🚧 **Complex query evaluation results coming soon**
 
 ## 🚀 Next Steps
 
