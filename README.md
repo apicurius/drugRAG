@@ -101,7 +101,7 @@ Comparison of architectures on the reverse query task (side effect → list of d
 
 Performance on binary queries ("Is [side effect] an adverse effect of [drug]?") using the full evaluation dataset.
 
-> **Source:** Latest `experiments/results_vllm_*_19520_*.json` files (Nov 25-28, 2025)
+> **Source:** `experiments/results_vllm_*_19520_*.json` files (Nov 25-28, 2025)
 
 | Architecture | Model | Accuracy | F1 Score | Precision | Sensitivity | Specificity |
 |-------------|-------|----------|----------|-----------|-------------|-------------|
@@ -136,7 +136,7 @@ System performance degradation with misspelled drug names.
 
 **Key Findings:**
 - RAG architectures fail to retrieve with misspelled drug names (drop to 50% - random guessing)
-- Pure LLM shows slight improvement with misspellings (unexpected behavior - model may guess more conservatively)
+- Pure LLM shows slight improvement with misspellings (unexpected behavior)
 - Misspelling severely impacts retrieval-based systems
 - This highlights critical need for spell correction in production systems
 
