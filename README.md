@@ -101,23 +101,23 @@ Comparison of architectures on the reverse query task (side effect → list of d
 
 Performance on binary queries ("Is [side effect] an adverse effect of [drug]?") using the full evaluation dataset.
 
-> **Source:** `experiments/metrics_*_summary.csv` files (November 2025)
+> **Source:** Latest `experiments/results_vllm_*_19520_*.json` files (Nov 25-28, 2025)
 
 | Architecture | Model | Accuracy | F1 Score | Precision | Sensitivity | Specificity |
 |-------------|-------|----------|----------|-----------|-------------|-------------|
-| GraphRAG | Qwen | 100.00% | 1.000 | 1.000 | 1.000 | 1.000 |
-| GraphRAG | Llama3 | 99.96% | 1.000 | 1.000 | 1.000 | 1.000 |
-| Format B | Qwen | 96.54% | 0.967 | 0.936 | 0.999 | 0.932 |
-| Format B | Llama3 | 95.86% | 0.960 | 0.924 | 0.999 | 0.918 |
-| Format A | Qwen | 86.70% | 0.858 | 0.919 | 0.805 | 0.929 |
-| Format A | Llama3 | 84.54% | 0.819 | 0.987 | 0.700 | 0.991 |
-| Pure LLM | Qwen | 62.90% | 0.494 | 0.776 | 0.363 | 0.895 |
-| Pure LLM | Llama3 | 63.21% | 0.534 | 0.728 | 0.422 | 0.842 |
+| GraphRAG | Qwen | 99.95% | 0.999 | 0.999 | 0.999 | 0.999 |
+| GraphRAG | Llama3 | 99.96% | 1.000 | 0.999 | 1.000 | 0.999 |
+| Format B | Qwen | 99.71% | 0.997 | 0.997 | 0.997 | 0.997 |
+| Format B | Llama3 | 98.36% | 0.983 | 0.998 | 0.970 | 0.998 |
+| Format A | Qwen | 90.86% | 0.900 | 0.997 | 0.820 | 0.997 |
+| Format A | Llama3 | 86.58% | 0.845 | 0.998 | 0.733 | 0.998 |
+| Pure LLM | Qwen | 62.93% | 0.494 | 0.777 | 0.363 | 0.896 |
+| Pure LLM | Llama3 | 63.19% | 0.535 | 0.726 | 0.423 | 0.840 |
 
 **Key Findings:**
-- **GraphRAG achieves near-perfect accuracy** with both models (100% Qwen, 99.96% Llama3)
-- Format B achieves strong performance (96.54% Qwen, 95.86% Llama3)
-- Qwen models consistently outperform Llama3 across all architectures
+- **GraphRAG achieves near-perfect accuracy** with both models (99.95% Qwen, 99.96% Llama3)
+- **Format B achieves excellent performance** (99.71% Qwen, 98.36% Llama3)
+- Format A shows good accuracy (90.86% Qwen, 86.58% Llama3)
 - Pure LLM baseline significantly underperforms (62-63% accuracy)
 - RAG architectures provide substantial improvement over pure LLM approach
 
@@ -213,17 +213,17 @@ All experiments use the following settings for reproducibility:
 
 ### Expected Performance Metrics
 
-Based on November 2025 experiments (latest results from Nov 28-29, 2025):
+Based on November 2025 experiments (latest results from Nov 25-28, 2025):
 
 **Binary Classification (19,520 Queries):**
-- GraphRAG Qwen: 100.00% accuracy, 1.000 F1 score
+- GraphRAG Qwen: 99.95% accuracy, 0.999 F1 score
 - GraphRAG Llama3: 99.96% accuracy, 1.000 F1 score
-- Format B Qwen: 96.54% accuracy, 0.967 F1 score
-- Format B Llama3: 95.86% accuracy, 0.960 F1 score
-- Format A Qwen: 86.70% accuracy, 0.858 F1 score
-- Format A Llama3: 84.54% accuracy, 0.819 F1 score
-- Pure LLM Qwen: 62.90% accuracy, 0.494 F1 score
-- Pure LLM Llama3: 63.21% accuracy, 0.534 F1 score
+- Format B Qwen: 99.71% accuracy, 0.997 F1 score
+- Format B Llama3: 98.36% accuracy, 0.983 F1 score
+- Format A Qwen: 90.86% accuracy, 0.900 F1 score
+- Format A Llama3: 86.58% accuracy, 0.845 F1 score
+- Pure LLM Qwen: 62.93% accuracy, 0.494 F1 score
+- Pure LLM Llama3: 63.19% accuracy, 0.535 F1 score
 
 **Misspelling Robustness (180 Queries):**
 - RAG systems drop to 50% accuracy (random guessing) with misspelled drug names
